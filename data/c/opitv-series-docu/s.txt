@@ -1,0 +1,11 @@
+opitv.s.9322	a of documentary films	{"id":"opitv.s.9322","type":"series","name":"A of Documentary Films","posterShape":"poster"}
+opitv.s.372	america's book of secrets	{"id":"opitv.s.372","type":"series","name":"America's Book of Secrets","poster":"https://image.tmdb.org/t/p/w500/u4l4CGzNoukLjXgvgnSladOc8Xq.jpg","posterShape":"poster"}
+opitv.s.9321	arcanum with william henry 1 2 gaia 576p	{"id":"opitv.s.9321","type":"series","name":"Arcanum with William Henry 1 2 GAIA 576p","posterShape":"poster","releaseInfo":"2014"}
+opitv.s.9323	hangar 1 the ufo files	{"id":"opitv.s.9323","type":"series","name":"hangar 1 The UFO Files","poster":"https://image.tmdb.org/t/p/w500/b7JYJGFK4aI50KxuuGphhRkIUw5.jpg","posterShape":"poster","releaseInfo":"2014"}
+opitv.s.9324	kashmir the story	{"id":"opitv.s.9324","type":"series","name":"Kashmir The Story","poster":"https://image.tmdb.org/t/p/w500/g4rxoO3b0n0TsJUj5jKnN3q4pcV.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.9325	monster quest	{"id":"opitv.s.9325","type":"series","name":"Monster Quest","poster":"https://image.tmdb.org/t/p/w500/dJOE7IftYDhIYo9j9eOboASzG7o.jpg","posterShape":"poster"}
+opitv.s.9326	quest shed and buried series 1 3	{"id":"opitv.s.9326","type":"series","name":"QUEST Shed and Buried Series 1 3","posterShape":"poster"}
+opitv.s.9327	sex explained 2020 nf 1 english h264	{"id":"opitv.s.9327","type":"series","name":"Sex Explained 2020 NF 1 English H264","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.9328	structure of space and time 1 gaia 576p	{"id":"opitv.s.9328","type":"series","name":"Structure of Space and Time 1 GAIA 576p","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.9191	tv5 monde histoires d arbres	{"id":"opitv.s.9191","type":"series","name":"TV5 Monde Histoires d arbres","posterShape":"poster"}
+opitv.s.272	ufo seekers	{"id":"opitv.s.272","type":"series","name":"UFO Seekers","poster":"https://image.tmdb.org/t/p/w500/k0I5K9geXg2vuRJthdnnuYVLrob.jpg","posterShape":"poster","releaseInfo":"2016"}

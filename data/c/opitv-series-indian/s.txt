@@ -1,0 +1,56 @@
+opitv.s.9121	animals gone wild	{"id":"opitv.s.9121","type":"series","name":"Animals Gone Wild","poster":"https://image.tmdb.org/t/p/w500/o3OWI6HSpRtPhYRQHYKmjJyGNFl.jpg","posterShape":"poster","releaseInfo":"2014"}
+opitv.s.9122	best dog india	{"id":"opitv.s.9122","type":"series","name":"Best Dog India","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.9535	bigg boss	{"id":"opitv.s.9535","type":"series","name":"Bigg Boss","poster":"https://image.tmdb.org/t/p/w500/AspHixRhWg5q8sOER7BoZ3U6xsn.jpg","posterShape":"poster","releaseInfo":"2006"}
+opitv.s.9123	bigg boss ott	{"id":"opitv.s.9123","type":"series","name":"Bigg Boss OTT","poster":"https://image.tmdb.org/t/p/w500/ev0pJtwCG0oeaQHSO2VToMEPyne.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.9124	case toh banta hai	{"id":"opitv.s.9124","type":"series","name":"Case Toh Banta Hai","poster":"https://image.tmdb.org/t/p/w500/brZ4owpIs4LNFcb9w5jPukqstnR.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.9125	chacha vidhayak hain humare	{"id":"opitv.s.9125","type":"series","name":"Chacha Vidhayak Hain Humare","poster":"https://image.tmdb.org/t/p/w500/thMrz42QAhKOvf7dZu64LVvSeS4.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.9126	chunkanu chackochan	{"id":"opitv.s.9126","type":"series","name":"Chunkanu Chackochan","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.10728	class of 2017 1 altbalaji web hd gringo	{"id":"opitv.s.10728","type":"series","name":"Class of 2017 1 AltBalaji WEB HD GRINGO","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.9127	comedy nights bachao	{"id":"opitv.s.9127","type":"series","name":"Comedy Nights Bachao","poster":"https://image.tmdb.org/t/p/w500/rGyQWDNyDkzF9sKZ33RLM3ihhNG.jpg","posterShape":"poster","releaseInfo":"2015"}
+opitv.s.9128	comedy nights with kapil	{"id":"opitv.s.9128","type":"series","name":"Comedy Nights with Kapil","poster":"https://image.tmdb.org/t/p/w500/9rScFaEadiT3r46LuT9wWOkh3fo.jpg","posterShape":"poster","releaseInfo":"2013"}
+opitv.s.10729	dance champions	{"id":"opitv.s.10729","type":"series","name":"Dance Champions","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.9129	dance deewane	{"id":"opitv.s.9129","type":"series","name":"Dance Deewane","poster":"https://image.tmdb.org/t/p/w500/qx3MU7jpWiHUTu8d4MWnyEAJY9W.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.9568	dance plus	{"id":"opitv.s.9568","type":"series","name":"Dance Plus","poster":"https://image.tmdb.org/t/p/w500/fKPIsK5bCVotGvR29UsDYmHND2O.jpg","posterShape":"poster","releaseInfo":"2015"}
+opitv.s.9130	dil diyan gallan with sonam bajwa	{"id":"opitv.s.9130","type":"series","name":"Dil Diyan Gallan with Sonam Bajwa","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.9131	dil hai hindustani	{"id":"opitv.s.9131","type":"series","name":"Dil Hai Hindustani","poster":"https://image.tmdb.org/t/p/w500/1sEVjT2AeYL3O5YTEKr5m4g78dJ.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.9132	fabulous lives of bollywood wives	{"id":"opitv.s.9132","type":"series","name":"Fabulous Lives of Bollywood Wives","poster":"https://image.tmdb.org/t/p/w500/fHruG2RrrUxdtpRVmCP5JzsfcQ0.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.9133	family full house with rohit sharma	{"id":"opitv.s.9133","type":"series","name":"Family Full House with Rohit Sharma","poster":"https://image.tmdb.org/t/p/w500/r2QZyiHYfhylzT5OWatXCu3kigI.jpg","posterShape":"poster","releaseInfo":"2026"}
+opitv.s.9134	farzi mushaira	{"id":"opitv.s.9134","type":"series","name":"Farzi Mushaira","poster":"https://image.tmdb.org/t/p/w500/w0ksdyHDLyxfL7ogwvXMrpUGbw2.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.9135	fear factor khatron ke khiladi	{"id":"opitv.s.9135","type":"series","name":"Fear Factor Khatron Ke Khiladi","poster":"https://image.tmdb.org/t/p/w500/kHXlvY8SRHmGyipgBxaTbfgEeIy.jpg","posterShape":"poster","releaseInfo":"2008"}
+opitv.s.9136	gangs of filmistan	{"id":"opitv.s.9136","type":"series","name":"Gangs of Filmistan","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.9137	hansika's love shaadi drama	{"id":"opitv.s.9137","type":"series","name":"Hansika's Love Shaadi Drama","poster":"https://image.tmdb.org/t/p/w500/wtWsuquhorCl5jbQzd2MlrDLVou.jpg","posterShape":"poster","releaseInfo":"2023"}
+opitv.s.9138	india's best dancer	{"id":"opitv.s.9138","type":"series","name":"India's Best Dancer","poster":"https://image.tmdb.org/t/p/w500/fvsP08UnMLtvWo7qUnRqG5I7blr.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.9139	india's mega kitchens	{"id":"opitv.s.9139","type":"series","name":"India's Mega Kitchens","posterShape":"poster","releaseInfo":"2015"}
+opitv.s.10730	indian army 24x7	{"id":"opitv.s.10730","type":"series","name":"Indian Army 24x7","posterShape":"poster"}
+opitv.s.9533	indian idol	{"id":"opitv.s.9533","type":"series","name":"Indian Idol","poster":"https://image.tmdb.org/t/p/w500/jCMw8httzGvjTu0NZjiclqUQD6c.jpg","posterShape":"poster","releaseInfo":"2004"}
+opitv.s.9140	indian pro music league	{"id":"opitv.s.9140","type":"series","name":"Indian Pro Music League","poster":"https://image.tmdb.org/t/p/w500/tNZwgPQVdAULjWoSQoNPVIS47ZH.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.10731	indian television academy awards	{"id":"opitv.s.10731","type":"series","name":"Indian Television Academy Awards","poster":"https://image.tmdb.org/t/p/w500/wjkuHxxSgCsD3XwB3JtAIazCStf.jpg","posterShape":"poster"}
+opitv.s.9141	irl in real love	{"id":"opitv.s.9141","type":"series","name":"IRL In Real Love","poster":"https://image.tmdb.org/t/p/w500/hi0Noo1NRCViAtCqfvmdaQqfXil.jpg","posterShape":"poster","releaseInfo":"2023"}
+opitv.s.9142	khatra khatra khatra	{"id":"opitv.s.9142","type":"series","name":"Khatra Khatra Khatra","poster":"https://image.tmdb.org/t/p/w500/2uwGHbWUSn0YvjDmv45CqIOI5dG.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.9143	koffee with karan	{"id":"opitv.s.9143","type":"series","name":"Koffee with Karan","poster":"https://image.tmdb.org/t/p/w500/xyaDqO917xzA0iQwtdMPHC5oJVV.jpg","posterShape":"poster","releaseInfo":"2004"}
+opitv.s.9144	ladies vs gentlemen	{"id":"opitv.s.9144","type":"series","name":"Ladies vs Gentlemen","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.9145	lost recipes of india	{"id":"opitv.s.9145","type":"series","name":"Lost Recipes of India","posterShape":"poster","releaseInfo":"2015"}
+opitv.s.9146	man vs wild with sunny leone	{"id":"opitv.s.9146","type":"series","name":"Man vs Wild with Sunny Leone","poster":"https://image.tmdb.org/t/p/w500/oMTCN120L9PgOumTV85p6PGIesw.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.9540	mtv floribama shore	{"id":"opitv.s.9540","type":"series","name":"MTV Floribama Shore","poster":"https://image.tmdb.org/t/p/w500/jtewRQ6HiYFvKCb3tni8LI4ndby.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.9147	mtv hustle	{"id":"opitv.s.9147","type":"series","name":"MTV Hustle","poster":"https://image.tmdb.org/t/p/w500/fhh09HqAYPyK2GZJyhlLpJBK9XJ.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.9148	mtv wild villa	{"id":"opitv.s.9148","type":"series","name":"MTV Wild Villa","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.9149	pitch to get rich	{"id":"opitv.s.9149","type":"series","name":"Pitch To Get Rich","poster":"https://image.tmdb.org/t/p/w500/6pESMJE9AgbmMJt7a0iYcFCFBQj.jpg","posterShape":"poster","releaseInfo":"2025"}
+opitv.s.9150	reality ranis of the jungle	{"id":"opitv.s.9150","type":"series","name":"Reality Ranis of the Jungle","poster":"https://image.tmdb.org/t/p/w500/dp0QqDCjOE6QU1Yk5TQqrr7cS60.jpg","posterShape":"poster","releaseInfo":"2024"}
+opitv.s.9151	sam jam	{"id":"opitv.s.9151","type":"series","name":"Sam Jam","poster":"https://image.tmdb.org/t/p/w500/bOCZzjGBXhiCpgqvvaBIzoMEiC8.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.9152	silsila sidnaaz ka	{"id":"opitv.s.9152","type":"series","name":"Silsila SidNaaz Ka","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.9153	social currency	{"id":"opitv.s.9153","type":"series","name":"Social Currency","poster":"https://image.tmdb.org/t/p/w500/xY9JEo5QaFEKl1HNQbTj72m0Ol1.jpg","posterShape":"poster","releaseInfo":"2023"}
+opitv.s.9154	star vs food	{"id":"opitv.s.9154","type":"series","name":"Star vs Food","poster":"https://image.tmdb.org/t/p/w500/4PKfjglLauwJUUqeYzAg0A5FEGj.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.9155	super dancer	{"id":"opitv.s.9155","type":"series","name":"Super Dancer","poster":"https://image.tmdb.org/t/p/w500/y6NHZ3TxXpqShmtCUu30AcMlfzE.jpg","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.9293	supermodel of the year	{"id":"opitv.s.9293","type":"series","name":"Supermodel of the year","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.9177	supersoul	{"id":"opitv.s.9177","type":"series","name":"SuperSoul","poster":"https://image.tmdb.org/t/p/w500/srBkr8VOeIeni09ndxwl2dR3BrY.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.9156	superstar singer	{"id":"opitv.s.9156","type":"series","name":"Superstar Singer","poster":"https://image.tmdb.org/t/p/w500/l5AARH4SgixBn5aU2PNsDoAWCvr.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.9157	the big picture	{"id":"opitv.s.9157","type":"series","name":"The Big Picture","poster":"https://image.tmdb.org/t/p/w500/thLyGAdf1lNwLS0dNAQS2KFm74e.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.9158	the great indian kapil show	{"id":"opitv.s.9158","type":"series","name":"The Great Indian Kapil Show","poster":"https://image.tmdb.org/t/p/w500/3KMCmGDlYLlJ8zGOhCs6f3FZcnj.jpg","posterShape":"poster","releaseInfo":"2024"}
+opitv.s.9159	the indian express stories of strength	{"id":"opitv.s.9159","type":"series","name":"The Indian Express Stories Of Strength","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.9160	the kapil sharma show	{"id":"opitv.s.9160","type":"series","name":"The Kapil Sharma Show","poster":"https://image.tmdb.org/t/p/w500/fBPNBNFmcwhYXUpkW2Kb6jbeJOR.jpg","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.9161	the khatra show	{"id":"opitv.s.9161","type":"series","name":"The Khatra Show","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.9162	the traitors	{"id":"opitv.s.9162","type":"series","name":"The Traitors","poster":"https://image.tmdb.org/t/p/w500/lZaxSsvI0GQwIfFqJDd0IRiXenb.jpg","posterShape":"poster","releaseInfo":"2025"}
+opitv.s.9294	the voice india kids	{"id":"opitv.s.9294","type":"series","name":"The Voice India Kids","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.9163	two much with kajol and twinkle	{"id":"opitv.s.9163","type":"series","name":"Two Much with Kajol and Twinkle","poster":"https://image.tmdb.org/t/p/w500/261dokXdpS1KGIqvW9hiPKx6u6G.jpg","posterShape":"poster","releaseInfo":"2025"}
+opitv.s.9164	uncommon sense with saloni	{"id":"opitv.s.9164","type":"series","name":"Uncommon Sense with Saloni","poster":"https://image.tmdb.org/t/p/w500/26NxYvYvz9as2ms1m99th4ncucR.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.9165	zee comedy show	{"id":"opitv.s.9165","type":"series","name":"Zee Comedy Show","poster":"https://image.tmdb.org/t/p/w500/3lgTqmYigfCXYNT1tKpnTHYkVzH.jpg","posterShape":"poster","releaseInfo":"2021"}
