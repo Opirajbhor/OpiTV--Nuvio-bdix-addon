@@ -604,7 +604,7 @@ opitv.s.969	love with flaws	{"id":"opitv.s.969","type":"series","name":"Love wit
 opitv.s.970	lovely horribly	{"id":"opitv.s.970","type":"series","name":"Lovely Horribly","poster":"https://image.tmdb.org/t/p/w500/z4H7HDScnXW270yFqjk7aGquNml.jpg","posterShape":"poster","releaseInfo":"2018"}
 opitv.s.971	lovely little farm	{"id":"opitv.s.971","type":"series","name":"Lovely Little Farm","poster":"https://image.tmdb.org/t/p/w500/nd05n4FDxU4tPU4HNAd7GPbbuSa.jpg","posterShape":"poster","releaseInfo":"2022"}
 opitv.s.972	lovely runner	{"id":"opitv.s.972","type":"series","name":"Lovely Runner","poster":"https://image.tmdb.org/t/p/w500/adcdNzLJ8LOjWJjNFrapXGzFco3.jpg","posterShape":"poster","releaseInfo":"2024"}
-opitv.s.973	lucifer	{"id":"opitv.s.973","type":"series","name":"Lucifer","posterShape":"poster","releaseInfo":"2015"}
+opitv.s.973	lucifer	{"id":"opitv.s.973","type":"series","name":"Lucifer","poster":"https://image.tmdb.org/t/p/w500/ekZobS8isE6mA53RAiGDG93hBxL.jpg","posterShape":"poster","releaseInfo":"2015"}
 opitv.s.974	lucky romance dubbed	{"id":"opitv.s.974","type":"series","name":"Lucky Romance Dubbed","posterShape":"poster","releaseInfo":"2016"}
 opitv.s.975	lucky's first love	{"id":"opitv.s.975","type":"series","name":"Lucky's First Love","poster":"https://image.tmdb.org/t/p/w500/vU7veNeVEixaBIWKlIg3yvfdDLO.jpg","posterShape":"poster","releaseInfo":"2019"}
 opitv.s.976	luke cage	{"id":"opitv.s.976","type":"series","name":"Luke Cage","posterShape":"poster","releaseInfo":"2016"}

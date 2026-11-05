@@ -291,7 +291,7 @@ opitv.s.8413	diyar e dil	{"id":"opitv.s.8413","type":"series","name":"Diyar e Di
 opitv.s.8414	do gubbare	{"id":"opitv.s.8414","type":"series","name":"Do Gubbare","poster":"https://image.tmdb.org/t/p/w500/fRFmz6Ja3tnatF0TL4IpbN4gqN7.jpg","posterShape":"poster","releaseInfo":"2023"}
 opitv.s.8415	do not disturb	{"id":"opitv.s.8415","type":"series","name":"Do Not Disturb","posterShape":"poster","releaseInfo":"2019"}
 opitv.s.8416	do you wanna partner	{"id":"opitv.s.8416","type":"series","name":"Do You Wanna Partner","poster":"https://image.tmdb.org/t/p/w500/desoUeji3c4EDvSsDOoi7OEKH1a.jpg","posterShape":"poster","releaseInfo":"2025"}
-opitv.s.8417	doctors	{"id":"opitv.s.8417","type":"series","name":"Doctors","posterShape":"poster","releaseInfo":"2024"}
+opitv.s.8417	doctors	{"id":"opitv.s.8417","type":"series","name":"Doctors","poster":"https://image.tmdb.org/t/p/w500/46cAIR1PLpvYFc3byLWGqAFrtNM.jpg","posterShape":"poster","releaseInfo":"2024"}
 opitv.s.8418	dr arora	{"id":"opitv.s.8418","type":"series","name":"Dr Arora","poster":"https://image.tmdb.org/t/p/w500/vX4Nu8CAH2JrPBvT4tzixSnWkvI.jpg","posterShape":"poster","releaseInfo":"2022"}
 opitv.s.8419	drishtibhram	{"id":"opitv.s.8419","type":"series","name":"Drishtibhram","poster":"https://image.tmdb.org/t/p/w500/gQedpqWumj2pOpx7a5NtJAKP60o.jpg","posterShape":"poster","releaseInfo":"2019"}
 opitv.s.8420	dude	{"id":"opitv.s.8420","type":"series","name":"Dude","poster":"https://image.tmdb.org/t/p/w500/5IUgzDG3shRMJTWu45yPFYDwZBB.jpg","posterShape":"poster","releaseInfo":"2021"}

@@ -1116,7 +1116,7 @@ opitv.s.2680	kill la kill	{"id":"opitv.s.2680","type":"series","name":"Kill la K
 opitv.s.2681	killing bites	{"id":"opitv.s.2681","type":"series","name":"Killing Bites","poster":"https://image.tmdb.org/t/p/w500/uyIowoKd2SGu3ahUs669QuLFHbF.jpg","posterShape":"poster","releaseInfo":"2018"}
 opitv.s.2682	kim possible	{"id":"opitv.s.2682","type":"series","name":"Kim Possible","poster":"https://image.tmdb.org/t/p/w500/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg","posterShape":"poster","releaseInfo":"2002"}
 opitv.s.2683	kimagure orange road	{"id":"opitv.s.2683","type":"series","name":"Kimagure Orange Road","poster":"https://image.tmdb.org/t/p/w500/ixN9gGjfw5ecnK2qjgkTBPl1cvg.jpg","posterShape":"poster","releaseInfo":"1987"}
-opitv.s.2684	kimagure orange road	{"id":"opitv.s.2684","type":"series","name":"Kimagure Orange Road","posterShape":"poster","releaseInfo":"1985"}
+opitv.s.2684	kimagure orange road	{"id":"opitv.s.2684","type":"series","name":"Kimagure Orange Road","poster":"https://image.tmdb.org/t/p/w500/ixN9gGjfw5ecnK2qjgkTBPl1cvg.jpg","posterShape":"poster","releaseInfo":"1985"}
 opitv.s.2685	kimetsu no yaiba	{"id":"opitv.s.2685","type":"series","name":"Kimetsu no Yaiba","posterShape":"poster","releaseInfo":"2019"}
 opitv.s.2686	kimi ga aruji de shitsuji ga ore de	{"id":"opitv.s.2686","type":"series","name":"Kimi ga aruji de shitsuji ga ore de","posterShape":"poster","releaseInfo":"2008"}
 opitv.s.2687	kimi ni todoke esub	{"id":"opitv.s.2687","type":"series","name":"Kimi ni todoke ESub","posterShape":"poster","releaseInfo":"2009"}
