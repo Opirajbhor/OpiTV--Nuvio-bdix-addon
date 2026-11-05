@@ -1,5 +1,0 @@
-opitv.m.6009	obsess	{"id":"opitv.m.6009","type":"movie","name":"Obsess","poster":"https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg","posterShape":"poster","releaseInfo":"2026"}
-opitv.m.6536	project hail mary	{"id":"opitv.m.6536","type":"movie","name":"Project Hail Mary","poster":"https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg","posterShape":"poster","releaseInfo":"2026"}
-opitv.m.8929	the super mario galaxy movie	{"id":"opitv.m.8929","type":"movie","name":"The Super Mario Galaxy Movie","poster":"https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg","posterShape":"poster","releaseInfo":"2026"}
-opitv.m.8567	the legend of aang the last airbender	{"id":"opitv.m.8567","type":"movie","name":"The Legend Of Aang The Last Airbender","poster":"https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg","posterShape":"poster","releaseInfo":"2026"}
-opitv.m.8625	the magic faraway tree	{"id":"opitv.m.8625","type":"movie","name":"The Magic Faraway Tree","poster":"https://image.tmdb.org/t/p/w500/udXvLxC5gAqN8SinemyFBEcHpTf.jpg","posterShape":"poster","releaseInfo":"2026"}
