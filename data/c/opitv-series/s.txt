@@ -1,0 +1,129 @@
+opitv.s.0	house of the dragon	{"id":"opitv.s.0","type":"series","name":"House of the Dragon","poster":"https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.1	the boys	{"id":"opitv.s.1","type":"series","name":"The Boys","poster":"https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg","posterShape":"poster"}
+opitv.s.2	1	{"id":"opitv.s.2","type":"series","name":"1","posterShape":"poster"}
+opitv.s.3	2	{"id":"opitv.s.3","type":"series","name":"2","posterShape":"poster"}
+opitv.s.4	3	{"id":"opitv.s.4","type":"series","name":"3","posterShape":"poster"}
+opitv.s.5	01	{"id":"opitv.s.5","type":"series","name":"01","posterShape":"poster"}
+opitv.s.6	10	{"id":"opitv.s.6","type":"series","name":"10","posterShape":"poster"}
+opitv.s.7	11	{"id":"opitv.s.7","type":"series","name":"11","posterShape":"poster"}
+opitv.s.8	13	{"id":"opitv.s.8","type":"series","name":"13","posterShape":"poster"}
+opitv.s.9	14	{"id":"opitv.s.9","type":"series","name":"14","posterShape":"poster"}
+opitv.s.10	15	{"id":"opitv.s.10","type":"series","name":"15","posterShape":"poster"}
+opitv.s.11	16	{"id":"opitv.s.11","type":"series","name":"16","posterShape":"poster"}
+opitv.s.12	18	{"id":"opitv.s.12","type":"series","name":"18","posterShape":"poster"}
+opitv.s.13	19	{"id":"opitv.s.13","type":"series","name":"19","posterShape":"poster"}
+opitv.s.14	20	{"id":"opitv.s.14","type":"series","name":"20","posterShape":"poster"}
+opitv.s.15	21	{"id":"opitv.s.15","type":"series","name":"21","posterShape":"poster"}
+opitv.s.16	23	{"id":"opitv.s.16","type":"series","name":"23","posterShape":"poster"}
+opitv.s.17	4	{"id":"opitv.s.17","type":"series","name":"4","posterShape":"poster"}
+opitv.s.18	5	{"id":"opitv.s.18","type":"series","name":"5","posterShape":"poster"}
+opitv.s.19	6	{"id":"opitv.s.19","type":"series","name":"6","posterShape":"poster"}
+opitv.s.20	7	{"id":"opitv.s.20","type":"series","name":"7","posterShape":"poster"}
+opitv.s.21	8	{"id":"opitv.s.21","type":"series","name":"8","posterShape":"poster"}
+opitv.s.22	9	{"id":"opitv.s.22","type":"series","name":"9","posterShape":"poster"}
+opitv.s.23	cheer up	{"id":"opitv.s.23","type":"series","name":"Cheer Up","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.24	living yourself msub	{"id":"opitv.s.24","type":"series","name":"Living Yourself MSub","posterShape":"poster"}
+opitv.s.25	nasa's unexplained files dscvp hin- 2 0	{"id":"opitv.s.25","type":"series","name":"Nasa's Unexplained Files DSCVP HIN- 2 0","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.26	pablo escobar, the drug lord in ep	{"id":"opitv.s.26","type":"series","name":"Pablo Escobar, The Drug Lord iN Ep","posterShape":"poster"}
+opitv.s.27	street food	{"id":"opitv.s.27","type":"series","name":"Street Food","posterShape":"poster"}
+opitv.s.28	vip 01	{"id":"opitv.s.28","type":"series","name":"VIP 01","posterShape":"poster"}
+opitv.s.29	what's wrong secretary kim	{"id":"opitv.s.29","type":"series","name":"What's Wrong Secretary Kim","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.30	12	{"id":"opitv.s.30","type":"series","name":"12","posterShape":"poster"}
+opitv.s.31	17	{"id":"opitv.s.31","type":"series","name":"17","posterShape":"poster"}
+opitv.s.32	power rangers megaforce 26 1 edge2020	{"id":"opitv.s.32","type":"series","name":"Power Rangers Megaforce 26 1 EDGE2020","posterShape":"poster","releaseInfo":"2013"}
+opitv.s.33	episode 1 to 45	{"id":"opitv.s.33","type":"series","name":"Episode 1 to 45","posterShape":"poster"}
+opitv.s.34	episode 46 to 78	{"id":"opitv.s.34","type":"series","name":"Episode 46 to 78","posterShape":"poster"}
+opitv.s.35	episode 79 to 108	{"id":"opitv.s.35","type":"series","name":"Episode 79 to 108","posterShape":"poster"}
+opitv.s.36	1 language	{"id":"opitv.s.36","type":"series","name":"1 Language","posterShape":"poster"}
+opitv.s.37	2 language	{"id":"opitv.s.37","type":"series","name":"2 language","posterShape":"poster"}
+opitv.s.38	beast morphers␠	{"id":"opitv.s.38","type":"series","name":"Beast Morphers␠","posterShape":"poster"}
+opitv.s.39	hdtv	{"id":"opitv.s.39","type":"series","name":"HDTV","posterShape":"poster"}
+opitv.s.40	samurai	{"id":"opitv.s.40","type":"series","name":"Samurai","posterShape":"poster"}
+opitv.s.41	super ninja steel	{"id":"opitv.s.41","type":"series","name":"Super Ninja Steel","posterShape":"poster"}
+opitv.s.42	super samurai␠	{"id":"opitv.s.42","type":"series","name":"Super Samurai␠","posterShape":"poster"}
+opitv.s.43	the path audio -eng	{"id":"opitv.s.43","type":"series","name":"The Path Audio -Eng","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.44	01 e01	{"id":"opitv.s.44","type":"series","name":"01 E01","posterShape":"poster"}
+opitv.s.45	01 e1001	{"id":"opitv.s.45","type":"series","name":"01 E1001","posterShape":"poster"}
+opitv.s.46	01 e501	{"id":"opitv.s.46","type":"series","name":"01 E501","posterShape":"poster"}
+opitv.s.47	01+02	{"id":"opitv.s.47","type":"series","name":"01+02","posterShape":"poster"}
+opitv.s.48	1 e01	{"id":"opitv.s.48","type":"series","name":"1 E01","posterShape":"poster"}
+opitv.s.49	101	{"id":"opitv.s.49","type":"series","name":"101","posterShape":"poster"}
+opitv.s.50	201	{"id":"opitv.s.50","type":"series","name":"201","posterShape":"poster"}
+opitv.s.51	3 part 2	{"id":"opitv.s.51","type":"series","name":"3 Part 2","posterShape":"poster"}
+opitv.s.52	300	{"id":"opitv.s.52","type":"series","name":"300","posterShape":"poster"}
+opitv.s.53	a suitable boy ip	{"id":"opitv.s.53","type":"series","name":"A Suitable Boy iP","posterShape":"poster"}
+opitv.s.54	aao laut chalein dl dusictv	{"id":"opitv.s.54","type":"series","name":"Aao Laut Chalein DL DusIcTv","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.55	aarya 2 0	{"id":"opitv.s.55","type":"series","name":"Aarya 2 0","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.56	avrodh sonyliv 2 0	{"id":"opitv.s.56","type":"series","name":"Avrodh SonyLiv 2 0","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.57	bang baaja baaraat 01 all episode -5	{"id":"opitv.s.57","type":"series","name":"Bang Baaja Baaraat 01 All Episode -5","posterShape":"poster","releaseInfo":"2015"}
+opitv.s.58	cheesecake mx originals	{"id":"opitv.s.58","type":"series","name":"Cheesecake MX Originals","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.59	churails zee5 2 0	{"id":"opitv.s.59","type":"series","name":"Churails ZEE5 2 0","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.60	classic legends - 1	{"id":"opitv.s.60","type":"series","name":"Classic Legends - 1","posterShape":"poster"}
+opitv.s.61	classic legends - 2	{"id":"opitv.s.61","type":"series","name":"Classic Legends - 2","posterShape":"poster"}
+opitv.s.62	classic legends - 3	{"id":"opitv.s.62","type":"series","name":"Classic Legends - 3","posterShape":"poster"}
+opitv.s.63	classic legends - 4	{"id":"opitv.s.63","type":"series","name":"Classic Legends - 4","posterShape":"poster"}
+opitv.s.64	crime of desire ep 01-10 hoichoi 1 5gb - movcr exclusive	{"id":"opitv.s.64","type":"series","name":"Crime of Desire Ep 01-10 HoiChoi 1 5GB - MOVCR ExClusive","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.65	devon ke dev mahadev h  0 ~daredevil~	{"id":"opitv.s.65","type":"series","name":"Devon Ke Dev Mahadev H  0 ~Daredevil~","posterShape":"poster"}
+opitv.s.66	ehd e wafa	{"id":"opitv.s.66","type":"series","name":"Ehd E Wafa","posterShape":"poster"}
+opitv.s.67	engineering girls series the timeliners	{"id":"opitv.s.67","type":"series","name":"Engineering Girls Series The Timeliners","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.68	expiry date	{"id":"opitv.s.68","type":"series","name":"Expiry Date","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.69	gangs of filmistan	{"id":"opitv.s.69","type":"series","name":"Gangs of Filmistan","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.70	ghar titli ka par dl dusictv	{"id":"opitv.s.70","type":"series","name":"Ghar Titli Ka Par DL DusIcTv","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.71	girlfriend chor mx play dl 2 0	{"id":"opitv.s.71","type":"series","name":"Girlfriend Chor Mx Play DL 2 0","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.72	indian idol	{"id":"opitv.s.72","type":"series","name":"Indian Idol","posterShape":"poster","releaseInfo":"2004"}
+opitv.s.73	iss khamoshi ka matlab dl dusictv	{"id":"opitv.s.73","type":"series","name":"Iss Khamoshi Ka Matlab DL DusIcTv","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.74	joru ka ghulam dl dusictv	{"id":"opitv.s.74","type":"series","name":"Joru Ka Ghulam DL DusIcTv","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.75	kadak mitthi oho 2 0	{"id":"opitv.s.75","type":"series","name":"Kadak Mitthi OHO 2 0","posterShape":"poster"}
+opitv.s.76	karenjit kaur–the untold story of sunny leone zee5 originals	{"id":"opitv.s.76","type":"series","name":"Karenjit Kaur–The Untold Story of Sunny Leone Zee5 Originals","posterShape":"poster"}
+opitv.s.77	laut ke chalay aana dl dusictv	{"id":"opitv.s.77","type":"series","name":"Laut Ke Chalay Aana DL DusIcTv","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.78	leila	{"id":"opitv.s.78","type":"series","name":"Leila","posterShape":"poster"}
+opitv.s.79	lips don't lie dl 0 dusictv	{"id":"opitv.s.79","type":"series","name":"Lips Don't Lie DL 0 DusIcTv","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.80	mahavarat - part - 1	{"id":"opitv.s.80","type":"series","name":"Mahavarat - Part - 1","posterShape":"poster"}
+opitv.s.81	mahavarat - part - 2	{"id":"opitv.s.81","type":"series","name":"Mahavarat - Part - 2","posterShape":"poster"}
+opitv.s.82	mahavarat - part - 3	{"id":"opitv.s.82","type":"series","name":"Mahavarat - Part - 3","posterShape":"poster"}
+opitv.s.83	mahavarat - part - 4	{"id":"opitv.s.83","type":"series","name":"Mahavarat - Part - 4","posterShape":"poster"}
+opitv.s.84	mahavarat - part - 5	{"id":"opitv.s.84","type":"series","name":"Mahavarat - Part - 5","posterShape":"poster"}
+opitv.s.85	main akeli dl dusictv	{"id":"opitv.s.85","type":"series","name":"Main Akeli DL DusIcTv","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.86	miley jab hum tum	{"id":"opitv.s.86","type":"series","name":"Miley Jab Hum Tum","posterShape":"poster"}
+opitv.s.87	naagin dl 0 dusictv	{"id":"opitv.s.87","type":"series","name":"Naagin DL 0 DusIcTv","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.88	operation cobra 1	{"id":"opitv.s.88","type":"series","name":"Operation Cobra 1","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.89	parizaad	{"id":"opitv.s.89","type":"series","name":"Parizaad","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.90	part 01	{"id":"opitv.s.90","type":"series","name":"Part 01","posterShape":"poster"}
+opitv.s.91	part 02	{"id":"opitv.s.91","type":"series","name":"Part 02","posterShape":"poster"}
+opitv.s.92	police diary 2 0 e01-06	{"id":"opitv.s.92","type":"series","name":"Police Diary 2 0 E01-06","posterShape":"poster"}
+opitv.s.93	saraswatichandra 01 2 0 ~blockbuster~	{"id":"opitv.s.93","type":"series","name":"Saraswatichandra 01 2 0 ~BlockBuster~","posterShape":"poster"}
+opitv.s.94	saraswatichandra 02 2 0 ~blockbuster~	{"id":"opitv.s.94","type":"series","name":"Saraswatichandra 02 2 0 ~BlockBuster~","posterShape":"poster"}
+opitv.s.95	saraswatichandra 03 2 0 ~blockbuster~	{"id":"opitv.s.95","type":"series","name":"Saraswatichandra 03 2 0 ~BlockBuster~","posterShape":"poster"}
+opitv.s.96	saraswatichandra 04 2 0 ~blockbuster~	{"id":"opitv.s.96","type":"series","name":"Saraswatichandra 04 2 0 ~BlockBuster~","posterShape":"poster"}
+opitv.s.97	saraswatichandra 05 2 0 ~blockbuster~	{"id":"opitv.s.97","type":"series","name":"Saraswatichandra 05 2 0 ~BlockBuster~","posterShape":"poster"}
+opitv.s.98	saraswatichandra 06 2 0 ~blockbuster~	{"id":"opitv.s.98","type":"series","name":"Saraswatichandra 06 2 0 ~BlockBuster~","posterShape":"poster"}
+opitv.s.99	saraswatichandra 07 2 0 ~blockbuster~	{"id":"opitv.s.99","type":"series","name":"Saraswatichandra 07 2 0 ~BlockBuster~","posterShape":"poster"}
+opitv.s.100	saraswatichandra 08 2 0 ~blockbuster~	{"id":"opitv.s.100","type":"series","name":"Saraswatichandra 08 2 0 ~BlockBuster~","posterShape":"poster"}
+opitv.s.101	saraswatichandra 09 2 0 ~blockbuster~	{"id":"opitv.s.101","type":"series","name":"Saraswatichandra 09 2 0 ~BlockBuster~","posterShape":"poster"}
+opitv.s.102	saraswatichandra 10 2 0 ~blockbuster~	{"id":"opitv.s.102","type":"series","name":"Saraswatichandra 10 2 0 ~BlockBuster~","posterShape":"poster"}
+opitv.s.103	saraswatichandra 11 2 0 ~blockbuster~	{"id":"opitv.s.103","type":"series","name":"Saraswatichandra 11 2 0 ~BlockBuster~","posterShape":"poster"}
+opitv.s.104	saraswatichandra 12 2 0 ~blockbuster~	{"id":"opitv.s.104","type":"series","name":"Saraswatichandra 12 2 0 ~BlockBuster~","posterShape":"poster"}
+opitv.s.105	saraswatichandra 13 2 0 ~blockbuster~	{"id":"opitv.s.105","type":"series","name":"Saraswatichandra 13 2 0 ~BlockBuster~","posterShape":"poster"}
+opitv.s.106	saraswatichandra 14 2 0 ~blockbuster~	{"id":"opitv.s.106","type":"series","name":"Saraswatichandra 14 2 0 ~BlockBuster~","posterShape":"poster"}
+opitv.s.107	saraswatichandra 15 2 0 ~blockbuster~	{"id":"opitv.s.107","type":"series","name":"Saraswatichandra 15 2 0 ~BlockBuster~","posterShape":"poster"}
+opitv.s.108	sath nibhana saathiya	{"id":"opitv.s.108","type":"series","name":"Sath Nibhana Saathiya","posterShape":"poster"}
+opitv.s.109	seasn 1	{"id":"opitv.s.109","type":"series","name":"Seasn 1","posterShape":"poster"}
+opitv.s.110	shaka laka boom boom 01	{"id":"opitv.s.110","type":"series","name":"Shaka Laka Boom Boom 01","posterShape":"poster"}
+opitv.s.111	shaka laka boom boom 02	{"id":"opitv.s.111","type":"series","name":"Shaka Laka Boom Boom 02","posterShape":"poster"}
+opitv.s.112	shaka laka boom boom 03	{"id":"opitv.s.112","type":"series","name":"Shaka Laka Boom Boom 03","posterShape":"poster"}
+opitv.s.113	smoke	{"id":"opitv.s.113","type":"series","name":"Smoke","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.114	undekhi ep01 sony liv dl 2 0	{"id":"opitv.s.114","type":"series","name":"Undekhi EP01 Sony Liv DL 2 0","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.115	yeh hai mohabbatein dl 2 0 dus	{"id":"opitv.s.115","type":"series","name":"Yeh Hai Mohabbatein DL 2 0 Dus","posterShape":"poster","releaseInfo":"2013"}
+opitv.s.116	yeh hai mohabbatein dl 2 0 dus	{"id":"opitv.s.116","type":"series","name":"Yeh Hai Mohabbatein DL 2 0 Dus","posterShape":"poster","releaseInfo":"2014"}
+opitv.s.117	yeh hai mohabbatein dl 2 0 dus	{"id":"opitv.s.117","type":"series","name":"Yeh Hai Mohabbatein DL 2 0 Dus","posterShape":"poster","releaseInfo":"2015"}
+opitv.s.118	yeh hai mohabbatein dl 2 0 dus	{"id":"opitv.s.118","type":"series","name":"Yeh Hai Mohabbatein DL 2 0 Dus","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.119	yeh hai mohabbatein dl 2 0 dus	{"id":"opitv.s.119","type":"series","name":"Yeh Hai Mohabbatein DL 2 0 Dus","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.120	yeh rishtey hain pyaar ke dl 2 0 dus	{"id":"opitv.s.120","type":"series","name":"Yeh Rishtey Hain Pyaar Ke DL 2 0 Dus","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.121	your honor sonyliv 2 0	{"id":"opitv.s.121","type":"series","name":"Your Honor SonyLIV 2 0","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.122	zero km  all 12 episodes 1 90gb	{"id":"opitv.s.122","type":"series","name":"Zero KM  All 12 Episodes 1 90GB","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.123	zoya sawleha dl dusictv	{"id":"opitv.s.123","type":"series","name":"Zoya Sawleha DL DusIcTv","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.124	class of 1 altbalaji -hd	{"id":"opitv.s.124","type":"series","name":"Class of 1 AltBalaji -HD","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.125	dance champions	{"id":"opitv.s.125","type":"series","name":"Dance Champions","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.126	dance plu	{"id":"opitv.s.126","type":"series","name":"Dance Plu","posterShape":"poster"}
+opitv.s.127	indian army 24x7	{"id":"opitv.s.127","type":"series","name":"Indian Army 24x7","posterShape":"poster"}
+opitv.s.128	indian television academy awards	{"id":"opitv.s.128","type":"series","name":"Indian Television Academy Awards","posterShape":"poster"}
