@@ -1,0 +1,14 @@
+opitv.s.144	the boys	{"id":"opitv.s.144","type":"series","name":"The Boys","poster":"https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg","posterShape":"poster"}
+opitv.s.72	house of the dragon	{"id":"opitv.s.72","type":"series","name":"House of the Dragon","poster":"https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.133	squid game	{"id":"opitv.s.133","type":"series","name":"Squid Game","poster":"https://image.tmdb.org/t/p/w500/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.109	money heist	{"id":"opitv.s.109","type":"series","name":"Money Heist","poster":"https://image.tmdb.org/t/p/w500/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.137	sweet home	{"id":"opitv.s.137","type":"series","name":"Sweet Home","poster":"https://image.tmdb.org/t/p/w500/owGb1SExjoEZWOvPx6hAVAi2B7D.jpg","posterShape":"poster"}
+opitv.s.43	dead to me	{"id":"opitv.s.43","type":"series","name":"Dead to Me","poster":"https://image.tmdb.org/t/p/w500/mAj18PHeACxqcrEus4pD8pksRmB.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.131	special ops	{"id":"opitv.s.131","type":"series","name":"Special OPS","poster":"https://image.tmdb.org/t/p/w500/doqymbPdJNLpkkEOhvlRALidJGb.jpg","posterShape":"poster"}
+opitv.s.147	the king: eternal monarch	{"id":"opitv.s.147","type":"series","name":"The King: Eternal Monarch","poster":"https://image.tmdb.org/t/p/w500/7SLlbkzOJb8v9wXVYIcqozx2hxe.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.3	a suitable boy	{"id":"opitv.s.3","type":"series","name":"A Suitable Boy","poster":"https://image.tmdb.org/t/p/w500/rS2osLCatyLuRsrwxfDLheaR3hG.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.130	so not worth it	{"id":"opitv.s.130","type":"series","name":"So Not Worth It","poster":"https://image.tmdb.org/t/p/w500/wiByXTq5vaDppWnYCLt6fzDuu7x.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.42	dayaa	{"id":"opitv.s.42","type":"series","name":"Dayaa","poster":"https://image.tmdb.org/t/p/w500/3MbRfa8EyibVYriL6Wc1ck9eDwM.jpg","posterShape":"poster"}
+opitv.s.123	shaitan	{"id":"opitv.s.123","type":"series","name":"Shaitan","poster":"https://image.tmdb.org/t/p/w500/8Ucu1uqMGf8yV9J8bGq9f53EIyX.jpg","posterShape":"poster"}
+opitv.s.97	live telecast	{"id":"opitv.s.97","type":"series","name":"Live Telecast","poster":"https://image.tmdb.org/t/p/w500/6XHskcxfTk36li7DrJiVVeNylzt.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.1	9 hours	{"id":"opitv.s.1","type":"series","name":"9 Hours","poster":"https://image.tmdb.org/t/p/w500/4lqTfrlQWakAHbPbF5c84pl07Us.jpg","posterShape":"poster","releaseInfo":"2022"}
