@@ -7,11 +7,15 @@ posters, metadata and direct playback links.
 It ships as a Cloudflare Worker with the catalog pre-built as static assets, so the
 Worker only slices small files per request and stays inside the free plan's CPU budget.
 
-- **27 catalogues** — Hindi Dubbed (movies + series) first, then Trending, Popular,
-  Action, Thriller, Horror, Comedy, Romance, Sci-Fi, Fantasy, Indian, Korean, Japanese,
-  Recently Added, K-Dramas, Crime, Indian TV, and the complete OpiTv rows at the bottom.
-- **~37,500 movies** and the Hindi / Bangla / Hindi-dubbed series set.
-- Posters, backdrops, ratings and descriptions enriched from TMDB.
+- **22 catalogues.** Series rows come from the folder the crawler found each show in —
+  Hindi Dubbed Series (1,370), Hindi TV Series (1,055), Indian TV Shows (56),
+  English & Foreign TV (5,370), Anime TV Series (2,607), TV Documentaries (11) —
+  followed by the movie rows (Trending, Popular, Action, Thriller, Horror, Comedy,
+  Romance, Sci-Fi, Fantasy, Indian, Korean, Japanese, Recently Added), with the two
+  complete rows (OpiTv Movies, OpiTv Series) last.
+- **37,362 movies** and **10,732 series**.
+- Posters, backdrops, ratings and descriptions enriched from TMDB — about 80% of the
+  series carry artwork; the rest are folders whose name matches nothing on TMDB.
 
 ## What this is, and what it is not
 
@@ -98,8 +102,9 @@ a multi-megabyte catalog, so everything is pre-built offline:
 ```bash
 python3 build_worker_data.py    # crawler caches -> cloudflare/data
 python3 verify_sources.py --from-data   # probe every stream URL, resumable
+python3 enrich_series.py        # TMDB metadata + posters for the series
 python3 build_worker_data.py    # rebuild with dead sources dropped
-python3 test_data.py           # 27 catalogues + several hundred item lookups
+python3 test_data.py            # every catalogue + several hundred item lookups
 python3 bundle.py              # refresh opitv-worker.zip
 ```
 
