@@ -1,2 +1,14 @@
+<<<<<<< HEAD
 opitv.s.72	house of the dragon	{"id":"opitv.s.72","type":"series","name":"House of the Dragon","poster":"https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg","posterShape":"poster","releaseInfo":"2022"}
 opitv.s.144	the boys	{"id":"opitv.s.144","type":"series","name":"The Boys","poster":"https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg","posterShape":"poster"}
+=======
+opitv.s.371	the lord of the rings: the rings of power	{"id":"opitv.s.371","type":"series","name":"The Lord of the Rings: The Rings of Power","poster":"https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.400	tulsa king	{"id":"opitv.s.400","type":"series","name":"Tulsa King","poster":"https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg","posterShape":"poster"}
+opitv.s.317	silo	{"id":"opitv.s.317","type":"series","name":"Silo","poster":"https://image.tmdb.org/t/p/w500/r2QXomqKjkKHVtYGGtkf2l2Y7go.jpg","posterShape":"poster"}
+opitv.s.388	the terminal list	{"id":"opitv.s.388","type":"series","name":"The Terminal List","poster":"https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg","posterShape":"poster"}
+opitv.s.268	percy jackson and the olympians	{"id":"opitv.s.268","type":"series","name":"Percy Jackson and the Olympians","poster":"https://image.tmdb.org/t/p/w500/zofPiEpwCRYaezOncTlQwXebHFU.jpg","posterShape":"poster"}
+opitv.s.181	house of the dragon	{"id":"opitv.s.181","type":"series","name":"House of the Dragon","poster":"https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.329	stranger things	{"id":"opitv.s.329","type":"series","name":"Stranger Things","poster":"https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg","posterShape":"poster"}
+opitv.s.349	the boys	{"id":"opitv.s.349","type":"series","name":"The Boys","poster":"https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg","posterShape":"poster"}
+opitv.s.286	reacher	{"id":"opitv.s.286","type":"series","name":"Reacher","poster":"https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg","posterShape":"poster"}
+>>>>>>> 18ce6f23d7cff8c9c3590182613334dd8aafff2d
