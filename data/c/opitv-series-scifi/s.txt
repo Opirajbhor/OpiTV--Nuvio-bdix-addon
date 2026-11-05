@@ -1,0 +1,67 @@
+opitv.s.371	the lord of the rings: the rings of power	{"id":"opitv.s.371","type":"series","name":"The Lord of the Rings: The Rings of Power","poster":"https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.317	silo	{"id":"opitv.s.317","type":"series","name":"Silo","poster":"https://image.tmdb.org/t/p/w500/r2QXomqKjkKHVtYGGtkf2l2Y7go.jpg","posterShape":"poster"}
+opitv.s.349	the boys	{"id":"opitv.s.349","type":"series","name":"The Boys","poster":"https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg","posterShape":"poster"}
+opitv.s.113	dc's legends of tomorrow	{"id":"opitv.s.113","type":"series","name":"DC's Legends of Tomorrow","poster":"https://image.tmdb.org/t/p/w500/qNgAcg4gNYbZ9mySLB9ZX4ehZb6.jpg","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.221	loki	{"id":"opitv.s.221","type":"series","name":"Loki","poster":"https://image.tmdb.org/t/p/w500/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg","posterShape":"poster"}
+opitv.s.334	superman & lois	{"id":"opitv.s.334","type":"series","name":"Superman & Lois","poster":"https://image.tmdb.org/t/p/w500/vlv1gn98GqMnKHLSh0dNciqGfBl.jpg","posterShape":"poster"}
+opitv.s.268	percy jackson and the olympians	{"id":"opitv.s.268","type":"series","name":"Percy Jackson and the Olympians","poster":"https://image.tmdb.org/t/p/w500/zofPiEpwCRYaezOncTlQwXebHFU.jpg","posterShape":"poster"}
+opitv.s.34	avatar: the last airbender	{"id":"opitv.s.34","type":"series","name":"Avatar: The Last Airbender","poster":"https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg","posterShape":"poster"}
+opitv.s.110	dark	{"id":"opitv.s.110","type":"series","name":"Dark","poster":"https://image.tmdb.org/t/p/w500/wiiyc3m6HKaQhFBYeuM7ySCNQsG.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.23	alice in borderland	{"id":"opitv.s.23","type":"series","name":"Alice in Borderland","poster":"https://image.tmdb.org/t/p/w500/Ac8ruycRXzgcsndTZFK6ouGA0FA.jpg","posterShape":"poster"}
+opitv.s.265	peacemaker	{"id":"opitv.s.265","type":"series","name":"Peacemaker","poster":"https://image.tmdb.org/t/p/w500/yb4F1Oocq8GfQt6iIuAgYEBokhG.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.131	doom patrol	{"id":"opitv.s.131","type":"series","name":"Doom Patrol","poster":"https://image.tmdb.org/t/p/w500/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.153	gen v	{"id":"opitv.s.153","type":"series","name":"Gen V","poster":"https://image.tmdb.org/t/p/w500/tEv842Nd5uMSavURG4aQO1pNtst.jpg","posterShape":"poster"}
+opitv.s.303	see	{"id":"opitv.s.303","type":"series","name":"See","poster":"https://image.tmdb.org/t/p/w500/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg","posterShape":"poster"}
+opitv.s.257	one piece	{"id":"opitv.s.257","type":"series","name":"ONE PIECE","poster":"https://image.tmdb.org/t/p/w500/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg","posterShape":"poster"}
+opitv.s.244	monarch: legacy of monsters	{"id":"opitv.s.244","type":"series","name":"Monarch: Legacy of Monsters","poster":"https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg","posterShape":"poster"}
+opitv.s.337	sweet home	{"id":"opitv.s.337","type":"series","name":"Sweet Home","poster":"https://image.tmdb.org/t/p/w500/owGb1SExjoEZWOvPx6hAVAi2B7D.jpg","posterShape":"poster"}
+opitv.s.58	black lightning	{"id":"opitv.s.58","type":"series","name":"Black Lightning","poster":"https://image.tmdb.org/t/p/w500/h1xbvvO6oqchfLe6xh0yLNnQxeM.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.25	altered carbon	{"id":"opitv.s.25","type":"series","name":"Altered Carbon","poster":"https://image.tmdb.org/t/p/w500/AisK4uFsnwwmMkSynFpNl0VeGR.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.4	3 body problem	{"id":"opitv.s.4","type":"series","name":"3 Body Problem","poster":"https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg","posterShape":"poster","releaseInfo":"2024"}
+opitv.s.45	batwoman	{"id":"opitv.s.45","type":"series","name":"Batwoman","poster":"https://image.tmdb.org/t/p/w500/pBpxKiitMuYXvtsXNSzya8DKKzV.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.214	kung fu panda: the dragon knight	{"id":"opitv.s.214","type":"series","name":"Kung Fu Panda: The Dragon Knight","poster":"https://image.tmdb.org/t/p/w500/7C9TKvU5dNyhvoG9kQvRFsg6vlA.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.119	defiance	{"id":"opitv.s.119","type":"series","name":"Defiance","poster":"https://image.tmdb.org/t/p/w500/4Xo2D2MX8v4FoHi70Y9jEghJGUI.jpg","posterShape":"poster","releaseInfo":"2013"}
+opitv.s.233	marvel's agent carter	{"id":"opitv.s.233","type":"series","name":"Marvel's Agent Carter","poster":"https://image.tmdb.org/t/p/w500/7kqIsjjDMZA5GRMH5VCdQYZJqc6.jpg","posterShape":"poster","releaseInfo":"2015"}
+opitv.s.97	colony	{"id":"opitv.s.97","type":"series","name":"Colony","poster":"https://image.tmdb.org/t/p/w500/qfS0mp22XfTig2EK3jWKiyx7kNy.jpg","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.246	moon knight	{"id":"opitv.s.246","type":"series","name":"Moon Knight","poster":"https://image.tmdb.org/t/p/w500/9K3lbMf8TKvL9xGEbzi7TggWCNQ.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.22	ahsoka	{"id":"opitv.s.22","type":"series","name":"Ahsoka","poster":"https://image.tmdb.org/t/p/w500/eiJeWeCAEZAmRppnXHiTWDcCd3Q.jpg","posterShape":"poster"}
+opitv.s.319	siren	{"id":"opitv.s.319","type":"series","name":"Siren","poster":"https://image.tmdb.org/t/p/w500/k906XXqqFMT93v2WMkIOtUcEAlV.jpg","posterShape":"poster"}
+opitv.s.291	roswell, new mexico	{"id":"opitv.s.291","type":"series","name":"Roswell, New Mexico","poster":"https://image.tmdb.org/t/p/w500/gU19YwCQXCoeQ3PcIPTOHwY5l7k.jpg","posterShape":"poster"}
+opitv.s.301	secret invasion	{"id":"opitv.s.301","type":"series","name":"Secret Invasion","poster":"https://image.tmdb.org/t/p/w500/3rINdUPSy9AklJg74jWHOyUXuZd.jpg","posterShape":"poster"}
+opitv.s.255	obi-wan kenobi	{"id":"opitv.s.255","type":"series","name":"Obi-Wan Kenobi","poster":"https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg","posterShape":"poster"}
+opitv.s.289	resident evil	{"id":"opitv.s.289","type":"series","name":"Resident Evil","poster":"https://image.tmdb.org/t/p/w500/rmLvn4w4HMdxobPkjmIqrhJiXDO.jpg","posterShape":"poster"}
+opitv.s.277	project blue book	{"id":"opitv.s.277","type":"series","name":"Project Blue Book","poster":"https://image.tmdb.org/t/p/w500/rqrzjT5nc7mTD5IKVMLRhLeyzgD.jpg","posterShape":"poster"}
+opitv.s.258	outer range	{"id":"opitv.s.258","type":"series","name":"Outer Range","poster":"https://image.tmdb.org/t/p/w500/9leGmIDamsWJELYz0pZkr2EXUFf.jpg","posterShape":"poster"}
+opitv.s.382	the peripheral	{"id":"opitv.s.382","type":"series","name":"The Peripheral","poster":"https://image.tmdb.org/t/p/w500/2e5NNQu9B1fXBNllRj8fzysCguP.jpg","posterShape":"poster"}
+opitv.s.282	raised by wolves	{"id":"opitv.s.282","type":"series","name":"Raised by Wolves","poster":"https://image.tmdb.org/t/p/w500/mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg","posterShape":"poster"}
+opitv.s.77	britannia	{"id":"opitv.s.77","type":"series","name":"Britannia","poster":"https://image.tmdb.org/t/p/w500/fjdXymXAas9NSehc6GCOHQcEM05.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.368	the legend of the blue sea	{"id":"opitv.s.368","type":"series","name":"The Legend of the Blue Sea","poster":"https://image.tmdb.org/t/p/w500/cHrhnci45nyoqctI33lgB0iX9Zy.jpg","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.281	ragnarok	{"id":"opitv.s.281","type":"series","name":"Ragnarok","poster":"https://image.tmdb.org/t/p/w500/9rWGgUJSuVEgaScOKbJPc9wkR3v.jpg","posterShape":"poster"}
+opitv.s.365	the king: eternal monarch	{"id":"opitv.s.365","type":"series","name":"The King: Eternal Monarch","poster":"https://image.tmdb.org/t/p/w500/7SLlbkzOJb8v9wXVYIcqozx2hxe.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.250	ms. marvel	{"id":"opitv.s.250","type":"series","name":"Ms. Marvel","poster":"https://image.tmdb.org/t/p/w500/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.394	the witcher: blood origin	{"id":"opitv.s.394","type":"series","name":"The Witcher: Blood Origin","poster":"https://image.tmdb.org/t/p/w500/vpfJK9F0UJNcAIIeC42oJyKMnZQ.jpg","posterShape":"poster"}
+opitv.s.66	bodies	{"id":"opitv.s.66","type":"series","name":"Bodies","poster":"https://image.tmdb.org/t/p/w500/qWX71nLvoLsBNPEjddZMC75lq6I.jpg","posterShape":"poster"}
+opitv.s.61	black summer	{"id":"opitv.s.61","type":"series","name":"Black Summer","poster":"https://image.tmdb.org/t/p/w500/d27fZpY8jSZDOs1k0JCL0RY0b94.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.29	are you afraid of the dark?	{"id":"opitv.s.29","type":"series","name":"Are You Afraid of the Dark?","poster":"https://image.tmdb.org/t/p/w500/3WUw41k7F0KClpJMyvwBgVVRmbb.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.374	the man who fell to earth	{"id":"opitv.s.374","type":"series","name":"The Man Who Fell to Earth","poster":"https://image.tmdb.org/t/p/w500/p1aBjGkyG25ADy4xu69joNMV3eQ.jpg","posterShape":"poster"}
+opitv.s.367	the lazarus project	{"id":"opitv.s.367","type":"series","name":"The Lazarus Project","poster":"https://image.tmdb.org/t/p/w500/xw7GkWtmPQDU8qzfKshFEN038sj.jpg","posterShape":"poster"}
+opitv.s.283	raising dion	{"id":"opitv.s.283","type":"series","name":"Raising Dion","poster":"https://image.tmdb.org/t/p/w500/nydKXBiLn4vpL1d5o1utbPKYdii.jpg","posterShape":"poster"}
+opitv.s.73	brave new world	{"id":"opitv.s.73","type":"series","name":"Brave New World","poster":"https://image.tmdb.org/t/p/w500/vPl7hAY0vt0OPhIflRb5IXrssBv.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.333	super giant robot brothers!	{"id":"opitv.s.333","type":"series","name":"Super Giant Robot Brothers!","poster":"https://image.tmdb.org/t/p/w500/1ysuYGkRtZgaP4mL9nbRmCU3vMd.jpg","posterShape":"poster"}
+opitv.s.395	to the lake	{"id":"opitv.s.395","type":"series","name":"To the Lake","poster":"https://image.tmdb.org/t/p/w500/miwLlQleUq3br4ozZl3p3hCLrkv.jpg","posterShape":"poster"}
+opitv.s.107	cursed	{"id":"opitv.s.107","type":"series","name":"Cursed","poster":"https://image.tmdb.org/t/p/w500/wrLC5kx0nEq9U0MyJD7dnOT6m5F.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.230	maggie	{"id":"opitv.s.230","type":"series","name":"Maggie","poster":"https://image.tmdb.org/t/p/w500/5kgwKKFZlrRCCRDGeRRNqep4Olh.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.376	the midwich cuckoos	{"id":"opitv.s.376","type":"series","name":"The Midwich Cuckoos","poster":"https://image.tmdb.org/t/p/w500/xfJtH6faQHUVxvKTdvMBys6I6j0.jpg","posterShape":"poster"}
+opitv.s.343	tekken: bloodline	{"id":"opitv.s.343","type":"series","name":"Tekken: Bloodline","poster":"https://image.tmdb.org/t/p/w500/bi3XOKS38K7FdH9nPtsZCcmeL1F.jpg","posterShape":"poster"}
+opitv.s.413	wolf pack	{"id":"opitv.s.413","type":"series","name":"Wolf Pack","poster":"https://image.tmdb.org/t/p/w500/rbCANmS1ogweUkIBghP03EHtdHB.jpg","posterShape":"poster"}
+opitv.s.64	blood drive	{"id":"opitv.s.64","type":"series","name":"Blood Drive","poster":"https://image.tmdb.org/t/p/w500/qB9PBQMyKrp8diKGxVpfayKZbgd.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.8	a gifted man	{"id":"opitv.s.8","type":"series","name":"A Gifted Man","poster":"https://image.tmdb.org/t/p/w500/2G3YfOYTshX9gzlF4oRLeczW8ng.jpg","posterShape":"poster","releaseInfo":"2011"}
+opitv.s.157	glitch	{"id":"opitv.s.157","type":"series","name":"Glitch","poster":"https://image.tmdb.org/t/p/w500/kJEYfQSnnFSn8DY9vdNQ9UQ9QSg.jpg","posterShape":"poster"}
+opitv.s.26	always a witch	{"id":"opitv.s.26","type":"series","name":"Always a Witch","poster":"https://image.tmdb.org/t/p/w500/uzabhHPInLMsIozkW0IBVeXFRrY.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.278	pulse	{"id":"opitv.s.278","type":"series","name":"Pulse","poster":"https://image.tmdb.org/t/p/w500/swy3krKbM06B3K87uElGRJ5WHus.jpg","posterShape":"poster"}
+opitv.s.339	taaza khabar	{"id":"opitv.s.339","type":"series","name":"Taaza Khabar","poster":"https://image.tmdb.org/t/p/w500/zRrF8oj20lhd2jU0Yj9dg4sP5z5.jpg","posterShape":"poster"}
+opitv.s.247	moonhaven	{"id":"opitv.s.247","type":"series","name":"Moonhaven","poster":"https://image.tmdb.org/t/p/w500/nvEkr0zhe4DKdgf2ylcwFxyEFok.jpg","posterShape":"poster"}
+opitv.s.155	ghoul	{"id":"opitv.s.155","type":"series","name":"GHOUL","poster":"https://image.tmdb.org/t/p/w500/r3cbfNl77zK7XhFMNpdbxy0B7gW.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.385	the rising	{"id":"opitv.s.385","type":"series","name":"The Rising","poster":"https://image.tmdb.org/t/p/w500/pg1jhu8jtue4PQjUtkT4UUXf0XW.jpg","posterShape":"poster"}
+opitv.s.218	leila	{"id":"opitv.s.218","type":"series","name":"Leila","poster":"https://image.tmdb.org/t/p/w500/fNp0B9slDgBWOcJJjyv7Bf2fPQI.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.263	parnashavarir shaap	{"id":"opitv.s.263","type":"series","name":"Parnashavarir Shaap","poster":"https://image.tmdb.org/t/p/w500/cxp6Xb1COCBN8wpa20L94YOJ8PT.jpg","posterShape":"poster"}

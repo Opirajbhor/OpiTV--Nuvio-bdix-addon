@@ -1,0 +1,13 @@
+# Deploy:  cd worker && npx wrangler deploy
+name = "opitv-addon"
+main = "src/index.js"
+compatibility_date = "2025-09-01"
+
+# The pre-built catalog ships as static assets: the Worker only slices them,
+# which keeps every request inside the free tier's 10 ms CPU budget.
+[assets]
+directory = "./data"
+binding = "ASSETS"
+
+[observability]
+enabled = true

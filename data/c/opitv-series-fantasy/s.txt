@@ -1,0 +1,26 @@
+opitv.s.329	stranger things	{"id":"opitv.s.329","type":"series","name":"Stranger Things","poster":"https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg","posterShape":"poster"}
+opitv.s.181	house of the dragon	{"id":"opitv.s.181","type":"series","name":"House of the Dragon","poster":"https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.290	riverdale	{"id":"opitv.s.290","type":"series","name":"Riverdale","poster":"https://image.tmdb.org/t/p/w500/d8mmn9thQ5dBk2qbv6BCqGUXWK3.jpg","posterShape":"poster"}
+opitv.s.393	the witcher	{"id":"opitv.s.393","type":"series","name":"The Witcher","poster":"https://image.tmdb.org/t/p/w500/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.391	the wheel of time	{"id":"opitv.s.391","type":"series","name":"The Wheel of Time","poster":"https://image.tmdb.org/t/p/w500/ihBi24EIr5kwAeY2PqmsgAcCj4n.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.23	alice in borderland	{"id":"opitv.s.23","type":"series","name":"Alice in Borderland","poster":"https://image.tmdb.org/t/p/w500/Ac8ruycRXzgcsndTZFK6ouGA0FA.jpg","posterShape":"poster"}
+opitv.s.386	the sandman	{"id":"opitv.s.386","type":"series","name":"The Sandman","poster":"https://image.tmdb.org/t/p/w500/q54qEgagGOYCq5D1903eBVMNkbo.jpg","posterShape":"poster"}
+opitv.s.20	agatha all along	{"id":"opitv.s.20","type":"series","name":"Agatha All Along","poster":"https://image.tmdb.org/t/p/w500/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg","posterShape":"poster"}
+opitv.s.159	goblin	{"id":"opitv.s.159","type":"series","name":"Goblin","poster":"https://image.tmdb.org/t/p/w500/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.7	a discovery of witches	{"id":"opitv.s.7","type":"series","name":"A Discovery of Witches","poster":"https://image.tmdb.org/t/p/w500/l7MUpFAE8UEWYnO2Uv7SFtdZ2OJ.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.304	sense8	{"id":"opitv.s.304","type":"series","name":"Sense8","poster":"https://image.tmdb.org/t/p/w500/kmyvlQ9QKzgdZY31rXaUlgCnzrB.jpg","posterShape":"poster"}
+opitv.s.83	carnival row	{"id":"opitv.s.83","type":"series","name":"Carnival Row","poster":"https://image.tmdb.org/t/p/w500/jyhxT10e2z9IDsKoIQDKhyxSQJt.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.308	shadow and bone	{"id":"opitv.s.308","type":"series","name":"Shadow and Bone","poster":"https://image.tmdb.org/t/p/w500/mS9O9mjPlwpLTne4JgQlDkgREWA.jpg","posterShape":"poster"}
+opitv.s.87	channel zero	{"id":"opitv.s.87","type":"series","name":"Channel Zero","poster":"https://image.tmdb.org/t/p/w500/oCutmhFznao1Pzy6wM1C32kxAEu.jpg","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.165	guillermo del toro's cabinet of curiosities	{"id":"opitv.s.165","type":"series","name":"Guillermo del Toro's Cabinet of Curiosities","poster":"https://image.tmdb.org/t/p/w500/a91e9hpWwfCqxJI4xM9Q2RhuxgI.jpg","posterShape":"poster"}
+opitv.s.302	secrets of sulphur springs	{"id":"opitv.s.302","type":"series","name":"Secrets of Sulphur Springs","poster":"https://image.tmdb.org/t/p/w500/30MqitTOgIfeOhvwdMHkrM9p5mD.jpg","posterShape":"poster"}
+opitv.s.384	the rig	{"id":"opitv.s.384","type":"series","name":"The Rig","poster":"https://image.tmdb.org/t/p/w500/o8KxvfdpSVCP53d4S6a4DPHOqNh.jpg","posterShape":"poster"}
+opitv.s.49	behind her eyes	{"id":"opitv.s.49","type":"series","name":"Behind Her Eyes","poster":"https://image.tmdb.org/t/p/w500/sfd90NIf778KoBFmpdBTow4xTm7.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.251	my girlfriend is a gumiho	{"id":"opitv.s.251","type":"series","name":"My Girlfriend is a Gumiho","poster":"https://image.tmdb.org/t/p/w500/6GutxlEAvmc9GNKO6cwZ01JiRqt.jpg","posterShape":"poster","releaseInfo":"2010"}
+opitv.s.274	post mortem: no one dies in skarnes	{"id":"opitv.s.274","type":"series","name":"Post Mortem: No One Dies in Skarnes","poster":"https://image.tmdb.org/t/p/w500/n39bR1mhmRTcUsbbALzO5QlSsaD.jpg","posterShape":"poster"}
+opitv.s.219	let the right one in	{"id":"opitv.s.219","type":"series","name":"Let the Right One In","poster":"https://image.tmdb.org/t/p/w500/aRsmGF1AVuMY26ArRxMpKJ8S8NL.jpg","posterShape":"poster"}
+opitv.s.5	666 park avenue	{"id":"opitv.s.5","type":"series","name":"666 Park Avenue","poster":"https://image.tmdb.org/t/p/w500/ogiB7HOq82NlQTMkqk8piIm5pSW.jpg","posterShape":"poster","releaseInfo":"2012"}
+opitv.s.72	brand new cherry flavor	{"id":"opitv.s.72","type":"series","name":"Brand New Cherry Flavor","poster":"https://image.tmdb.org/t/p/w500/cX4acZbi2l4v051NJZfonqY0E3X.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.60	black spot	{"id":"opitv.s.60","type":"series","name":"Black Spot","poster":"https://image.tmdb.org/t/p/w500/24YXi0GA3DsrPBe7ttw8XVV3uL7.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.26	always a witch	{"id":"opitv.s.26","type":"series","name":"Always a Witch","poster":"https://image.tmdb.org/t/p/w500/uzabhHPInLMsIozkW0IBVeXFRrY.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.411	wicked city	{"id":"opitv.s.411","type":"series","name":"Wicked City","poster":"https://image.tmdb.org/t/p/w500/vfMPjMaxBA2kmSB6RLNKsa56CDO.jpg","posterShape":"poster"}

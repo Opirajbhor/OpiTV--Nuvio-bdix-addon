@@ -1,0 +1,419 @@
+opitv.s.313	sherlock	{"id":"opitv.s.313","type":"series","name":"Sherlock","poster":"https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg","posterShape":"poster"}
+opitv.s.215	kurulus: osman	{"id":"opitv.s.215","type":"series","name":"Kurulus: Osman","poster":"https://image.tmdb.org/t/p/w500/tu4BWsGFHcYDWulZwHxylA91vo0.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.80	campus beats	{"id":"opitv.s.80","type":"series","name":"Campus Beats","poster":"https://image.tmdb.org/t/p/w500/fQgRGizqI0IXvGggqqmiehimkEM.jpg","posterShape":"poster"}
+opitv.s.387	the summer i turned pretty	{"id":"opitv.s.387","type":"series","name":"The Summer I Turned Pretty","poster":"https://image.tmdb.org/t/p/w500/xBIz53wYWsKfFpN0TaizVAjKJ0z.jpg","posterShape":"poster"}
+opitv.s.400	tulsa king	{"id":"opitv.s.400","type":"series","name":"Tulsa King","poster":"https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg","posterShape":"poster"}
+opitv.s.286	reacher	{"id":"opitv.s.286","type":"series","name":"Reacher","poster":"https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg","posterShape":"poster"}
+opitv.s.388	the terminal list	{"id":"opitv.s.388","type":"series","name":"The Terminal List","poster":"https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg","posterShape":"poster"}
+opitv.s.30	arrow	{"id":"opitv.s.30","type":"series","name":"Arrow","poster":"https://image.tmdb.org/t/p/w500/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg","posterShape":"poster","releaseInfo":"2012"}
+opitv.s.325	special ops: lioness	{"id":"opitv.s.325","type":"series","name":"Special Ops: Lioness","poster":"https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg","posterShape":"poster"}
+opitv.s.371	the lord of the rings: the rings of power	{"id":"opitv.s.371","type":"series","name":"The Lord of the Rings: The Rings of Power","poster":"https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.329	stranger things	{"id":"opitv.s.329","type":"series","name":"Stranger Things","poster":"https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg","posterShape":"poster"}
+opitv.s.317	silo	{"id":"opitv.s.317","type":"series","name":"Silo","poster":"https://image.tmdb.org/t/p/w500/r2QXomqKjkKHVtYGGtkf2l2Y7go.jpg","posterShape":"poster"}
+opitv.s.349	the boys	{"id":"opitv.s.349","type":"series","name":"The Boys","poster":"https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg","posterShape":"poster"}
+opitv.s.181	house of the dragon	{"id":"opitv.s.181","type":"series","name":"House of the Dragon","poster":"https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.300	seal team	{"id":"opitv.s.300","type":"series","name":"SEAL Team","poster":"https://image.tmdb.org/t/p/w500/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg","posterShape":"poster"}
+opitv.s.266	peaky blinders	{"id":"opitv.s.266","type":"series","name":"Peaky Blinders","poster":"https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg","posterShape":"poster","releaseInfo":"2013"}
+opitv.s.113	dc's legends of tomorrow	{"id":"opitv.s.113","type":"series","name":"DC's Legends of Tomorrow","poster":"https://image.tmdb.org/t/p/w500/qNgAcg4gNYbZ9mySLB9ZX4ehZb6.jpg","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.290	riverdale	{"id":"opitv.s.290","type":"series","name":"Riverdale","poster":"https://image.tmdb.org/t/p/w500/d8mmn9thQ5dBk2qbv6BCqGUXWK3.jpg","posterShape":"poster"}
+opitv.s.326	squid game	{"id":"opitv.s.326","type":"series","name":"Squid Game","poster":"https://image.tmdb.org/t/p/w500/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.237	mayor of kingstown	{"id":"opitv.s.237","type":"series","name":"Mayor of Kingstown","poster":"https://image.tmdb.org/t/p/w500/6rWIip9MZELAA0SKii5WqsBDCYW.jpg","posterShape":"poster"}
+opitv.s.139	echoes	{"id":"opitv.s.139","type":"series","name":"Echoes","poster":"https://image.tmdb.org/t/p/w500/hz8YGIZETHJhXYWGaHsFPVwU4YU.jpg","posterShape":"poster"}
+opitv.s.360	the gentlemen	{"id":"opitv.s.360","type":"series","name":"The Gentlemen","poster":"https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg","posterShape":"poster"}
+opitv.s.76	bridgerton	{"id":"opitv.s.76","type":"series","name":"Bridgerton","poster":"https://image.tmdb.org/t/p/w500/uXTg565ahu9RwonCX1V2Hex1NU6.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.93	cobra kai	{"id":"opitv.s.93","type":"series","name":"Cobra Kai","poster":"https://image.tmdb.org/t/p/w500/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.221	loki	{"id":"opitv.s.221","type":"series","name":"Loki","poster":"https://image.tmdb.org/t/p/w500/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg","posterShape":"poster"}
+opitv.s.348	the bear	{"id":"opitv.s.348","type":"series","name":"The Bear","poster":"https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg","posterShape":"poster"}
+opitv.s.369	the lincoln lawyer	{"id":"opitv.s.369","type":"series","name":"The Lincoln Lawyer","poster":"https://image.tmdb.org/t/p/w500/4jSaIqEU8CPBBNn4iVCK6wzPjSx.jpg","posterShape":"poster"}
+opitv.s.393	the witcher	{"id":"opitv.s.393","type":"series","name":"The Witcher","poster":"https://image.tmdb.org/t/p/w500/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.334	superman & lois	{"id":"opitv.s.334","type":"series","name":"Superman & Lois","poster":"https://image.tmdb.org/t/p/w500/vlv1gn98GqMnKHLSh0dNciqGfBl.jpg","posterShape":"poster"}
+opitv.s.268	percy jackson and the olympians	{"id":"opitv.s.268","type":"series","name":"Percy Jackson and the Olympians","poster":"https://image.tmdb.org/t/p/w500/zofPiEpwCRYaezOncTlQwXebHFU.jpg","posterShape":"poster"}
+opitv.s.34	avatar: the last airbender	{"id":"opitv.s.34","type":"series","name":"Avatar: The Last Airbender","poster":"https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg","posterShape":"poster"}
+opitv.s.391	the wheel of time	{"id":"opitv.s.391","type":"series","name":"The Wheel of Time","poster":"https://image.tmdb.org/t/p/w500/ihBi24EIr5kwAeY2PqmsgAcCj4n.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.110	dark	{"id":"opitv.s.110","type":"series","name":"Dark","poster":"https://image.tmdb.org/t/p/w500/wiiyc3m6HKaQhFBYeuM7ySCNQsG.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.23	alice in borderland	{"id":"opitv.s.23","type":"series","name":"Alice in Borderland","poster":"https://image.tmdb.org/t/p/w500/Ac8ruycRXzgcsndTZFK6ouGA0FA.jpg","posterShape":"poster"}
+opitv.s.245	money heist	{"id":"opitv.s.245","type":"series","name":"Money Heist","poster":"https://image.tmdb.org/t/p/w500/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.0	13 reasons why	{"id":"opitv.s.0","type":"series","name":"13 Reasons Why","poster":"https://image.tmdb.org/t/p/w500/nel144y4dIOdFFid6twN5mAX9Yd.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.265	peacemaker	{"id":"opitv.s.265","type":"series","name":"Peacemaker","poster":"https://image.tmdb.org/t/p/w500/yb4F1Oocq8GfQt6iIuAgYEBokhG.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.131	doom patrol	{"id":"opitv.s.131","type":"series","name":"Doom Patrol","poster":"https://image.tmdb.org/t/p/w500/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.416	yellowjackets	{"id":"opitv.s.416","type":"series","name":"Yellowjackets","poster":"https://image.tmdb.org/t/p/w500/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg","posterShape":"poster"}
+opitv.s.153	gen v	{"id":"opitv.s.153","type":"series","name":"Gen V","poster":"https://image.tmdb.org/t/p/w500/tEv842Nd5uMSavURG4aQO1pNtst.jpg","posterShape":"poster"}
+opitv.s.303	see	{"id":"opitv.s.303","type":"series","name":"See","poster":"https://image.tmdb.org/t/p/w500/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg","posterShape":"poster"}
+opitv.s.257	one piece	{"id":"opitv.s.257","type":"series","name":"ONE PIECE","poster":"https://image.tmdb.org/t/p/w500/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg","posterShape":"poster"}
+opitv.s.154	genius	{"id":"opitv.s.154","type":"series","name":"Genius","poster":"https://image.tmdb.org/t/p/w500/waCykVbku2Amh0revf535SOnlmm.jpg","posterShape":"poster"}
+opitv.s.88	chernobyl	{"id":"opitv.s.88","type":"series","name":"Chernobyl","poster":"https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.44	barry	{"id":"opitv.s.44","type":"series","name":"Barry","poster":"https://image.tmdb.org/t/p/w500/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.244	monarch: legacy of monsters	{"id":"opitv.s.244","type":"series","name":"Monarch: Legacy of Monsters","poster":"https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg","posterShape":"poster"}
+opitv.s.337	sweet home	{"id":"opitv.s.337","type":"series","name":"Sweet Home","poster":"https://image.tmdb.org/t/p/w500/owGb1SExjoEZWOvPx6hAVAi2B7D.jpg","posterShape":"poster"}
+opitv.s.386	the sandman	{"id":"opitv.s.386","type":"series","name":"The Sandman","poster":"https://image.tmdb.org/t/p/w500/q54qEgagGOYCq5D1903eBVMNkbo.jpg","posterShape":"poster"}
+opitv.s.407	vikings: valhalla	{"id":"opitv.s.407","type":"series","name":"Vikings: Valhalla","poster":"https://image.tmdb.org/t/p/w500/uCr7Ov7Rpzx0c0EPqbPcoEruTYl.jpg","posterShape":"poster"}
+opitv.s.58	black lightning	{"id":"opitv.s.58","type":"series","name":"Black Lightning","poster":"https://image.tmdb.org/t/p/w500/h1xbvvO6oqchfLe6xh0yLNnQxeM.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.20	agatha all along	{"id":"opitv.s.20","type":"series","name":"Agatha All Along","poster":"https://image.tmdb.org/t/p/w500/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg","posterShape":"poster"}
+opitv.s.54	big sky	{"id":"opitv.s.54","type":"series","name":"Big Sky","poster":"https://image.tmdb.org/t/p/w500/4CUK42x0TvcWvuRXfjAFQlCeRdf.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.408	warrior	{"id":"opitv.s.408","type":"series","name":"Warrior","poster":"https://image.tmdb.org/t/p/w500/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg","posterShape":"poster"}
+opitv.s.25	altered carbon	{"id":"opitv.s.25","type":"series","name":"Altered Carbon","poster":"https://image.tmdb.org/t/p/w500/AisK4uFsnwwmMkSynFpNl0VeGR.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.173	hawkeye	{"id":"opitv.s.173","type":"series","name":"Hawkeye","poster":"https://image.tmdb.org/t/p/w500/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.18	absentia	{"id":"opitv.s.18","type":"series","name":"Absentia","poster":"https://image.tmdb.org/t/p/w500/t3yVaAlmCLBwbqTrKGcWHwuCmkh.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.4	3 body problem	{"id":"opitv.s.4","type":"series","name":"3 Body Problem","poster":"https://image.tmdb.org/t/p/w500/ykZ7hlShkdRQaL2aiieXdEMmrLb.jpg","posterShape":"poster","releaseInfo":"2024"}
+opitv.s.307	sex/life	{"id":"opitv.s.307","type":"series","name":"Sex/Life","poster":"https://image.tmdb.org/t/p/w500/kfcJl5e8CRWDU7e4vX6uNABPRbS.jpg","posterShape":"poster"}
+opitv.s.45	batwoman	{"id":"opitv.s.45","type":"series","name":"Batwoman","poster":"https://image.tmdb.org/t/p/w500/pBpxKiitMuYXvtsXNSzya8DKKzV.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.214	kung fu panda: the dragon knight	{"id":"opitv.s.214","type":"series","name":"Kung Fu Panda: The Dragon Knight","poster":"https://image.tmdb.org/t/p/w500/7C9TKvU5dNyhvoG9kQvRFsg6vlA.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.177	hijack	{"id":"opitv.s.177","type":"series","name":"Hijack","poster":"https://image.tmdb.org/t/p/w500/2C51clnxQdiqPDeqQlXcUx70hse.jpg","posterShape":"poster"}
+opitv.s.159	goblin	{"id":"opitv.s.159","type":"series","name":"Goblin","poster":"https://image.tmdb.org/t/p/w500/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.119	defiance	{"id":"opitv.s.119","type":"series","name":"Defiance","poster":"https://image.tmdb.org/t/p/w500/4Xo2D2MX8v4FoHi70Y9jEghJGUI.jpg","posterShape":"poster","releaseInfo":"2013"}
+opitv.s.7	a discovery of witches	{"id":"opitv.s.7","type":"series","name":"A Discovery of Witches","poster":"https://image.tmdb.org/t/p/w500/l7MUpFAE8UEWYnO2Uv7SFtdZ2OJ.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.233	marvel's agent carter	{"id":"opitv.s.233","type":"series","name":"Marvel's Agent Carter","poster":"https://image.tmdb.org/t/p/w500/7kqIsjjDMZA5GRMH5VCdQYZJqc6.jpg","posterShape":"poster","releaseInfo":"2015"}
+opitv.s.9	a series of unfortunate events	{"id":"opitv.s.9","type":"series","name":"A Series of Unfortunate Events","poster":"https://image.tmdb.org/t/p/w500/qg7WXAatXyQq6zO3SnWnRJEayeZ.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.97	colony	{"id":"opitv.s.97","type":"series","name":"Colony","poster":"https://image.tmdb.org/t/p/w500/qfS0mp22XfTig2EK3jWKiyx7kNy.jpg","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.328	startup	{"id":"opitv.s.328","type":"series","name":"StartUp","poster":"https://image.tmdb.org/t/p/w500/mXiB1e0x3iaRaaPPVhC1c7rgwPr.jpg","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.279	queen of the south	{"id":"opitv.s.279","type":"series","name":"Queen of the South","poster":"https://image.tmdb.org/t/p/w500/rzdC5EHkkKJE6OPVdh6gT1pR1c9.jpg","posterShape":"poster"}
+opitv.s.362	the glory	{"id":"opitv.s.362","type":"series","name":"The Glory","poster":"https://image.tmdb.org/t/p/w500/uUM4LVlPgIrww07OoEKrGWlS1Ej.jpg","posterShape":"poster"}
+opitv.s.246	moon knight	{"id":"opitv.s.246","type":"series","name":"Moon Knight","poster":"https://image.tmdb.org/t/p/w500/9K3lbMf8TKvL9xGEbzi7TggWCNQ.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.84	castle rock	{"id":"opitv.s.84","type":"series","name":"Castle Rock","poster":"https://image.tmdb.org/t/p/w500/6dnUpv9ghx84pgxlMOb4uuJrWDs.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.22	ahsoka	{"id":"opitv.s.22","type":"series","name":"Ahsoka","poster":"https://image.tmdb.org/t/p/w500/eiJeWeCAEZAmRppnXHiTWDcCd3Q.jpg","posterShape":"poster"}
+opitv.s.305	servant	{"id":"opitv.s.305","type":"series","name":"Servant","poster":"https://image.tmdb.org/t/p/w500/plsSSobmPSSz4hm8vYMXeIVkJJP.jpg","posterShape":"poster"}
+opitv.s.269	perry mason	{"id":"opitv.s.269","type":"series","name":"Perry Mason","poster":"https://image.tmdb.org/t/p/w500/5QcaEyfSbJEmiaxf7ch8nBl0GO4.jpg","posterShape":"poster"}
+opitv.s.304	sense8	{"id":"opitv.s.304","type":"series","name":"Sense8","poster":"https://image.tmdb.org/t/p/w500/kmyvlQ9QKzgdZY31rXaUlgCnzrB.jpg","posterShape":"poster"}
+opitv.s.115	dead to me	{"id":"opitv.s.115","type":"series","name":"Dead to Me","poster":"https://image.tmdb.org/t/p/w500/mAj18PHeACxqcrEus4pD8pksRmB.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.83	carnival row	{"id":"opitv.s.83","type":"series","name":"Carnival Row","poster":"https://image.tmdb.org/t/p/w500/jyhxT10e2z9IDsKoIQDKhyxSQJt.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.239	mirzapur	{"id":"opitv.s.239","type":"series","name":"Mirzapur","poster":"https://image.tmdb.org/t/p/w500/p0qM8hhlMF5DuxHBzl2EZR6TehX.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.319	siren	{"id":"opitv.s.319","type":"series","name":"Siren","poster":"https://image.tmdb.org/t/p/w500/k906XXqqFMT93v2WMkIOtUcEAlV.jpg","posterShape":"poster"}
+opitv.s.291	roswell, new mexico	{"id":"opitv.s.291","type":"series","name":"Roswell, New Mexico","poster":"https://image.tmdb.org/t/p/w500/gU19YwCQXCoeQ3PcIPTOHwY5l7k.jpg","posterShape":"poster"}
+opitv.s.346	the artful dodger	{"id":"opitv.s.346","type":"series","name":"The Artful Dodger","poster":"https://image.tmdb.org/t/p/w500/lcyax0pIH6vZWbho2hxsMTt9KpN.jpg","posterShape":"poster"}
+opitv.s.401	twisted metal	{"id":"opitv.s.401","type":"series","name":"Twisted Metal","poster":"https://image.tmdb.org/t/p/w500/zMwMClR9y7RBeVWMEmNn8LwUJHz.jpg","posterShape":"poster"}
+opitv.s.182	how i met your father	{"id":"opitv.s.182","type":"series","name":"How I Met Your Father","poster":"https://image.tmdb.org/t/p/w500/8psLGtFzTMYCXxUNMpMOCB6doPn.jpg","posterShape":"poster"}
+opitv.s.125	dickinson	{"id":"opitv.s.125","type":"series","name":"Dickinson","poster":"https://image.tmdb.org/t/p/w500/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.175	heartstopper	{"id":"opitv.s.175","type":"series","name":"Heartstopper","poster":"https://image.tmdb.org/t/p/w500/dQc0QbDiHjGmWxTfKtBgYtS4bj5.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.267	pennyworth: the origin of batman's butler	{"id":"opitv.s.267","type":"series","name":"Pennyworth: The Origin of Batman's Butler","poster":"https://image.tmdb.org/t/p/w500/mEHMfWe7pCWMelEkdrtRvVULopT.jpg","posterShape":"poster"}
+opitv.s.308	shadow and bone	{"id":"opitv.s.308","type":"series","name":"Shadow and Bone","poster":"https://image.tmdb.org/t/p/w500/mS9O9mjPlwpLTne4JgQlDkgREWA.jpg","posterShape":"poster"}
+opitv.s.301	secret invasion	{"id":"opitv.s.301","type":"series","name":"Secret Invasion","poster":"https://image.tmdb.org/t/p/w500/3rINdUPSy9AklJg74jWHOyUXuZd.jpg","posterShape":"poster"}
+opitv.s.255	obi-wan kenobi	{"id":"opitv.s.255","type":"series","name":"Obi-Wan Kenobi","poster":"https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg","posterShape":"poster"}
+opitv.s.211	kingdom	{"id":"opitv.s.211","type":"series","name":"Kingdom","poster":"https://image.tmdb.org/t/p/w500/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.127	dirilis: ertugrul	{"id":"opitv.s.127","type":"series","name":"Dirilis: Ertugrul","poster":"https://image.tmdb.org/t/p/w500/rOar34cNLn2sgDH5FmAa1bvMpBv.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.289	resident evil	{"id":"opitv.s.289","type":"series","name":"Resident Evil","poster":"https://image.tmdb.org/t/p/w500/rmLvn4w4HMdxobPkjmIqrhJiXDO.jpg","posterShape":"poster"}
+opitv.s.277	project blue book	{"id":"opitv.s.277","type":"series","name":"Project Blue Book","poster":"https://image.tmdb.org/t/p/w500/rqrzjT5nc7mTD5IKVMLRhLeyzgD.jpg","posterShape":"poster"}
+opitv.s.383	the recruit	{"id":"opitv.s.383","type":"series","name":"The Recruit","poster":"https://image.tmdb.org/t/p/w500/mLbFg0u2DPYuB5CILzwWk3kdI8b.jpg","posterShape":"poster"}
+opitv.s.120	departure	{"id":"opitv.s.120","type":"series","name":"Departure","poster":"https://image.tmdb.org/t/p/w500/b52lWChoqjtE6ZgMLK2XjA3unDW.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.258	outer range	{"id":"opitv.s.258","type":"series","name":"Outer Range","poster":"https://image.tmdb.org/t/p/w500/9leGmIDamsWJELYz0pZkr2EXUFf.jpg","posterShape":"poster"}
+opitv.s.57	black bird	{"id":"opitv.s.57","type":"series","name":"Black Bird","poster":"https://image.tmdb.org/t/p/w500/qu312pwM61NPTr7nexvovCClDNP.jpg","posterShape":"poster"}
+opitv.s.262	panchayat	{"id":"opitv.s.262","type":"series","name":"Panchayat","poster":"https://image.tmdb.org/t/p/w500/8ivTX5q2otqXvH815BcOhxVkTPW.jpg","posterShape":"poster"}
+opitv.s.382	the peripheral	{"id":"opitv.s.382","type":"series","name":"The Peripheral","poster":"https://image.tmdb.org/t/p/w500/2e5NNQu9B1fXBNllRj8fzysCguP.jpg","posterShape":"poster"}
+opitv.s.380	the old man	{"id":"opitv.s.380","type":"series","name":"The Old Man","poster":"https://image.tmdb.org/t/p/w500/8Ec9zCZl2Go8WhDN1JWjjgQRlEi.jpg","posterShape":"poster"}
+opitv.s.282	raised by wolves	{"id":"opitv.s.282","type":"series","name":"Raised by Wolves","poster":"https://image.tmdb.org/t/p/w500/mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg","posterShape":"poster"}
+opitv.s.150	furies	{"id":"opitv.s.150","type":"series","name":"Furies","poster":"https://image.tmdb.org/t/p/w500/8sHKc6kNKjdhvHBP2c5zoSS16v5.jpg","posterShape":"poster"}
+opitv.s.323	special ops	{"id":"opitv.s.323","type":"series","name":"Special OPS","poster":"https://image.tmdb.org/t/p/w500/doqymbPdJNLpkkEOhvlRALidJGb.jpg","posterShape":"poster"}
+opitv.s.77	britannia	{"id":"opitv.s.77","type":"series","name":"Britannia","poster":"https://image.tmdb.org/t/p/w500/fjdXymXAas9NSehc6GCOHQcEM05.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.122	descendants of the sun	{"id":"opitv.s.122","type":"series","name":"Descendants of the Sun","poster":"https://image.tmdb.org/t/p/w500/xxGomfml0x9iyPBS4StBjbRRu65.jpg","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.87	channel zero	{"id":"opitv.s.87","type":"series","name":"Channel Zero","poster":"https://image.tmdb.org/t/p/w500/oCutmhFznao1Pzy6wM1C32kxAEu.jpg","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.82	cardinal	{"id":"opitv.s.82","type":"series","name":"Cardinal","poster":"https://image.tmdb.org/t/p/w500/c1ZSmaRsqV8WSgwkWkeW3E1vFbg.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.311	sharp objects	{"id":"opitv.s.311","type":"series","name":"Sharp Objects","poster":"https://image.tmdb.org/t/p/w500/1SGovj2qDdkJexvhFiXllj9EYfu.jpg","posterShape":"poster"}
+opitv.s.406	vagabond	{"id":"opitv.s.406","type":"series","name":"Vagabond","poster":"https://image.tmdb.org/t/p/w500/8Sud9wqG7WZMXesZhPZ4lergRvp.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.143	fatal seduction	{"id":"opitv.s.143","type":"series","name":"Fatal Seduction","poster":"https://image.tmdb.org/t/p/w500/qV9DjDIMUu7ieCQTQkEe9R83Ooa.jpg","posterShape":"poster"}
+opitv.s.368	the legend of the blue sea	{"id":"opitv.s.368","type":"series","name":"The Legend of the Blue Sea","poster":"https://image.tmdb.org/t/p/w500/cHrhnci45nyoqctI33lgB0iX9Zy.jpg","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.71	boys over flowers	{"id":"opitv.s.71","type":"series","name":"Boys Over Flowers","poster":"https://image.tmdb.org/t/p/w500/7nqNwwCoMB3IdMU9VKSPTg5SrfL.jpg","posterShape":"poster","releaseInfo":"2009"}
+opitv.s.165	guillermo del toro's cabinet of curiosities	{"id":"opitv.s.165","type":"series","name":"Guillermo del Toro's Cabinet of Curiosities","poster":"https://image.tmdb.org/t/p/w500/a91e9hpWwfCqxJI4xM9Q2RhuxgI.jpg","posterShape":"poster"}
+opitv.s.63	blood & treasure	{"id":"opitv.s.63","type":"series","name":"Blood & Treasure","poster":"https://image.tmdb.org/t/p/w500/xbWqfPKBhqOZQEGq7HdDkX0Bjib.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.50	berlin station	{"id":"opitv.s.50","type":"series","name":"Berlin Station","poster":"https://image.tmdb.org/t/p/w500/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.59	black snow	{"id":"opitv.s.59","type":"series","name":"Black Snow","poster":"https://image.tmdb.org/t/p/w500/8cYzv4vR2u4IA8rx7yk0r8P8uIp.jpg","posterShape":"poster"}
+opitv.s.354	the crowded room	{"id":"opitv.s.354","type":"series","name":"The Crowded Room","poster":"https://image.tmdb.org/t/p/w500/vRmopCFp0j1eJGbILLsYsYzxmL8.jpg","posterShape":"poster"}
+opitv.s.296	sas: rogue heroes	{"id":"opitv.s.296","type":"series","name":"SAS: Rogue Heroes","poster":"https://image.tmdb.org/t/p/w500/Tc1mRuP5QrGaetGKcitZkhTU9g.jpg","posterShape":"poster"}
+opitv.s.128	dirty john	{"id":"opitv.s.128","type":"series","name":"Dirty John","poster":"https://image.tmdb.org/t/p/w500/5QWYsyYuVIdfF7GmUPBZDshILKr.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.281	ragnarok	{"id":"opitv.s.281","type":"series","name":"Ragnarok","poster":"https://image.tmdb.org/t/p/w500/9rWGgUJSuVEgaScOKbJPc9wkR3v.jpg","posterShape":"poster"}
+opitv.s.174	healer	{"id":"opitv.s.174","type":"series","name":"Healer","poster":"https://image.tmdb.org/t/p/w500/too4Zig9bDJOfvnFfU1SaxKmGlR.jpg","posterShape":"poster","releaseInfo":"2014"}
+opitv.s.138	echo	{"id":"opitv.s.138","type":"series","name":"Echo","poster":"https://image.tmdb.org/t/p/w500/vFyJH630cF68LohVYjQW49074Sy.jpg","posterShape":"poster"}
+opitv.s.180	house of ninjas	{"id":"opitv.s.180","type":"series","name":"House of Ninjas","poster":"https://image.tmdb.org/t/p/w500/AoEuSoSnwSSnX1YzykDdOiKAZNB.jpg","posterShape":"poster"}
+opitv.s.248	mr. & mrs. smith	{"id":"opitv.s.248","type":"series","name":"Mr. & Mrs. Smith","poster":"https://image.tmdb.org/t/p/w500/kvJvGxsDLi3MmHzc9nregyJtOWY.jpg","posterShape":"poster"}
+opitv.s.365	the king: eternal monarch	{"id":"opitv.s.365","type":"series","name":"The King: Eternal Monarch","poster":"https://image.tmdb.org/t/p/w500/7SLlbkzOJb8v9wXVYIcqozx2hxe.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.302	secrets of sulphur springs	{"id":"opitv.s.302","type":"series","name":"Secrets of Sulphur Springs","poster":"https://image.tmdb.org/t/p/w500/30MqitTOgIfeOhvwdMHkrM9p5mD.jpg","posterShape":"poster"}
+opitv.s.379	the offer	{"id":"opitv.s.379","type":"series","name":"The Offer","poster":"https://image.tmdb.org/t/p/w500/9fdYX5uc3HZEuYotms3XJ72AbCr.jpg","posterShape":"poster"}
+opitv.s.352	the continental: from the world of john wick	{"id":"opitv.s.352","type":"series","name":"The Continental: From the World of John Wick","poster":"https://image.tmdb.org/t/p/w500/2urdwqEL9FRkGMKAkhfvWTALG00.jpg","posterShape":"poster","releaseInfo":"2023"}
+opitv.s.250	ms. marvel	{"id":"opitv.s.250","type":"series","name":"Ms. Marvel","poster":"https://image.tmdb.org/t/p/w500/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.384	the rig	{"id":"opitv.s.384","type":"series","name":"The Rig","poster":"https://image.tmdb.org/t/p/w500/o8KxvfdpSVCP53d4S6a4DPHOqNh.jpg","posterShape":"poster"}
+opitv.s.19	after life	{"id":"opitv.s.19","type":"series","name":"After Life","poster":"https://image.tmdb.org/t/p/w500/6eJf4h9XcvqK64vbx27EFlLVURm.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.118	defending jacob	{"id":"opitv.s.118","type":"series","name":"Defending Jacob","poster":"https://image.tmdb.org/t/p/w500/JTmkzwSDRiS9nvSPwpDB9fmZj2.jpg","posterShape":"poster"}
+opitv.s.355	the devil's hour	{"id":"opitv.s.355","type":"series","name":"The Devil's Hour","poster":"https://image.tmdb.org/t/p/w500/mFU6ZPAs6g8Y9Eld28GULJYt3rC.jpg","posterShape":"poster"}
+opitv.s.394	the witcher: blood origin	{"id":"opitv.s.394","type":"series","name":"The Witcher: Blood Origin","poster":"https://image.tmdb.org/t/p/w500/vpfJK9F0UJNcAIIeC42oJyKMnZQ.jpg","posterShape":"poster"}
+opitv.s.276	pretty little liars: original sin	{"id":"opitv.s.276","type":"series","name":"Pretty Little Liars: Original Sin","poster":"https://image.tmdb.org/t/p/w500/igmLgglembi9mZ2RYQRaGKigbvq.jpg","posterShape":"poster"}
+opitv.s.12	a teacher	{"id":"opitv.s.12","type":"series","name":"A Teacher","poster":"https://image.tmdb.org/t/p/w500/rH2eEuThzRQh87Uxz6SY3BuVNBD.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.49	behind her eyes	{"id":"opitv.s.49","type":"series","name":"Behind Her Eyes","poster":"https://image.tmdb.org/t/p/w500/sfd90NIf778KoBFmpdBTow4xTm7.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.390	the watcher	{"id":"opitv.s.390","type":"series","name":"The Watcher","poster":"https://image.tmdb.org/t/p/w500/6RrseODZo2e66XOzC1XMzMuecnf.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.66	bodies	{"id":"opitv.s.66","type":"series","name":"Bodies","poster":"https://image.tmdb.org/t/p/w500/qWX71nLvoLsBNPEjddZMC75lq6I.jpg","posterShape":"poster"}
+opitv.s.61	black summer	{"id":"opitv.s.61","type":"series","name":"Black Summer","poster":"https://image.tmdb.org/t/p/w500/d27fZpY8jSZDOs1k0JCL0RY0b94.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.92	city hunter	{"id":"opitv.s.92","type":"series","name":"City Hunter","poster":"https://image.tmdb.org/t/p/w500/dbvXhmKr18oHdY7kwkeRXAbfDvD.jpg","posterShape":"poster","releaseInfo":"2011"}
+opitv.s.202	kaleidoscope	{"id":"opitv.s.202","type":"series","name":"Kaleidoscope","poster":"https://image.tmdb.org/t/p/w500/2nXJoSB5Y6R9ne7pjqL7Cs3zqY1.jpg","posterShape":"poster"}
+opitv.s.41	barbarians	{"id":"opitv.s.41","type":"series","name":"Barbarians","poster":"https://image.tmdb.org/t/p/w500/r3cUaeLUGT8c0YIR8qCDDH2iJSU.jpg","posterShape":"poster"}
+opitv.s.3	24: legacy	{"id":"opitv.s.3","type":"series","name":"24: Legacy","poster":"https://image.tmdb.org/t/p/w500/2eoCEa9myi32C3QC7VYEu4y1f6D.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.252	my name	{"id":"opitv.s.252","type":"series","name":"My Name","poster":"https://image.tmdb.org/t/p/w500/gHozOomiA24DvlgNfjkYCB5NBiO.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.67	bodyguard	{"id":"opitv.s.67","type":"series","name":"Bodyguard","poster":"https://image.tmdb.org/t/p/w500/5DUJTrHTRLHLCKWriPhdusQogAv.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.272	pinocchio	{"id":"opitv.s.272","type":"series","name":"Pinocchio","poster":"https://image.tmdb.org/t/p/w500/zVdHTEYEruxU8lis7OdY5tRg0UF.jpg","posterShape":"poster","releaseInfo":"2014"}
+opitv.s.29	are you afraid of the dark?	{"id":"opitv.s.29","type":"series","name":"Are You Afraid of the Dark?","poster":"https://image.tmdb.org/t/p/w500/3WUw41k7F0KClpJMyvwBgVVRmbb.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.146	fight for my way	{"id":"opitv.s.146","type":"series","name":"Fight For My Way","poster":"https://image.tmdb.org/t/p/w500/55w33JzFKBkz1evjBjqeF0enDd1.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.162	gotham knights	{"id":"opitv.s.162","type":"series","name":"Gotham Knights","poster":"https://image.tmdb.org/t/p/w500/tbCGmkR3TRDug4weDnHEGCu3WEC.jpg","posterShape":"poster"}
+opitv.s.374	the man who fell to earth	{"id":"opitv.s.374","type":"series","name":"The Man Who Fell to Earth","poster":"https://image.tmdb.org/t/p/w500/p1aBjGkyG25ADy4xu69joNMV3eQ.jpg","posterShape":"poster"}
+opitv.s.116	deadly class	{"id":"opitv.s.116","type":"series","name":"Deadly Class","poster":"https://image.tmdb.org/t/p/w500/u2GSiPazSXpyNQz0yymOUCUm944.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.130	dom	{"id":"opitv.s.130","type":"series","name":"DOM","poster":"https://image.tmdb.org/t/p/w500/sd7gQpzRMM6WMj2n6RJLsSZGFRP.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.367	the lazarus project	{"id":"opitv.s.367","type":"series","name":"The Lazarus Project","poster":"https://image.tmdb.org/t/p/w500/xw7GkWtmPQDU8qzfKshFEN038sj.jpg","posterShape":"poster"}
+opitv.s.209	kill me, heal me	{"id":"opitv.s.209","type":"series","name":"Kill Me, Heal Me","poster":"https://image.tmdb.org/t/p/w500/1RkBC4VkJ7TS4nSvKMc5QooaUQu.jpg","posterShape":"poster","releaseInfo":"2015"}
+opitv.s.142	farzi	{"id":"opitv.s.142","type":"series","name":"Farzi","poster":"https://image.tmdb.org/t/p/w500/cTS86RwEBIDgCgUmjWQTSoPsK6p.jpg","posterShape":"poster"}
+opitv.s.243	mo	{"id":"opitv.s.243","type":"series","name":"Mo","poster":"https://image.tmdb.org/t/p/w500/x3ojdK36AKestQaL2nAE6A7JYWO.jpg","posterShape":"poster"}
+opitv.s.201	kaisi yeh yaariaan	{"id":"opitv.s.201","type":"series","name":"Kaisi Yeh Yaariaan","poster":"https://image.tmdb.org/t/p/w500/8vIoRwGWypeSG5UGJFAIVK6twvt.jpg","posterShape":"poster","releaseInfo":"2014"}
+opitv.s.283	raising dion	{"id":"opitv.s.283","type":"series","name":"Raising Dion","poster":"https://image.tmdb.org/t/p/w500/nydKXBiLn4vpL1d5o1utbPKYdii.jpg","posterShape":"poster"}
+opitv.s.418	zootopia+	{"id":"opitv.s.418","type":"series","name":"Zootopia+","poster":"https://image.tmdb.org/t/p/w500/inzPPPr2BsE92m4rHhQn3sf2yPk.jpg","posterShape":"poster"}
+opitv.s.409	welcome to chippendales	{"id":"opitv.s.409","type":"series","name":"Welcome to Chippendales","poster":"https://image.tmdb.org/t/p/w500/cowPil7lc6c4giarDYWP0ZbK8hs.jpg","posterShape":"poster"}
+opitv.s.164	griselda	{"id":"opitv.s.164","type":"series","name":"Griselda","poster":"https://image.tmdb.org/t/p/w500/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg","posterShape":"poster"}
+opitv.s.353	the couple next door	{"id":"opitv.s.353","type":"series","name":"The Couple Next Door","poster":"https://image.tmdb.org/t/p/w500/ifQ5ffAI6KfywBcSGoGU1YWO3yC.jpg","posterShape":"poster"}
+opitv.s.294	sacred games	{"id":"opitv.s.294","type":"series","name":"Sacred Games","poster":"https://image.tmdb.org/t/p/w500/uEbNtFbK4At9WBDGap23lt1qO9n.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.73	brave new world	{"id":"opitv.s.73","type":"series","name":"Brave New World","poster":"https://image.tmdb.org/t/p/w500/vPl7hAY0vt0OPhIflRb5IXrssBv.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.419	zorro	{"id":"opitv.s.419","type":"series","name":"Zorro","poster":"https://image.tmdb.org/t/p/w500/k6n4fQTbEpPuS5zjMtmVNIsA0wi.jpg","posterShape":"poster"}
+opitv.s.37	bad blood	{"id":"opitv.s.37","type":"series","name":"Bad Blood","poster":"https://image.tmdb.org/t/p/w500/ukrAdTtJHHEaDRUJmi4XYwBUpRu.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.372	the lost flowers of alice hart	{"id":"opitv.s.372","type":"series","name":"The Lost Flowers of Alice Hart","poster":"https://image.tmdb.org/t/p/w500/sNeGAamuke1a2I4ndcaE0bnukh4.jpg","posterShape":"poster"}
+opitv.s.151	gandii baat	{"id":"opitv.s.151","type":"series","name":"Gandii Baat","poster":"https://image.tmdb.org/t/p/w500/yF0qYnvZaEflyOlElUcGGLE5FaA.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.166	gullak	{"id":"opitv.s.166","type":"series","name":"Gullak","poster":"https://image.tmdb.org/t/p/w500/arn3mvRYSrEqO7vaKbH8QxM8EEK.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.333	super giant robot brothers!	{"id":"opitv.s.333","type":"series","name":"Super Giant Robot Brothers!","poster":"https://image.tmdb.org/t/p/w500/1ysuYGkRtZgaP4mL9nbRmCU3vMd.jpg","posterShape":"poster"}
+opitv.s.395	to the lake	{"id":"opitv.s.395","type":"series","name":"To the Lake","poster":"https://image.tmdb.org/t/p/w500/miwLlQleUq3br4ozZl3p3hCLrkv.jpg","posterShape":"poster"}
+opitv.s.375	the midnight club	{"id":"opitv.s.375","type":"series","name":"The Midnight Club","poster":"https://image.tmdb.org/t/p/w500/2Y4F9BHkacKIMnDBZI3GGKpG1If.jpg","posterShape":"poster"}
+opitv.s.24	all the light we cannot see	{"id":"opitv.s.24","type":"series","name":"All the Light We Cannot See","poster":"https://image.tmdb.org/t/p/w500/5vctOvdEXakZWTJrP8bgPEoCbqS.jpg","posterShape":"poster"}
+opitv.s.288	reprisal	{"id":"opitv.s.288","type":"series","name":"Reprisal","poster":"https://image.tmdb.org/t/p/w500/lwNZ6FRhJkw1u4LyFQFZGi12tt4.jpg","posterShape":"poster"}
+opitv.s.397	treason	{"id":"opitv.s.397","type":"series","name":"Treason","poster":"https://image.tmdb.org/t/p/w500/qOitarv5B5ydsScN3dkJPipYPg3.jpg","posterShape":"poster"}
+opitv.s.240	mischievous kiss	{"id":"opitv.s.240","type":"series","name":"Mischievous Kiss","poster":"https://image.tmdb.org/t/p/w500/2j6cpZ5IOMbQYLemqE2fbRgWUwB.jpg","posterShape":"poster","releaseInfo":"2010"}
+opitv.s.356	the essex serpent	{"id":"opitv.s.356","type":"series","name":"The Essex Serpent","poster":"https://image.tmdb.org/t/p/w500/lSVygN5ZLmSMycBTe94umdKfTSd.jpg","posterShape":"poster"}
+opitv.s.107	cursed	{"id":"opitv.s.107","type":"series","name":"Cursed","poster":"https://image.tmdb.org/t/p/w500/wrLC5kx0nEq9U0MyJD7dnOT6m5F.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.271	pine gap	{"id":"opitv.s.271","type":"series","name":"Pine Gap","poster":"https://image.tmdb.org/t/p/w500/tVGnKORliwBh2ZEpGfvoclUe1O1.jpg","posterShape":"poster"}
+opitv.s.357	the ex-wife	{"id":"opitv.s.357","type":"series","name":"The Ex-Wife","poster":"https://image.tmdb.org/t/p/w500/vp5Vs17MUizJ7bQNMRsUcvDVquC.jpg","posterShape":"poster"}
+opitv.s.109	dangerous liaisons	{"id":"opitv.s.109","type":"series","name":"Dangerous Liaisons","poster":"https://image.tmdb.org/t/p/w500/epuxWxRq1cSvhw0SkWzSiuntrBs.jpg","posterShape":"poster"}
+opitv.s.381	the patient	{"id":"opitv.s.381","type":"series","name":"The Patient","poster":"https://image.tmdb.org/t/p/w500/fB1848j0pvNnYilXB0ho5OCfiIz.jpg","posterShape":"poster"}
+opitv.s.414	woman of the dead	{"id":"opitv.s.414","type":"series","name":"Woman of the Dead","poster":"https://image.tmdb.org/t/p/w500/crikd977NaXsTlqh6MohE4AnuWo.jpg","posterShape":"poster"}
+opitv.s.55	big tree city	{"id":"opitv.s.55","type":"series","name":"Big Tree City","poster":"https://image.tmdb.org/t/p/w500/qpUvxH92IDFhxGQJAf63Ucyuc2S.jpg","posterShape":"poster"}
+opitv.s.106	culprits	{"id":"opitv.s.106","type":"series","name":"Culprits","poster":"https://image.tmdb.org/t/p/w500/gOo5KW8NAvtZdX5jdwnCTYTTpjB.jpg","posterShape":"poster"}
+opitv.s.126	dil hi toh hai	{"id":"opitv.s.126","type":"series","name":"Dil Hi Toh Hai","poster":"https://image.tmdb.org/t/p/w500/bJR1q8iyx9wva0H2LX443bd0y4f.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.230	maggie	{"id":"opitv.s.230","type":"series","name":"Maggie","poster":"https://image.tmdb.org/t/p/w500/5kgwKKFZlrRCCRDGeRRNqep4Olh.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.342	taskaree: the smuggler's web	{"id":"opitv.s.342","type":"series","name":"Taskaree: The Smuggler's Web","poster":"https://image.tmdb.org/t/p/w500/25fKRXvQLBq4nXu9vjOVJcvCiiD.jpg","posterShape":"poster","releaseInfo":"2026"}
+opitv.s.376	the midwich cuckoos	{"id":"opitv.s.376","type":"series","name":"The Midwich Cuckoos","poster":"https://image.tmdb.org/t/p/w500/xfJtH6faQHUVxvKTdvMBys6I6j0.jpg","posterShape":"poster"}
+opitv.s.21	agent x	{"id":"opitv.s.21","type":"series","name":"Agent X","poster":"https://image.tmdb.org/t/p/w500/7KYgoZgXuk1EkUkV797MXh8ik5k.jpg","posterShape":"poster","releaseInfo":"2015"}
+opitv.s.251	my girlfriend is a gumiho	{"id":"opitv.s.251","type":"series","name":"My Girlfriend is a Gumiho","poster":"https://image.tmdb.org/t/p/w500/6GutxlEAvmc9GNKO6cwZ01JiRqt.jpg","posterShape":"poster","releaseInfo":"2010"}
+opitv.s.343	tekken: bloodline	{"id":"opitv.s.343","type":"series","name":"Tekken: Bloodline","poster":"https://image.tmdb.org/t/p/w500/bi3XOKS38K7FdH9nPtsZCcmeL1F.jpg","posterShape":"poster"}
+opitv.s.133	doona!	{"id":"opitv.s.133","type":"series","name":"Doona!","poster":"https://image.tmdb.org/t/p/w500/bQhiOkU3lCu5pwCqPdNVG5GBLlj.jpg","posterShape":"poster"}
+opitv.s.35	average joe	{"id":"opitv.s.35","type":"series","name":"Average Joe","poster":"https://image.tmdb.org/t/p/w500/gZOvsaKla8PrZ9MXOzJFPLXNl6z.jpg","posterShape":"poster"}
+opitv.s.413	wolf pack	{"id":"opitv.s.413","type":"series","name":"Wolf Pack","poster":"https://image.tmdb.org/t/p/w500/rbCANmS1ogweUkIBghP03EHtdHB.jpg","posterShape":"poster"}
+opitv.s.274	post mortem: no one dies in skarnes	{"id":"opitv.s.274","type":"series","name":"Post Mortem: No One Dies in Skarnes","poster":"https://image.tmdb.org/t/p/w500/n39bR1mhmRTcUsbbALzO5QlSsaD.jpg","posterShape":"poster"}
+opitv.s.70	boundless	{"id":"opitv.s.70","type":"series","name":"Boundless","poster":"https://image.tmdb.org/t/p/w500/ug4DCGWKIDMVTOFltSepD5XzUng.jpg","posterShape":"poster"}
+opitv.s.232	marie antoinette	{"id":"opitv.s.232","type":"series","name":"Marie Antoinette","poster":"https://image.tmdb.org/t/p/w500/hHx98HeZOPNCJjXXLr7WRoE4NeY.jpg","posterShape":"poster"}
+opitv.s.46	baymax!	{"id":"opitv.s.46","type":"series","name":"Baymax!","poster":"https://image.tmdb.org/t/p/w500/muzgYvvFniQnwiTdAvfMCEkHsT4.jpg","posterShape":"poster"}
+opitv.s.219	let the right one in	{"id":"opitv.s.219","type":"series","name":"Let the Right One In","poster":"https://image.tmdb.org/t/p/w500/aRsmGF1AVuMY26ArRxMpKJ8S8NL.jpg","posterShape":"poster"}
+opitv.s.351	the clearing	{"id":"opitv.s.351","type":"series","name":"The Clearing","poster":"https://image.tmdb.org/t/p/w500/iqJpQPAKZq73wIex5f0bSZkYfoT.jpg","posterShape":"poster"}
+opitv.s.231	man vs bee	{"id":"opitv.s.231","type":"series","name":"Man Vs Bee","poster":"https://image.tmdb.org/t/p/w500/c80mxgOPvSWJBcgWoI5bf3et5Ws.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.261	painkiller	{"id":"opitv.s.261","type":"series","name":"Painkiller","poster":"https://image.tmdb.org/t/p/w500/7zYtVymTxVEhgAOuMl4l2NoFCrO.jpg","posterShape":"poster"}
+opitv.s.335	suspect	{"id":"opitv.s.335","type":"series","name":"Suspect","poster":"https://image.tmdb.org/t/p/w500/AkxlS2dz5aOcmhJTKHcd1ZhFzJd.jpg","posterShape":"poster"}
+opitv.s.389	the twelve	{"id":"opitv.s.389","type":"series","name":"The Twelve","poster":"https://image.tmdb.org/t/p/w500/mmhTRyNiAVGoTY8PU7cPobSI3pN.jpg","posterShape":"poster"}
+opitv.s.412	wilderness	{"id":"opitv.s.412","type":"series","name":"Wilderness","poster":"https://image.tmdb.org/t/p/w500/gI3cc3aMKNQJVwEQXy3or7b0GHK.jpg","posterShape":"poster"}
+opitv.s.81	capitani	{"id":"opitv.s.81","type":"series","name":"Capitani","poster":"https://image.tmdb.org/t/p/w500/AltQRrBvpQNecDNFtrAQmCNAqvq.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.366	the last movie stars	{"id":"opitv.s.366","type":"series","name":"The Last Movie Stars","poster":"https://image.tmdb.org/t/p/w500/9L6AkTv9CDdxqwWICIB4OuLeNdM.jpg","posterShape":"poster"}
+opitv.s.212	kota factory	{"id":"opitv.s.212","type":"series","name":"Kota Factory","poster":"https://image.tmdb.org/t/p/w500/fMBookmwL6HjIgIVTjQ6EMr3pCH.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.402	two weeks	{"id":"opitv.s.402","type":"series","name":"Two Weeks","poster":"https://image.tmdb.org/t/p/w500/f6NPHlra4spMh52BesLTJNeT78O.jpg","posterShape":"poster","releaseInfo":"2013"}
+opitv.s.51	betaal	{"id":"opitv.s.51","type":"series","name":"Betaal","poster":"https://image.tmdb.org/t/p/w500/mhHzaSZVrltLOwCSCeKC3nXGMV1.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.124	dev dd	{"id":"opitv.s.124","type":"series","name":"Dev DD","poster":"https://image.tmdb.org/t/p/w500/uUfvcAfk0AKd8eFbZXu0i4cRi8V.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.5	666 park avenue	{"id":"opitv.s.5","type":"series","name":"666 Park Avenue","poster":"https://image.tmdb.org/t/p/w500/ogiB7HOq82NlQTMkqk8piIm5pSW.jpg","posterShape":"poster","releaseInfo":"2012"}
+opitv.s.148	fixerr	{"id":"opitv.s.148","type":"series","name":"Fixerr","poster":"https://image.tmdb.org/t/p/w500/3f1ZzRisBOmmsHmyWgu5hPcc4Ks.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.306	seven seconds	{"id":"opitv.s.306","type":"series","name":"Seven Seconds","poster":"https://image.tmdb.org/t/p/w500/mexUP20U3sPzu8jfGeRIHzI3TUC.jpg","posterShape":"poster"}
+opitv.s.187	inside edge	{"id":"opitv.s.187","type":"series","name":"Inside Edge","poster":"https://image.tmdb.org/t/p/w500/pfGyOXhabq3CrjSLx7LJjCrWTHy.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.64	blood drive	{"id":"opitv.s.64","type":"series","name":"Blood Drive","poster":"https://image.tmdb.org/t/p/w500/qB9PBQMyKrp8diKGxVpfayKZbgd.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.410	who is erin carter?	{"id":"opitv.s.410","type":"series","name":"Who Is Erin Carter?","poster":"https://image.tmdb.org/t/p/w500/1FCsjYtEtuine1TUssIFjy6vmJW.jpg","posterShape":"poster"}
+opitv.s.11	a suitable boy	{"id":"opitv.s.11","type":"series","name":"A Suitable Boy","poster":"https://image.tmdb.org/t/p/w500/rS2osLCatyLuRsrwxfDLheaR3hG.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.378	the night manager	{"id":"opitv.s.378","type":"series","name":"The Night Manager","poster":"https://image.tmdb.org/t/p/w500/1anVoLwguecmFqsNx0Ic8cIzmuW.jpg","posterShape":"poster"}
+opitv.s.361	the girl in the mirror	{"id":"opitv.s.361","type":"series","name":"The Girl in the Mirror","poster":"https://image.tmdb.org/t/p/w500/6xI0gpmNljWQRCkB8UgSraXRB56.jpg","posterShape":"poster"}
+opitv.s.108	damnation	{"id":"opitv.s.108","type":"series","name":"Damnation","poster":"https://image.tmdb.org/t/p/w500/rmoUClMYqrQ7EWWQXvgzWcjlb1W.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.297	savage river	{"id":"opitv.s.297","type":"series","name":"Savage River","poster":"https://image.tmdb.org/t/p/w500/dKzfsH0xzO43mR8A0mJ7IlmIP0M.jpg","posterShape":"poster"}
+opitv.s.72	brand new cherry flavor	{"id":"opitv.s.72","type":"series","name":"Brand New Cherry Flavor","poster":"https://image.tmdb.org/t/p/w500/cX4acZbi2l4v051NJZfonqY0E3X.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.228	maamla legal hai	{"id":"opitv.s.228","type":"series","name":"Maamla Legal Hai","poster":"https://image.tmdb.org/t/p/w500/tDP5vC5wxSpHKx88RdyRpdaSo2u.jpg","posterShape":"poster"}
+opitv.s.60	black spot	{"id":"opitv.s.60","type":"series","name":"Black Spot","poster":"https://image.tmdb.org/t/p/w500/24YXi0GA3DsrPBe7ttw8XVV3uL7.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.8	a gifted man	{"id":"opitv.s.8","type":"series","name":"A Gifted Man","poster":"https://image.tmdb.org/t/p/w500/2G3YfOYTshX9gzlF4oRLeczW8ng.jpg","posterShape":"poster","releaseInfo":"2011"}
+opitv.s.32	asur	{"id":"opitv.s.32","type":"series","name":"Asur","poster":"https://image.tmdb.org/t/p/w500/aw8W6JCrE3zsQexfvsu4cDjb1ub.jpg","posterShape":"poster"}
+opitv.s.157	glitch	{"id":"opitv.s.157","type":"series","name":"Glitch","poster":"https://image.tmdb.org/t/p/w500/kJEYfQSnnFSn8DY9vdNQ9UQ9QSg.jpg","posterShape":"poster"}
+opitv.s.185	indian police force	{"id":"opitv.s.185","type":"series","name":"Indian Police Force","poster":"https://image.tmdb.org/t/p/w500/hEiUy3Du35ZmVeKgVQnDK6wgMAt.jpg","posterShape":"poster"}
+opitv.s.188	inspector rishi	{"id":"opitv.s.188","type":"series","name":"Inspector Rishi","poster":"https://image.tmdb.org/t/p/w500/w5jcmfhqjGQxtXvWQ2xt60ueGZA.jpg","posterShape":"poster"}
+opitv.s.26	always a witch	{"id":"opitv.s.26","type":"series","name":"Always a Witch","poster":"https://image.tmdb.org/t/p/w500/uzabhHPInLMsIozkW0IBVeXFRrY.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.149	from scratch	{"id":"opitv.s.149","type":"series","name":"From Scratch","poster":"https://image.tmdb.org/t/p/w500/s8D32MA8NlNgixnAIxVbmt9cazX.jpg","posterShape":"poster"}
+opitv.s.48	becoming elizabeth	{"id":"opitv.s.48","type":"series","name":"Becoming Elizabeth","poster":"https://image.tmdb.org/t/p/w500/84fIwd3uL6AIs4PcvBFCqI2noV0.jpg","posterShape":"poster"}
+opitv.s.404	uncoupled	{"id":"opitv.s.404","type":"series","name":"Uncoupled","poster":"https://image.tmdb.org/t/p/w500/ckwIGJghs2AuUcjyhByRlXNMBYZ.jpg","posterShape":"poster"}
+opitv.s.287	red rose	{"id":"opitv.s.287","type":"series","name":"Red Rose","poster":"https://image.tmdb.org/t/p/w500/pLJhY7K0FQwO3oa6UyPCSw4D9bl.jpg","posterShape":"poster"}
+opitv.s.278	pulse	{"id":"opitv.s.278","type":"series","name":"Pulse","poster":"https://image.tmdb.org/t/p/w500/swy3krKbM06B3K87uElGRJ5WHus.jpg","posterShape":"poster"}
+opitv.s.298	scrublands	{"id":"opitv.s.298","type":"series","name":"Scrublands","poster":"https://image.tmdb.org/t/p/w500/iFRUtxh7OHLqoER6oflO6DWNaQJ.jpg","posterShape":"poster"}
+opitv.s.217	lady voyeur	{"id":"opitv.s.217","type":"series","name":"Lady Voyeur","poster":"https://image.tmdb.org/t/p/w500/5BqzppbUELOLDUSuS8d9mWz97iH.jpg","posterShape":"poster"}
+opitv.s.370	the longest night	{"id":"opitv.s.370","type":"series","name":"The Longest Night","poster":"https://image.tmdb.org/t/p/w500/sbT2rJSszeYVaWfOqz9dT8cz2Ra.jpg","posterShape":"poster"}
+opitv.s.339	taaza khabar	{"id":"opitv.s.339","type":"series","name":"Taaza Khabar","poster":"https://image.tmdb.org/t/p/w500/zRrF8oj20lhd2jU0Yj9dg4sP5z5.jpg","posterShape":"poster"}
+opitv.s.121	des	{"id":"opitv.s.121","type":"series","name":"Des","poster":"https://image.tmdb.org/t/p/w500/9llAQpT74W2fajazgRvgN5Z5fyG.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.336	suzhal	{"id":"opitv.s.336","type":"series","name":"Suzhal","poster":"https://image.tmdb.org/t/p/w500/z6IJi7xmAMmKdbzSnwguIXLIVjN.jpg","posterShape":"poster"}
+opitv.s.373	the lying life of adults	{"id":"opitv.s.373","type":"series","name":"The Lying Life of Adults","poster":"https://image.tmdb.org/t/p/w500/cDy24NY2QIXYUxRzelvhkWGbkPH.jpg","posterShape":"poster"}
+opitv.s.16	aashram	{"id":"opitv.s.16","type":"series","name":"Aashram","poster":"https://image.tmdb.org/t/p/w500/5tK4hBaHXqEcz1iHRr0nCgaABPk.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.100	coyote	{"id":"opitv.s.100","type":"series","name":"Coyote","poster":"https://image.tmdb.org/t/p/w500/dzAwoFc87V2zku5FqYoijKfCOvh.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.399	tribhuvan mishra ca topper	{"id":"opitv.s.399","type":"series","name":"Tribhuvan Mishra CA Topper","poster":"https://image.tmdb.org/t/p/w500/OELqaq5LTrsR8l8GsjrArbxN0a.jpg","posterShape":"poster","releaseInfo":"2024"}
+opitv.s.321	someone has to die	{"id":"opitv.s.321","type":"series","name":"Someone Has to Die","poster":"https://image.tmdb.org/t/p/w500/srFvdWGF1ZJc8JYHx9AdyMy968p.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.344	that dirty black bag	{"id":"opitv.s.344","type":"series","name":"That Dirty Black Bag","poster":"https://image.tmdb.org/t/p/w500/vSk9On9NPZKX9e4zlu7ribuRIMB.jpg","posterShape":"poster"}
+opitv.s.350	the burning girls	{"id":"opitv.s.350","type":"series","name":"The Burning Girls","poster":"https://image.tmdb.org/t/p/w500/qjhbQMfQPcMpk9fqcB7AqGvLfHP.jpg","posterShape":"poster","releaseInfo":"2023"}
+opitv.s.189	intimacy	{"id":"opitv.s.189","type":"series","name":"Intimacy","poster":"https://image.tmdb.org/t/p/w500/AninoKw9HranR7ioImNYYA8dMu3.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.320	so not worth it	{"id":"opitv.s.320","type":"series","name":"So Not Worth It","poster":"https://image.tmdb.org/t/p/w500/wiByXTq5vaDppWnYCLt6fzDuu7x.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.264	payback	{"id":"opitv.s.264","type":"series","name":"Payback","poster":"https://image.tmdb.org/t/p/w500/pyOjMsKgKv7yHD1exMfddRbjS1X.jpg","posterShape":"poster"}
+opitv.s.79	bulletproof	{"id":"opitv.s.79","type":"series","name":"Bulletproof","poster":"https://image.tmdb.org/t/p/w500/yiKT45qwaiXof4T6EG990qjk2wO.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.205	karen pirie	{"id":"opitv.s.205","type":"series","name":"Karen Pirie","poster":"https://image.tmdb.org/t/p/w500/phknCqSIyo3YbCdsZhdXqImuqDz.jpg","posterShape":"poster"}
+opitv.s.247	moonhaven	{"id":"opitv.s.247","type":"series","name":"Moonhaven","poster":"https://image.tmdb.org/t/p/w500/nvEkr0zhe4DKdgf2ylcwFxyEFok.jpg","posterShape":"poster"}
+opitv.s.192	jamtara – sabka number ayega	{"id":"opitv.s.192","type":"series","name":"Jamtara – Sabka Number Ayega","poster":"https://image.tmdb.org/t/p/w500/wqWsyazYqBceNMyRIg9q8HSJEcw.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.415	yeh kaali kaali ankhein	{"id":"opitv.s.415","type":"series","name":"Yeh Kaali Kaali Ankhein","poster":"https://image.tmdb.org/t/p/w500/cyHFgiRHBW3DP43x0vw2gpBpBUx.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.340	taj	{"id":"opitv.s.340","type":"series","name":"Taj","poster":"https://image.tmdb.org/t/p/w500/zcupWb5RUueIgKjY8E2iNGpf1l0.jpg","posterShape":"poster"}
+opitv.s.31	aspirants	{"id":"opitv.s.31","type":"series","name":"Aspirants","poster":"https://image.tmdb.org/t/p/w500/lG8wK40jH4EX6dbVFI1fzw2E96N.jpg","posterShape":"poster"}
+opitv.s.42	barbaroslar	{"id":"opitv.s.42","type":"series","name":"Barbaroslar","poster":"https://image.tmdb.org/t/p/w500/f4Ih65EVp6SQc8E89bQ7NbyGeei.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.74	breathe	{"id":"opitv.s.74","type":"series","name":"Breathe","poster":"https://image.tmdb.org/t/p/w500/3egL5CCxH7AejAlugzOeDWZXOvo.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.332	sunflower	{"id":"opitv.s.332","type":"series","name":"Sunflower","poster":"https://image.tmdb.org/t/p/w500/7uKsJlERPXjESD0YTjLPmeKlq1p.jpg","posterShape":"poster"}
+opitv.s.403	ultra violet & black scorpion	{"id":"opitv.s.403","type":"series","name":"Ultra Violet & Black Scorpion","poster":"https://image.tmdb.org/t/p/w500/2PP02hNCldaz4ubFUDwqwUP7WlQ.jpg","posterShape":"poster"}
+opitv.s.184	illegal - justice, out of order	{"id":"opitv.s.184","type":"series","name":"Illegal - Justice, Out of Order","poster":"https://image.tmdb.org/t/p/w500/nYtcBCQzSW1kcPY9D4l9z7PBum2.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.341	tanaav	{"id":"opitv.s.341","type":"series","name":"Tanaav","poster":"https://image.tmdb.org/t/p/w500/4KUdFm3J41uptF1r6ki53VppKW9.jpg","posterShape":"poster"}
+opitv.s.411	wicked city	{"id":"opitv.s.411","type":"series","name":"Wicked City","poster":"https://image.tmdb.org/t/p/w500/vfMPjMaxBA2kmSB6RLNKsa56CDO.jpg","posterShape":"poster"}
+opitv.s.62	black widows	{"id":"opitv.s.62","type":"series","name":"Black Widows","poster":"https://image.tmdb.org/t/p/w500/1TQHNaBVD9MD7T3o5cL7PA0wqLZ.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.123	destan	{"id":"opitv.s.123","type":"series","name":"Destan","poster":"https://image.tmdb.org/t/p/w500/ptrQFvg6sB0ouJXllVUczvm0RXw.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.43	bard of blood	{"id":"opitv.s.43","type":"series","name":"Bard of Blood","poster":"https://image.tmdb.org/t/p/w500/pF9OzRhelDK9D6l2O5KsiSm3LiZ.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.39	bambai meri jaan	{"id":"opitv.s.39","type":"series","name":"Bambai Meri Jaan","poster":"https://image.tmdb.org/t/p/w500/wgelpZG1TRW2AxvGyfYnnXAjz1M.jpg","posterShape":"poster"}
+opitv.s.36	baarish	{"id":"opitv.s.36","type":"series","name":"Baarish","poster":"https://image.tmdb.org/t/p/w500/gZzm4OdD0BWbyR2ZTqz1okXWpg1.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.358	the fabulous lives of bollywood wives	{"id":"opitv.s.358","type":"series","name":"The Fabulous Lives of Bollywood Wives","poster":"https://image.tmdb.org/t/p/w500/fHruG2RrrUxdtpRVmCP5JzsfcQ0.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.273	poacher	{"id":"opitv.s.273","type":"series","name":"Poacher","poster":"https://image.tmdb.org/t/p/w500/87k8iEsv7DvCMrJPtoGTxk6GOZr.jpg","posterShape":"poster"}
+opitv.s.28	apharan	{"id":"opitv.s.28","type":"series","name":"Apharan","poster":"https://image.tmdb.org/t/p/w500/18gAXh0FIepWN73Zvycoit0Cedm.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.347	the bad guy	{"id":"opitv.s.347","type":"series","name":"The Bad Guy","poster":"https://image.tmdb.org/t/p/w500/kmuWIy5MUY1rFp3C62BUl4pZ7HE.jpg","posterShape":"poster"}
+opitv.s.75	breathe: into the shadows	{"id":"opitv.s.75","type":"series","name":"Breathe: Into the Shadows","poster":"https://image.tmdb.org/t/p/w500/owTpRRYKO4VIuJWTKBSM1oCHF2T.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.224	lost ollie	{"id":"opitv.s.224","type":"series","name":"Lost Ollie","poster":"https://image.tmdb.org/t/p/w500/kwx40ip5Yq24faboIBu3BaICaJa.jpg","posterShape":"poster"}
+opitv.s.90	choona	{"id":"opitv.s.90","type":"series","name":"Choona","poster":"https://image.tmdb.org/t/p/w500/sndjLMuA00PVjxAqhEVPvE9b6rG.jpg","posterShape":"poster"}
+opitv.s.104	criminal justice: adhura sach	{"id":"opitv.s.104","type":"series","name":"Criminal Justice: Adhura Sach","poster":"https://image.tmdb.org/t/p/w500/skCHAsB0qIzG13UxV7TKyqTP8HP.jpg","posterShape":"poster"}
+opitv.s.359	the freelancer	{"id":"opitv.s.359","type":"series","name":"The Freelancer","poster":"https://image.tmdb.org/t/p/w500/jsGicZboSpbkygvqdfqfbEUSFU3.jpg","posterShape":"poster"}
+opitv.s.96	college romance	{"id":"opitv.s.96","type":"series","name":"College Romance","poster":"https://image.tmdb.org/t/p/w500/lCvYGef9G5aj3jeoLW79f79O5I4.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.135	dr. arora	{"id":"opitv.s.135","type":"series","name":"Dr. Arora","poster":"https://image.tmdb.org/t/p/w500/vX4Nu8CAH2JrPBvT4tzixSnWkvI.jpg","posterShape":"poster"}
+opitv.s.101	crackdown	{"id":"opitv.s.101","type":"series","name":"Crackdown","poster":"https://image.tmdb.org/t/p/w500/4hNxv7Epe7kZI7n1bQwurijWMXx.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.95	cold courage	{"id":"opitv.s.95","type":"series","name":"Cold Courage","poster":"https://image.tmdb.org/t/p/w500/4F54hdqsbPhPCO4x3sNwLgOa5fx.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.161	gordita chronicles	{"id":"opitv.s.161","type":"series","name":"Gordita Chronicles","poster":"https://image.tmdb.org/t/p/w500/ppJa0vyJDvPXmSBP1x6NTQuirzI.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.292	rudra: the edge of darkness	{"id":"opitv.s.292","type":"series","name":"Rudra: The Edge Of Darkness","poster":"https://image.tmdb.org/t/p/w500/5EP4jCFSf5eYONcslGnpxkTnvId.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.163	grahan	{"id":"opitv.s.163","type":"series","name":"Grahan","poster":"https://image.tmdb.org/t/p/w500/lw1WQw4kAE28k5e9Sx2RbcB4uR1.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.270	physics wallah	{"id":"opitv.s.270","type":"series","name":"Physics Wallah","poster":"https://image.tmdb.org/t/p/w500/vUfXFT9o0IrAyom5Jps0uhLaiBQ.jpg","posterShape":"poster"}
+opitv.s.364	the killing kind	{"id":"opitv.s.364","type":"series","name":"The Killing Kind","poster":"https://image.tmdb.org/t/p/w500/5imNWXMYXmBZBc34BqPE3lkoIl9.jpg","posterShape":"poster"}
+opitv.s.86	chacha vidhayak hain humare	{"id":"opitv.s.86","type":"series","name":"Chacha Vidhayak Hain Humare","poster":"https://image.tmdb.org/t/p/w500/thMrz42QAhKOvf7dZu64LVvSeS4.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.396	tom swift	{"id":"opitv.s.396","type":"series","name":"Tom Swift","poster":"https://image.tmdb.org/t/p/w500/g1gxOmj5EBNle208jCD0CLRJ7v9.jpg","posterShape":"poster"}
+opitv.s.114	dead places	{"id":"opitv.s.114","type":"series","name":"Dead Places","poster":"https://image.tmdb.org/t/p/w500/oL6vUA4UKfXCz3b25fljILYhyln.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.169	halala	{"id":"opitv.s.169","type":"series","name":"Halala","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.156	girls hostel	{"id":"opitv.s.156","type":"series","name":"Girls Hostel","poster":"https://image.tmdb.org/t/p/w500/yK8Xu5pV0KaUo9EwDBtXrZW6LW1.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.417	you don't know me	{"id":"opitv.s.417","type":"series","name":"You Don't Know Me","poster":"https://image.tmdb.org/t/p/w500/xgaMPHjbv1RqeVocoiC1y3quyeM.jpg","posterShape":"poster"}
+opitv.s.172	hasmukh	{"id":"opitv.s.172","type":"series","name":"Hasmukh","poster":"https://image.tmdb.org/t/p/w500/2ve4CyGri71mfo7Xgave0Z9AVTn.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.235	maternal	{"id":"opitv.s.235","type":"series","name":"Maternal","poster":"https://image.tmdb.org/t/p/w500/xgDWYA2Ghu8Ts3pVVSrGSUxbK8H.jpg","posterShape":"poster"}
+opitv.s.229	madame antoine: the love therapist	{"id":"opitv.s.229","type":"series","name":"Madame Antoine: The Love Therapist","poster":"https://image.tmdb.org/t/p/w500/rc5pUSQIY0dvwmh2cjrGj4Egpzy.jpg","posterShape":"poster","releaseInfo":"2016"}
+opitv.s.105	crushed	{"id":"opitv.s.105","type":"series","name":"Crushed","poster":"https://image.tmdb.org/t/p/w500/257TyvBArjQ19Yq60uZdi0SNBAW.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.99	copenhagen cowboy	{"id":"opitv.s.99","type":"series","name":"Copenhagen Cowboy","poster":"https://image.tmdb.org/t/p/w500/jspobwn8SDeDC00CTfWAv4fjZmb.jpg","posterShape":"poster"}
+opitv.s.254	noshtoneer	{"id":"opitv.s.254","type":"series","name":"Noshtoneer","poster":"https://image.tmdb.org/t/p/w500/wl4D5gnIlPtOnspV0iCBGHga5um.jpg","posterShape":"poster"}
+opitv.s.167	guns & gulaabs	{"id":"opitv.s.167","type":"series","name":"Guns & Gulaabs","poster":"https://image.tmdb.org/t/p/w500/a930ffjJxXROHZBrNUrvCu5vmtv.jpg","posterShape":"poster","releaseInfo":"2023"}
+opitv.s.155	ghoul	{"id":"opitv.s.155","type":"series","name":"GHOUL","poster":"https://image.tmdb.org/t/p/w500/r3cbfNl77zK7XhFMNpdbxy0B7gW.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.315	shiksha mandal	{"id":"opitv.s.315","type":"series","name":"Shiksha Mandal","poster":"https://image.tmdb.org/t/p/w500/rTZZnY2J6wVsZ1VdiO5VtxskX7E.jpg","posterShape":"poster"}
+opitv.s.206	karm yuddh	{"id":"opitv.s.206","type":"series","name":"Karm Yuddh","poster":"https://image.tmdb.org/t/p/w500/uRY2XGaKb2XFzT3x0sJgKcwQT9P.jpg","posterShape":"poster"}
+opitv.s.141	faadu	{"id":"opitv.s.141","type":"series","name":"Faadu","poster":"https://image.tmdb.org/t/p/w500/paHgWpq7qBz7H0zrfe9NaGRXuS1.jpg","posterShape":"poster"}
+opitv.s.197	kaala paani	{"id":"opitv.s.197","type":"series","name":"Kaala Paani","poster":"https://image.tmdb.org/t/p/w500/EQmoiwsUKbc1K6TDZlJKEJvZKW.jpg","posterShape":"poster"}
+opitv.s.385	the rising	{"id":"opitv.s.385","type":"series","name":"The Rising","poster":"https://image.tmdb.org/t/p/w500/pg1jhu8jtue4PQjUtkT4UUXf0XW.jpg","posterShape":"poster"}
+opitv.s.171	half love half arranged	{"id":"opitv.s.171","type":"series","name":"Half Love Half Arranged","poster":"https://image.tmdb.org/t/p/w500/t0mha2aBSDjIQp9iwFYAavLOPJw.jpg","posterShape":"poster"}
+opitv.s.198	kaali	{"id":"opitv.s.198","type":"series","name":"Kaali","poster":"https://image.tmdb.org/t/p/w500/uDVSYenWNhIFLfA49fjida5Hwf4.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.140	eken babu	{"id":"opitv.s.140","type":"series","name":"Eken Babu","poster":"https://image.tmdb.org/t/p/w500/8YMtqgIEDtk55vNqBEFSgsFgX1d.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.312	shehar lakhot	{"id":"opitv.s.312","type":"series","name":"Shehar Lakhot","poster":"https://image.tmdb.org/t/p/w500/eG61dNQUTJh6GnnUOPMo2LtvC07.jpg","posterShape":"poster"}
+opitv.s.1	15 days	{"id":"opitv.s.1","type":"series","name":"15 Days","poster":"https://image.tmdb.org/t/p/w500/4pwEfmOBExGWF6BnES0lpIvfIJp.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.89	chhatrasal	{"id":"opitv.s.89","type":"series","name":"Chhatrasal","poster":"https://image.tmdb.org/t/p/w500/dAWggrDsF3OInCqtCR01iCEsrvt.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.195	jhansi	{"id":"opitv.s.195","type":"series","name":"Jhansi","poster":"https://image.tmdb.org/t/p/w500/o03Hz79hxt0Agf99jKucaBLKuDj.jpg","posterShape":"poster"}
+opitv.s.330	sultan of delhi	{"id":"opitv.s.330","type":"series","name":"Sultan Of Delhi","poster":"https://image.tmdb.org/t/p/w500/51QQ0FIp7YoDGPYR6w0R94U1Wvq.jpg","posterShape":"poster"}
+opitv.s.338	taali	{"id":"opitv.s.338","type":"series","name":"Taali","poster":"https://image.tmdb.org/t/p/w500/ptiIIleoRqeFDUpfrQLMN6XZ9tW.jpg","posterShape":"poster"}
+opitv.s.117	deceit	{"id":"opitv.s.117","type":"series","name":"Deceit","poster":"https://image.tmdb.org/t/p/w500/peIkWRJNnufq5n8al7Ngzmk9ujZ.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.183	human	{"id":"opitv.s.183","type":"series","name":"Human","poster":"https://image.tmdb.org/t/p/w500/cGPDqrIzc1prI2LGCamSbv38ZVu.jpg","posterShape":"poster"}
+opitv.s.85	cat	{"id":"opitv.s.85","type":"series","name":"CAT","poster":"https://image.tmdb.org/t/p/w500/aY9lY9v0zab2hn5ZWeKzLBE6Kme.jpg","posterShape":"poster"}
+opitv.s.398	trial by fire	{"id":"opitv.s.398","type":"series","name":"Trial by Fire","poster":"https://image.tmdb.org/t/p/w500/rhxP4qaHvheSzM5iVIxSg9D6nU4.jpg","posterShape":"poster"}
+opitv.s.17	abar proloy	{"id":"opitv.s.17","type":"series","name":"Abar Proloy","poster":"https://image.tmdb.org/t/p/w500/duDumAnTIL9S9SPE37DPJS3isBb.jpg","posterShape":"poster"}
+opitv.s.176	helllo jee	{"id":"opitv.s.176","type":"series","name":"Helllo Jee","poster":"https://image.tmdb.org/t/p/w500/nLbxlSaLuHNd0AEfwWUGWC2KZtb.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.94	code m	{"id":"opitv.s.94","type":"series","name":"Code M","poster":"https://image.tmdb.org/t/p/w500/x1tG6iuR0sr9mvbTHDP2pVjwd38.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.324	special ops 1.5 the himmat story	{"id":"opitv.s.324","type":"series","name":"Special Ops 1.5 The Himmat Story","poster":"https://image.tmdb.org/t/p/w500/fcNqVNNOzxeEeZJ6kQJkzyG8Guu.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.327	srikanto	{"id":"opitv.s.327","type":"series","name":"Srikanto","poster":"https://image.tmdb.org/t/p/w500/4Cf78yRqOxGCS7wUkv9toFuhhy0.jpg","posterShape":"poster"}
+opitv.s.199	kaalkoot	{"id":"opitv.s.199","type":"series","name":"Kaalkoot","poster":"https://image.tmdb.org/t/p/w500/rG8fUZKvsBnWfcsCGsWhUSTY6os.jpg","posterShape":"poster"}
+opitv.s.14	aakhri sach	{"id":"opitv.s.14","type":"series","name":"Aakhri Sach","poster":"https://image.tmdb.org/t/p/w500/3IECENDEtwSkNS7QeTleI3FmEk4.jpg","posterShape":"poster"}
+opitv.s.218	leila	{"id":"opitv.s.218","type":"series","name":"Leila","poster":"https://image.tmdb.org/t/p/w500/fNp0B9slDgBWOcJJjyv7Bf2fPQI.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.236	matsya kaand	{"id":"opitv.s.236","type":"series","name":"Matsya Kaand","poster":"https://image.tmdb.org/t/p/w500/o1nj0vsKzltE9DzJBAfRmSSDYRr.jpg","posterShape":"poster"}
+opitv.s.27	angela black	{"id":"opitv.s.27","type":"series","name":"Angela Black","poster":"https://image.tmdb.org/t/p/w500/dJy3tQLVZWo7sfDj90HKKLfgy16.jpg","posterShape":"poster"}
+opitv.s.227	lsd - love, scandal and doctors	{"id":"opitv.s.227","type":"series","name":"LSD - Love, Scandal and Doctors","poster":"https://image.tmdb.org/t/p/w500/oQebRVOQIKFuRTZoz6SCrkbTHSh.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.47	bebaakee	{"id":"opitv.s.47","type":"series","name":"Bebaakee","poster":"https://image.tmdb.org/t/p/w500/60l8QzRV1asrTZl5f5vUIOmcmxu.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.15	aar ya paar	{"id":"opitv.s.15","type":"series","name":"Aar Ya Paar","poster":"https://image.tmdb.org/t/p/w500/3aXfIQZ7HoRMh8Zw0xRXOixE1BD.jpg","posterShape":"poster"}
+opitv.s.145	feels like ishq	{"id":"opitv.s.145","type":"series","name":"Feels Like Ishq","poster":"https://image.tmdb.org/t/p/w500/vdfvkaKqoMwOVlA0wHXFGmTwb7F.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.208	kathmandu connection	{"id":"opitv.s.208","type":"series","name":"Kathmandu Connection","poster":"https://image.tmdb.org/t/p/w500/9XrhO4W5efrkSWIxyE4QCPqMKNq.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.168	hai taubba	{"id":"opitv.s.168","type":"series","name":"Hai Taubba","poster":"https://image.tmdb.org/t/p/w500/gBUH47p7hSZPZ40Dn26JTLrE6V6.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.98	commando	{"id":"opitv.s.98","type":"series","name":"Commando","poster":"https://image.tmdb.org/t/p/w500/uZaSF1lZI3unFXpbL07mL5n9Oz1.jpg","posterShape":"poster"}
+opitv.s.210	killer soup	{"id":"opitv.s.210","type":"series","name":"Killer Soup","poster":"https://image.tmdb.org/t/p/w500/jm08lHmvZulDzxd5koPs8pf8Mir.jpg","posterShape":"poster"}
+opitv.s.216	laakhon mein ek	{"id":"opitv.s.216","type":"series","name":"Laakhon Mein Ek","poster":"https://image.tmdb.org/t/p/w500/1cmPvN63JCTIcRGx8SLlftmEXcx.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.280	queen sono	{"id":"opitv.s.280","type":"series","name":"Queen Sono","poster":"https://image.tmdb.org/t/p/w500/zCq56uFGe16RrrEl9D9lKjzdAnE.jpg","posterShape":"poster"}
+opitv.s.137	durgo rawhoshyo	{"id":"opitv.s.137","type":"series","name":"Durgo Rawhoshyo","poster":"https://image.tmdb.org/t/p/w500/7ZwJTsahIOxog6ibNFM4sM2cv70.jpg","posterShape":"poster"}
+opitv.s.2	1962: the war in the hills	{"id":"opitv.s.2","type":"series","name":"1962: The War In The Hills","poster":"https://image.tmdb.org/t/p/w500/ermzpCUci0yIZsXvpyrAWSyEJnn.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.112	dayaa	{"id":"opitv.s.112","type":"series","name":"Dayaa","poster":"https://image.tmdb.org/t/p/w500/3MbRfa8EyibVYriL6Wc1ck9eDwM.jpg","posterShape":"poster"}
+opitv.s.65	bodhon	{"id":"opitv.s.65","type":"series","name":"Bodhon","poster":"https://image.tmdb.org/t/p/w500/3BmEvxjf61VTyC0cWYCB0Ep6Zam.jpg","posterShape":"poster"}
+opitv.s.129	disney insider	{"id":"opitv.s.129","type":"series","name":"Disney Insider","poster":"https://image.tmdb.org/t/p/w500/nmwuV5rjXnzavILgWhJ4O3h3GQI.jpg","posterShape":"poster"}
+opitv.s.69	bombay begums	{"id":"opitv.s.69","type":"series","name":"Bombay Begums","poster":"https://image.tmdb.org/t/p/w500/v90D18LBN6oJgOrwlSoIG17e8X.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.194	jehanabad - of love & war	{"id":"opitv.s.194","type":"series","name":"Jehanabad - Of Love & War","poster":"https://image.tmdb.org/t/p/w500/5xRJjL8uGY3apu27AxyzF3Y83Sv.jpg","posterShape":"poster"}
+opitv.s.392	the whistleblower	{"id":"opitv.s.392","type":"series","name":"The Whistleblower","poster":"https://image.tmdb.org/t/p/w500/dt5sT5dwbcQKUgWm1g2BFyrXhFm.jpg","posterShape":"poster"}
+opitv.s.196	justice served	{"id":"opitv.s.196","type":"series","name":"Justice Served","poster":"https://image.tmdb.org/t/p/w500/gOXZns3CxiPh5DN6CxWEKtML3Yw.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.204	karagar	{"id":"opitv.s.204","type":"series","name":"Karagar","poster":"https://image.tmdb.org/t/p/w500/8tLoJ31NLwhlP5PjJItBCptRV4t.jpg","posterShape":"poster"}
+opitv.s.260	p.i. meena	{"id":"opitv.s.260","type":"series","name":"P.I. Meena","poster":"https://image.tmdb.org/t/p/w500/59tVNbN95XZXfSBbRdiDfgokKul.jpg","posterShape":"poster"}
+opitv.s.200	kafas	{"id":"opitv.s.200","type":"series","name":"Kafas","poster":"https://image.tmdb.org/t/p/w500/qCPPQw3HjXhcJoR0LpHA3Qe5ud4.jpg","posterShape":"poster"}
+opitv.s.377	the most hated man on the internet	{"id":"opitv.s.377","type":"series","name":"The Most Hated Man on the Internet","poster":"https://image.tmdb.org/t/p/w500/o7T8kAyPtH4wfr8ifNgQyRBWIWM.jpg","posterShape":"poster"}
+opitv.s.38	bad boy billionaires: india	{"id":"opitv.s.38","type":"series","name":"Bad Boy Billionaires: India","poster":"https://image.tmdb.org/t/p/w500/kJXXPtjsFQxuohh2GVX6jSG95GW.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.91	chutzpah	{"id":"opitv.s.91","type":"series","name":"Chutzpah","poster":"https://image.tmdb.org/t/p/w500/8jIVPrbplgTxdcLx9hX9tO8UpST.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.309	shaitan	{"id":"opitv.s.309","type":"series","name":"Shaitan","poster":"https://image.tmdb.org/t/p/w500/8Ucu1uqMGf8yV9J8bGq9f53EIyX.jpg","posterShape":"poster"}
+opitv.s.10	a simple murder	{"id":"opitv.s.10","type":"series","name":"A Simple Murder","poster":"https://image.tmdb.org/t/p/w500/q5iY44OPmoVeswiNuJDovOv6KO5.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.263	parnashavarir shaap	{"id":"opitv.s.263","type":"series","name":"Parnashavarir Shaap","poster":"https://image.tmdb.org/t/p/w500/cxp6Xb1COCBN8wpa20L94YOJ8PT.jpg","posterShape":"poster"}
+opitv.s.223	long slow exhale	{"id":"opitv.s.223","type":"series","name":"Long Slow Exhale","poster":"https://image.tmdb.org/t/p/w500/pgx2gfJJnuD2FllaSGbMhDXgUf.jpg","posterShape":"poster"}
+opitv.s.207	karmma calling	{"id":"opitv.s.207","type":"series","name":"Karmma Calling","poster":"https://image.tmdb.org/t/p/w500/p8QKjpqab0ln7ZHymuCXFfrhM1F.jpg","posterShape":"poster"}
+opitv.s.234	masoom	{"id":"opitv.s.234","type":"series","name":"Masoom","poster":"https://image.tmdb.org/t/p/w500/quSRmvSIVIgmACOUYPyo8dKG8p5.jpg","posterShape":"poster"}
+opitv.s.160	good bad girl	{"id":"opitv.s.160","type":"series","name":"Good Bad Girl","poster":"https://image.tmdb.org/t/p/w500/aSr88pA0EsnZbDtXdSmnC25eRHl.jpg","posterShape":"poster"}
+opitv.s.363	the jengaburu curse	{"id":"opitv.s.363","type":"series","name":"The Jengaburu Curse","poster":"https://image.tmdb.org/t/p/w500/iHgipGH41inYtE3codIhJ2Rw5aR.jpg","posterShape":"poster"}
+opitv.s.220	live telecast	{"id":"opitv.s.220","type":"series","name":"Live Telecast","poster":"https://image.tmdb.org/t/p/w500/6XHskcxfTk36li7DrJiVVeNylzt.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.222	lol - hasse toh phasse	{"id":"opitv.s.222","type":"series","name":"LOL - Hasse Toh Phasse","poster":"https://image.tmdb.org/t/p/w500/6ea1KBn9sRE037v7U50sOsBzTWK.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.111	dark 7 white	{"id":"opitv.s.111","type":"series","name":"Dark 7 White","poster":"https://image.tmdb.org/t/p/w500/2QjIPajMEexe5mVnUp8BdpTEEHt.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.6	9 hours	{"id":"opitv.s.6","type":"series","name":"9 Hours","poster":"https://image.tmdb.org/t/p/w500/4lqTfrlQWakAHbPbF5c84pl07Us.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.310	sharey showlo	{"id":"opitv.s.310","type":"series","name":"Sharey Showlo","poster":"https://image.tmdb.org/t/p/w500/keA0gGj78vdogdkqPZUQKTHrD3I.jpg","posterShape":"poster"}
+opitv.s.242	miya biwi aur murder	{"id":"opitv.s.242","type":"series","name":"Miya Biwi Aur Murder","poster":"https://image.tmdb.org/t/p/w500/9zm7VcfvyvKpCjFHIOgs9RmMxyE.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.253	myself allen swapan	{"id":"opitv.s.253","type":"series","name":"Myself Allen Swapan","poster":"https://image.tmdb.org/t/p/w500/3ew3uTW9qlzHHafyXDWLHoXoqyX.jpg","posterShape":"poster","releaseInfo":"2023"}
+opitv.s.13	aadha ishq	{"id":"opitv.s.13","type":"series","name":"Aadha Ishq","poster":"https://image.tmdb.org/t/p/w500/tIef4gLFkqoGidND3rp7ZKV6C2T.jpg","posterShape":"poster"}
+opitv.s.295	salt city	{"id":"opitv.s.295","type":"series","name":"Salt City","poster":"https://image.tmdb.org/t/p/w500/3HWbQeErvqDssrejqoUJjUaEK81.jpg","posterShape":"poster"}
+opitv.s.152	gangs of puri	{"id":"opitv.s.152","type":"series","name":"Gangs of Puri","poster":"https://image.tmdb.org/t/p/w500/sNmxZkpSYtahlgXiVlz61Mm3VVI.jpg","posterShape":"poster"}
+opitv.s.158	gobhir joler maach	{"id":"opitv.s.158","type":"series","name":"Gobhir Joler Maach","poster":"https://image.tmdb.org/t/p/w500/k0a1e4XQC0cUvrhluhP7Cl6bohM.jpg","posterShape":"poster"}
+opitv.s.316	shoorveer	{"id":"opitv.s.316","type":"series","name":"Shoorveer","poster":"https://image.tmdb.org/t/p/w500/trAAMkLOR86Iuxf1P0c3By7uinQ.jpg","posterShape":"poster"}
+opitv.s.103	crashh	{"id":"opitv.s.103","type":"series","name":"Crashh","poster":"https://image.tmdb.org/t/p/w500/6PVPjR5D0gz7yye2XuPg7vLOdbQ.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.102	crash course	{"id":"opitv.s.102","type":"series","name":"Crash Course","poster":"https://image.tmdb.org/t/p/w500/r1z8uvWlydoqkfBzVLD4JzIie6t.jpg","posterShape":"poster"}
+opitv.s.293	sabrina	{"id":"opitv.s.293","type":"series","name":"Sabrina","poster":"https://image.tmdb.org/t/p/w500/a5mYDt3NiyM1XazNUEf3hPCnO5i.jpg","posterShape":"poster"}
+opitv.s.33	athidhi	{"id":"opitv.s.33","type":"series","name":"Athidhi","poster":"https://image.tmdb.org/t/p/w500/sHeYZwXgvfSL5mHxkgPnD77uLRK.jpg","posterShape":"poster"}
+opitv.s.78	buker moddhye agun	{"id":"opitv.s.78","type":"series","name":"Buker Moddhye Agun","poster":"https://image.tmdb.org/t/p/w500/5nG9f3GvnEsiIH8CgWoIHWuYSBi.jpg","posterShape":"poster"}
+opitv.s.170	half ca	{"id":"opitv.s.170","type":"series","name":"Half CA","poster":"https://image.tmdb.org/t/p/w500/4ckzFeoUzaBYR23uv0f3C6BfeH5.jpg","posterShape":"poster"}
+opitv.s.144	feels like home	{"id":"opitv.s.144","type":"series","name":"Feels Like Home","poster":"https://image.tmdb.org/t/p/w500/8rHyY3LpXiEH6h8QefPXQnvlSNa.jpg","posterShape":"poster"}
+opitv.s.193	jeet ki zid	{"id":"opitv.s.193","type":"series","name":"Jeet Ki Zid","poster":"https://image.tmdb.org/t/p/w500/jmr0w0g2v7xHW14CexSAGIlSBuk.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.284	rajneeti	{"id":"opitv.s.284","type":"series","name":"Rajneeti","poster":"https://image.tmdb.org/t/p/w500/1q5wxHlxik2eesm9RQKoN2cg0vF.jpg","posterShape":"poster"}
+opitv.s.179	hostel days	{"id":"opitv.s.179","type":"series","name":"Hostel Days","poster":"https://image.tmdb.org/t/p/w500/pHzGdAVd5Vfc0vzG6KDYQByMZ9j.jpg","posterShape":"poster"}
+opitv.s.203	kamathipura	{"id":"opitv.s.203","type":"series","name":"Kamathipura","poster":"https://image.tmdb.org/t/p/w500/955muzpbQnd5557CY94fw3nmq09.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.322	soon comes night	{"id":"opitv.s.322","type":"series","name":"Soon Comes Night","poster":"https://image.tmdb.org/t/p/w500/uwbGQvuDD3YDybf1PQ1rMFt4uBw.jpg","posterShape":"poster"}
+opitv.s.238	minus one	{"id":"opitv.s.238","type":"series","name":"Minus One","poster":"https://image.tmdb.org/t/p/w500/7v895P1MKUws60uMRpTWkJYQ6sR.jpg","posterShape":"poster"}
+opitv.s.52	bhaag beanie bhaag	{"id":"opitv.s.52","type":"series","name":"Bhaag Beanie Bhaag","poster":"https://image.tmdb.org/t/p/w500/d89K18OBCQ1RYjJOrJJyJzbh9U.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.259	outlaw	{"id":"opitv.s.259","type":"series","name":"Outlaw","poster":"https://image.tmdb.org/t/p/w500/uNjlTmzqZ9x6ybav0BwnjNlPy9B.jpg","posterShape":"poster"}
+opitv.s.405	up65	{"id":"opitv.s.405","type":"series","name":"UP65","poster":"https://image.tmdb.org/t/p/w500/kL5LuzbZdvcCTfNIalcnjfqRAdK.jpg","posterShape":"poster"}
+opitv.s.256	odrisshyo	{"id":"opitv.s.256","type":"series","name":"Odrisshyo","poster":"https://image.tmdb.org/t/p/w500/6AsBPcwFhlFTw6rwWR0nPaB2l8W.jpg","posterShape":"poster"}
+opitv.s.241	mission huntdown	{"id":"opitv.s.241","type":"series","name":"Mission Huntdown","poster":"https://image.tmdb.org/t/p/w500/AvOQuvLgpX6H0dg6cOyaRYNuQY5.jpg","posterShape":"poster"}
+opitv.s.191	jamai 2.0	{"id":"opitv.s.191","type":"series","name":"Jamai 2.0","poster":"https://image.tmdb.org/t/p/w500/gZXUS35vcoofsQreEIxn2kbcgC4.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.56	bisaat - khel shatranj ka	{"id":"opitv.s.56","type":"series","name":"Bisaat - Khel Shatranj Ka","poster":"https://image.tmdb.org/t/p/w500/4kMgkWzzxOqP207sy8dUS58109V.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.213	kumudini bhavan	{"id":"opitv.s.213","type":"series","name":"Kumudini Bhavan","poster":"https://image.tmdb.org/t/p/w500/6gTMGcqLmvWCfOEadeRNqjcbG8q.jpg","posterShape":"poster"}
+opitv.s.186	indian predator: the butcher of delhi	{"id":"opitv.s.186","type":"series","name":"Indian Predator: The Butcher of Delhi","poster":"https://image.tmdb.org/t/p/w500/kC6CSCUQlb1MayCrtBqC1Rt0Ec7.jpg","posterShape":"poster"}
+opitv.s.314	shikarpur	{"id":"opitv.s.314","type":"series","name":"Shikarpur","poster":"https://image.tmdb.org/t/p/w500/qmTQCZxK6TAetG2IfYRqlcCKgFq.jpg","posterShape":"poster"}
+opitv.s.318	sin - whispers of guilt	{"id":"opitv.s.318","type":"series","name":"SIN - Whispers Of Guilt","poster":"https://image.tmdb.org/t/p/w500/kl3ddz2pgUfVxpWJb2jRfgMNy0t.jpg","posterShape":"poster"}
+opitv.s.136	dugdugi	{"id":"opitv.s.136","type":"series","name":"Dugdugi","poster":"https://image.tmdb.org/t/p/w500/2vu75xerUecTt3SMy8XOw53aq4z.jpg","posterShape":"poster"}
+opitv.s.53	bicchoo ka khel	{"id":"opitv.s.53","type":"series","name":"Bicchoo Ka Khel","poster":"https://image.tmdb.org/t/p/w500/pQanWsAkpvVZ4BRlFzXfQ7vZTHr.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.249	mr. kolketa	{"id":"opitv.s.249","type":"series","name":"Mr. Kolketa","poster":"https://image.tmdb.org/t/p/w500/3rRPXYIe7zdXefSan95zeh0Zm4X.jpg","posterShape":"poster"}
+opitv.s.134	dour	{"id":"opitv.s.134","type":"series","name":"Dour","poster":"https://image.tmdb.org/t/p/w500/qCbfu6iqFOXafaJmAZ8ihYWwe7e.jpg","posterShape":"poster"}
+opitv.s.345	the adventures of lleo	{"id":"opitv.s.345","type":"series","name":"The Adventures of LLeo","poster":"https://image.tmdb.org/t/p/w500/xWsEZLHkTGSI5kLi7Gr9jM0jjhT.jpg","posterShape":"poster"}
+opitv.s.299	sea of love	{"id":"opitv.s.299","type":"series","name":"Sea of Love","poster":"https://image.tmdb.org/t/p/w500/rpFUgmuMfMySh2A3DceENRLr3Na.jpg","posterShape":"poster"}
+opitv.s.331	summer job	{"id":"opitv.s.331","type":"series","name":"Summer Job","poster":"https://image.tmdb.org/t/p/w500/uCLh9dPz9dHKrtLs569lmeDwMq3.jpg","posterShape":"poster"}
+opitv.s.68	boli	{"id":"opitv.s.68","type":"series","name":"Boli","poster":"https://image.tmdb.org/t/p/w500/8XwRryZdpr1N8fpa76kSoWSiAps.jpg","posterShape":"poster"}
+opitv.s.178	homestay murders	{"id":"opitv.s.178","type":"series","name":"Homestay Murders","poster":"https://image.tmdb.org/t/p/w500/klbtszUQNIQyHv9m7YBxnySdRgm.jpg","posterShape":"poster"}
+opitv.s.225	love j action	{"id":"opitv.s.225","type":"series","name":"Love J Action","poster":"https://image.tmdb.org/t/p/w500/gXFBqDD8vpQVbVG2y7SQPmsYuks.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.226	love ka panga	{"id":"opitv.s.226","type":"series","name":"Love Ka Panga","poster":"https://image.tmdb.org/t/p/w500/fDhCUVCejRiersGMcbeIpN7yLoe.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.147	first class	{"id":"opitv.s.147","type":"series","name":"First Class","poster":"https://image.tmdb.org/t/p/w500/A9SnIZQflJcYTlJb52G0WhCsXco.jpg","posterShape":"poster"}
+opitv.s.40	bang baang	{"id":"opitv.s.40","type":"series","name":"Bang Baang","poster":"https://image.tmdb.org/t/p/w500/3NxZQKogeGU4ujR2HEhyEYeKGAM.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.275	preme pora baron	{"id":"opitv.s.275","type":"series","name":"Preme Pora Baron","poster":"https://image.tmdb.org/t/p/w500/8tymemLwJG3eTaB8DAVVfg1JwJq.jpg","posterShape":"poster"}
+opitv.s.190	ishq aaj kal	{"id":"opitv.s.190","type":"series","name":"Ishq Aaj Kal","poster":"https://image.tmdb.org/t/p/w500/rP5v24WDAyXKC42V0gJuI1bE8tE.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.132	doon kand	{"id":"opitv.s.132","type":"series","name":"Doon Kand","poster":"https://image.tmdb.org/t/p/w500/qETcL2kJKDPjtdNzFJAzTqMxJEx.jpg","posterShape":"poster"}
