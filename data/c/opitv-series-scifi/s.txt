@@ -1,0 +1,7 @@
+opitv.s.144	the boys	{"id":"opitv.s.144","type":"series","name":"The Boys","poster":"https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg","posterShape":"poster"}
+opitv.s.137	sweet home	{"id":"opitv.s.137","type":"series","name":"Sweet Home","poster":"https://image.tmdb.org/t/p/w500/owGb1SExjoEZWOvPx6hAVAi2B7D.jpg","posterShape":"poster"}
+opitv.s.147	the king: eternal monarch	{"id":"opitv.s.147","type":"series","name":"The King: Eternal Monarch","poster":"https://image.tmdb.org/t/p/w500/7SLlbkzOJb8v9wXVYIcqozx2hxe.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.139	taaza khabar	{"id":"opitv.s.139","type":"series","name":"Taaza Khabar","poster":"https://image.tmdb.org/t/p/w500/zRrF8oj20lhd2jU0Yj9dg4sP5z5.jpg","posterShape":"poster"}
+opitv.s.58	ghoul	{"id":"opitv.s.58","type":"series","name":"GHOUL","poster":"https://image.tmdb.org/t/p/w500/r3cbfNl77zK7XhFMNpdbxy0B7gW.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.96	leila	{"id":"opitv.s.96","type":"series","name":"Leila","poster":"https://image.tmdb.org/t/p/w500/fNp0B9slDgBWOcJJjyv7Bf2fPQI.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.116	parnashavarir shaap	{"id":"opitv.s.116","type":"series","name":"Parnashavarir Shaap","poster":"https://image.tmdb.org/t/p/w500/cxp6Xb1COCBN8wpa20L94YOJ8PT.jpg","posterShape":"poster"}

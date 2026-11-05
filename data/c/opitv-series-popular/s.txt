@@ -1,0 +1,154 @@
+opitv.s.27	campus beats	{"id":"opitv.s.27","type":"series","name":"Campus Beats","poster":"https://image.tmdb.org/t/p/w500/fQgRGizqI0IXvGggqqmiehimkEM.jpg","posterShape":"poster"}
+opitv.s.144	the boys	{"id":"opitv.s.144","type":"series","name":"The Boys","poster":"https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg","posterShape":"poster"}
+opitv.s.72	house of the dragon	{"id":"opitv.s.72","type":"series","name":"House of the Dragon","poster":"https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.133	squid game	{"id":"opitv.s.133","type":"series","name":"Squid Game","poster":"https://image.tmdb.org/t/p/w500/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.109	money heist	{"id":"opitv.s.109","type":"series","name":"Money Heist","poster":"https://image.tmdb.org/t/p/w500/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.137	sweet home	{"id":"opitv.s.137","type":"series","name":"Sweet Home","poster":"https://image.tmdb.org/t/p/w500/owGb1SExjoEZWOvPx6hAVAi2B7D.jpg","posterShape":"poster"}
+opitv.s.43	dead to me	{"id":"opitv.s.43","type":"series","name":"Dead to Me","poster":"https://image.tmdb.org/t/p/w500/mAj18PHeACxqcrEus4pD8pksRmB.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.106	mirzapur	{"id":"opitv.s.106","type":"series","name":"Mirzapur","poster":"https://image.tmdb.org/t/p/w500/p0qM8hhlMF5DuxHBzl2EZR6TehX.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.115	panchayat	{"id":"opitv.s.115","type":"series","name":"Panchayat","poster":"https://image.tmdb.org/t/p/w500/8ivTX5q2otqXvH815BcOhxVkTPW.jpg","posterShape":"poster"}
+opitv.s.131	special ops	{"id":"opitv.s.131","type":"series","name":"Special OPS","poster":"https://image.tmdb.org/t/p/w500/doqymbPdJNLpkkEOhvlRALidJGb.jpg","posterShape":"poster"}
+opitv.s.147	the king: eternal monarch	{"id":"opitv.s.147","type":"series","name":"The King: Eternal Monarch","poster":"https://image.tmdb.org/t/p/w500/7SLlbkzOJb8v9wXVYIcqozx2hxe.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.53	farzi	{"id":"opitv.s.53","type":"series","name":"Farzi","poster":"https://image.tmdb.org/t/p/w500/cTS86RwEBIDgCgUmjWQTSoPsK6p.jpg","posterShape":"poster"}
+opitv.s.121	sacred games	{"id":"opitv.s.121","type":"series","name":"Sacred Games","poster":"https://image.tmdb.org/t/p/w500/uEbNtFbK4At9WBDGap23lt1qO9n.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.57	gandii baat	{"id":"opitv.s.57","type":"series","name":"Gandii Baat","poster":"https://image.tmdb.org/t/p/w500/yF0qYnvZaEflyOlElUcGGLE5FaA.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.63	gullak	{"id":"opitv.s.63","type":"series","name":"Gullak","poster":"https://image.tmdb.org/t/p/w500/arn3mvRYSrEqO7vaKbH8QxM8EEK.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.45	dil hi toh hai	{"id":"opitv.s.45","type":"series","name":"Dil Hi Toh Hai","poster":"https://image.tmdb.org/t/p/w500/bJR1q8iyx9wva0H2LX443bd0y4f.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.142	taskaree: the smuggler's web	{"id":"opitv.s.142","type":"series","name":"Taskaree: The Smuggler's Web","poster":"https://image.tmdb.org/t/p/w500/25fKRXvQLBq4nXu9vjOVJcvCiiD.jpg","posterShape":"poster","releaseInfo":"2026"}
+opitv.s.93	kota factory	{"id":"opitv.s.93","type":"series","name":"Kota Factory","poster":"https://image.tmdb.org/t/p/w500/fMBookmwL6HjIgIVTjQ6EMr3pCH.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.16	betaal	{"id":"opitv.s.16","type":"series","name":"Betaal","poster":"https://image.tmdb.org/t/p/w500/mhHzaSZVrltLOwCSCeKC3nXGMV1.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.44	dev dd	{"id":"opitv.s.44","type":"series","name":"Dev DD","poster":"https://image.tmdb.org/t/p/w500/uUfvcAfk0AKd8eFbZXu0i4cRi8V.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.56	fixerr	{"id":"opitv.s.56","type":"series","name":"Fixerr","poster":"https://image.tmdb.org/t/p/w500/3f1ZzRisBOmmsHmyWgu5hPcc4Ks.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.77	inside edge	{"id":"opitv.s.77","type":"series","name":"Inside Edge","poster":"https://image.tmdb.org/t/p/w500/pfGyOXhabq3CrjSLx7LJjCrWTHy.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.3	a suitable boy	{"id":"opitv.s.3","type":"series","name":"A Suitable Boy","poster":"https://image.tmdb.org/t/p/w500/rS2osLCatyLuRsrwxfDLheaR3hG.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.148	the night manager	{"id":"opitv.s.148","type":"series","name":"The Night Manager","poster":"https://image.tmdb.org/t/p/w500/1anVoLwguecmFqsNx0Ic8cIzmuW.jpg","posterShape":"poster"}
+opitv.s.102	maamla legal hai	{"id":"opitv.s.102","type":"series","name":"Maamla Legal Hai","poster":"https://image.tmdb.org/t/p/w500/tDP5vC5wxSpHKx88RdyRpdaSo2u.jpg","posterShape":"poster"}
+opitv.s.11	asur	{"id":"opitv.s.11","type":"series","name":"Asur","poster":"https://image.tmdb.org/t/p/w500/aw8W6JCrE3zsQexfvsu4cDjb1ub.jpg","posterShape":"poster"}
+opitv.s.75	indian police force	{"id":"opitv.s.75","type":"series","name":"Indian Police Force","poster":"https://image.tmdb.org/t/p/w500/hEiUy3Du35ZmVeKgVQnDK6wgMAt.jpg","posterShape":"poster"}
+opitv.s.139	taaza khabar	{"id":"opitv.s.139","type":"series","name":"Taaza Khabar","poster":"https://image.tmdb.org/t/p/w500/zRrF8oj20lhd2jU0Yj9dg4sP5z5.jpg","posterShape":"poster"}
+opitv.s.7	aashram	{"id":"opitv.s.7","type":"series","name":"Aashram","poster":"https://image.tmdb.org/t/p/w500/5tK4hBaHXqEcz1iHRr0nCgaABPk.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.151	tribhuvan mishra ca topper	{"id":"opitv.s.151","type":"series","name":"Tribhuvan Mishra CA Topper","poster":"https://image.tmdb.org/t/p/w500/OELqaq5LTrsR8l8GsjrArbxN0a.jpg","posterShape":"poster","releaseInfo":"2024"}
+opitv.s.130	so not worth it	{"id":"opitv.s.130","type":"series","name":"So Not Worth It","poster":"https://image.tmdb.org/t/p/w500/wiByXTq5vaDppWnYCLt6fzDuu7x.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.80	jamtara – sabka number ayega	{"id":"opitv.s.80","type":"series","name":"Jamtara – Sabka Number Ayega","poster":"https://image.tmdb.org/t/p/w500/wqWsyazYqBceNMyRIg9q8HSJEcw.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.153	yeh kaali kaali ankhein	{"id":"opitv.s.153","type":"series","name":"Yeh Kaali Kaali Ankhein","poster":"https://image.tmdb.org/t/p/w500/cyHFgiRHBW3DP43x0vw2gpBpBUx.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.140	taj	{"id":"opitv.s.140","type":"series","name":"Taj","poster":"https://image.tmdb.org/t/p/w500/zcupWb5RUueIgKjY8E2iNGpf1l0.jpg","posterShape":"poster"}
+opitv.s.10	aspirants	{"id":"opitv.s.10","type":"series","name":"Aspirants","poster":"https://image.tmdb.org/t/p/w500/lG8wK40jH4EX6dbVFI1fzw2E96N.jpg","posterShape":"poster"}
+opitv.s.24	breathe	{"id":"opitv.s.24","type":"series","name":"Breathe","poster":"https://image.tmdb.org/t/p/w500/3egL5CCxH7AejAlugzOeDWZXOvo.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.136	sunflower	{"id":"opitv.s.136","type":"series","name":"Sunflower","poster":"https://image.tmdb.org/t/p/w500/7uKsJlERPXjESD0YTjLPmeKlq1p.jpg","posterShape":"poster"}
+opitv.s.74	illegal - justice, out of order	{"id":"opitv.s.74","type":"series","name":"Illegal - Justice, Out of Order","poster":"https://image.tmdb.org/t/p/w500/nYtcBCQzSW1kcPY9D4l9z7PBum2.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.141	tanaav	{"id":"opitv.s.141","type":"series","name":"Tanaav","poster":"https://image.tmdb.org/t/p/w500/4KUdFm3J41uptF1r6ki53VppKW9.jpg","posterShape":"poster"}
+opitv.s.20	black widows	{"id":"opitv.s.20","type":"series","name":"Black Widows","poster":"https://image.tmdb.org/t/p/w500/1TQHNaBVD9MD7T3o5cL7PA0wqLZ.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.13	bambai meri jaan	{"id":"opitv.s.13","type":"series","name":"Bambai Meri Jaan","poster":"https://image.tmdb.org/t/p/w500/wgelpZG1TRW2AxvGyfYnnXAjz1M.jpg","posterShape":"poster"}
+opitv.s.12	baarish	{"id":"opitv.s.12","type":"series","name":"Baarish","poster":"https://image.tmdb.org/t/p/w500/gZzm4OdD0BWbyR2ZTqz1okXWpg1.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.9	apharan	{"id":"opitv.s.9","type":"series","name":"Apharan","poster":"https://image.tmdb.org/t/p/w500/18gAXh0FIepWN73Zvycoit0Cedm.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.25	breathe: into the shadows	{"id":"opitv.s.25","type":"series","name":"Breathe: Into the Shadows","poster":"https://image.tmdb.org/t/p/w500/owTpRRYKO4VIuJWTKBSM1oCHF2T.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.31	choona	{"id":"opitv.s.31","type":"series","name":"Choona","poster":"https://image.tmdb.org/t/p/w500/sndjLMuA00PVjxAqhEVPvE9b6rG.jpg","posterShape":"poster"}
+opitv.s.39	criminal justice: adhura sach	{"id":"opitv.s.39","type":"series","name":"Criminal Justice: Adhura Sach","poster":"https://image.tmdb.org/t/p/w500/skCHAsB0qIzG13UxV7TKyqTP8HP.jpg","posterShape":"poster"}
+opitv.s.145	the freelancer	{"id":"opitv.s.145","type":"series","name":"The Freelancer","poster":"https://image.tmdb.org/t/p/w500/jsGicZboSpbkygvqdfqfbEUSFU3.jpg","posterShape":"poster"}
+opitv.s.34	college romance	{"id":"opitv.s.34","type":"series","name":"College Romance","poster":"https://image.tmdb.org/t/p/w500/lCvYGef9G5aj3jeoLW79f79O5I4.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.48	dr. arora	{"id":"opitv.s.48","type":"series","name":"Dr. Arora","poster":"https://image.tmdb.org/t/p/w500/vX4Nu8CAH2JrPBvT4tzixSnWkvI.jpg","posterShape":"poster"}
+opitv.s.36	crackdown	{"id":"opitv.s.36","type":"series","name":"Crackdown","poster":"https://image.tmdb.org/t/p/w500/4hNxv7Epe7kZI7n1bQwurijWMXx.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.119	rudra: the edge of darkness	{"id":"opitv.s.119","type":"series","name":"Rudra: The Edge Of Darkness","poster":"https://image.tmdb.org/t/p/w500/5EP4jCFSf5eYONcslGnpxkTnvId.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.62	grahan	{"id":"opitv.s.62","type":"series","name":"Grahan","poster":"https://image.tmdb.org/t/p/w500/lw1WQw4kAE28k5e9Sx2RbcB4uR1.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.117	physics wallah	{"id":"opitv.s.117","type":"series","name":"Physics Wallah","poster":"https://image.tmdb.org/t/p/w500/vUfXFT9o0IrAyom5Jps0uhLaiBQ.jpg","posterShape":"poster"}
+opitv.s.29	chacha vidhayak hain humare	{"id":"opitv.s.29","type":"series","name":"Chacha Vidhayak Hain Humare","poster":"https://image.tmdb.org/t/p/w500/thMrz42QAhKOvf7dZu64LVvSeS4.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.59	girls hostel	{"id":"opitv.s.59","type":"series","name":"Girls Hostel","poster":"https://image.tmdb.org/t/p/w500/yK8Xu5pV0KaUo9EwDBtXrZW6LW1.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.68	hasmukh	{"id":"opitv.s.68","type":"series","name":"Hasmukh","poster":"https://image.tmdb.org/t/p/w500/2ve4CyGri71mfo7Xgave0Z9AVTn.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.40	crushed	{"id":"opitv.s.40","type":"series","name":"Crushed","poster":"https://image.tmdb.org/t/p/w500/257TyvBArjQ19Yq60uZdi0SNBAW.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.112	noshtoneer	{"id":"opitv.s.112","type":"series","name":"Noshtoneer","poster":"https://image.tmdb.org/t/p/w500/wl4D5gnIlPtOnspV0iCBGHga5um.jpg","posterShape":"poster"}
+opitv.s.64	guns & gulaabs	{"id":"opitv.s.64","type":"series","name":"Guns & Gulaabs","poster":"https://image.tmdb.org/t/p/w500/a930ffjJxXROHZBrNUrvCu5vmtv.jpg","posterShape":"poster","releaseInfo":"2023"}
+opitv.s.58	ghoul	{"id":"opitv.s.58","type":"series","name":"GHOUL","poster":"https://image.tmdb.org/t/p/w500/r3cbfNl77zK7XhFMNpdbxy0B7gW.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.127	shiksha mandal	{"id":"opitv.s.127","type":"series","name":"Shiksha Mandal","poster":"https://image.tmdb.org/t/p/w500/rTZZnY2J6wVsZ1VdiO5VtxskX7E.jpg","posterShape":"poster"}
+opitv.s.89	karm yuddh	{"id":"opitv.s.89","type":"series","name":"Karm Yuddh","poster":"https://image.tmdb.org/t/p/w500/uRY2XGaKb2XFzT3x0sJgKcwQT9P.jpg","posterShape":"poster"}
+opitv.s.52	faadu	{"id":"opitv.s.52","type":"series","name":"Faadu","poster":"https://image.tmdb.org/t/p/w500/paHgWpq7qBz7H0zrfe9NaGRXuS1.jpg","posterShape":"poster"}
+opitv.s.83	kaala paani	{"id":"opitv.s.83","type":"series","name":"Kaala Paani","poster":"https://image.tmdb.org/t/p/w500/EQmoiwsUKbc1K6TDZlJKEJvZKW.jpg","posterShape":"poster"}
+opitv.s.67	half love half arranged	{"id":"opitv.s.67","type":"series","name":"Half Love Half Arranged","poster":"https://image.tmdb.org/t/p/w500/t0mha2aBSDjIQp9iwFYAavLOPJw.jpg","posterShape":"poster"}
+opitv.s.84	kaali	{"id":"opitv.s.84","type":"series","name":"Kaali","poster":"https://image.tmdb.org/t/p/w500/uDVSYenWNhIFLfA49fjida5Hwf4.jpg","posterShape":"poster","releaseInfo":"2018"}
+opitv.s.51	eken babu	{"id":"opitv.s.51","type":"series","name":"Eken Babu","poster":"https://image.tmdb.org/t/p/w500/8YMtqgIEDtk55vNqBEFSgsFgX1d.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.125	shehar lakhot	{"id":"opitv.s.125","type":"series","name":"Shehar Lakhot","poster":"https://image.tmdb.org/t/p/w500/eG61dNQUTJh6GnnUOPMo2LtvC07.jpg","posterShape":"poster"}
+opitv.s.30	chhatrasal	{"id":"opitv.s.30","type":"series","name":"Chhatrasal","poster":"https://image.tmdb.org/t/p/w500/dAWggrDsF3OInCqtCR01iCEsrvt.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.135	sultan of delhi	{"id":"opitv.s.135","type":"series","name":"Sultan Of Delhi","poster":"https://image.tmdb.org/t/p/w500/51QQ0FIp7YoDGPYR6w0R94U1Wvq.jpg","posterShape":"poster"}
+opitv.s.138	taali	{"id":"opitv.s.138","type":"series","name":"Taali","poster":"https://image.tmdb.org/t/p/w500/ptiIIleoRqeFDUpfrQLMN6XZ9tW.jpg","posterShape":"poster"}
+opitv.s.73	human	{"id":"opitv.s.73","type":"series","name":"Human","poster":"https://image.tmdb.org/t/p/w500/cGPDqrIzc1prI2LGCamSbv38ZVu.jpg","posterShape":"poster"}
+opitv.s.28	cat	{"id":"opitv.s.28","type":"series","name":"CAT","poster":"https://image.tmdb.org/t/p/w500/aY9lY9v0zab2hn5ZWeKzLBE6Kme.jpg","posterShape":"poster"}
+opitv.s.150	trial by fire	{"id":"opitv.s.150","type":"series","name":"Trial by Fire","poster":"https://image.tmdb.org/t/p/w500/rhxP4qaHvheSzM5iVIxSg9D6nU4.jpg","posterShape":"poster"}
+opitv.s.8	abar proloy	{"id":"opitv.s.8","type":"series","name":"Abar Proloy","poster":"https://image.tmdb.org/t/p/w500/duDumAnTIL9S9SPE37DPJS3isBb.jpg","posterShape":"poster"}
+opitv.s.69	helllo jee	{"id":"opitv.s.69","type":"series","name":"Helllo Jee","poster":"https://image.tmdb.org/t/p/w500/nLbxlSaLuHNd0AEfwWUGWC2KZtb.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.33	code m	{"id":"opitv.s.33","type":"series","name":"Code M","poster":"https://image.tmdb.org/t/p/w500/x1tG6iuR0sr9mvbTHDP2pVjwd38.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.132	special ops 1.5 the himmat story	{"id":"opitv.s.132","type":"series","name":"Special Ops 1.5 The Himmat Story","poster":"https://image.tmdb.org/t/p/w500/fcNqVNNOzxeEeZJ6kQJkzyG8Guu.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.134	srikanto	{"id":"opitv.s.134","type":"series","name":"Srikanto","poster":"https://image.tmdb.org/t/p/w500/4Cf78yRqOxGCS7wUkv9toFuhhy0.jpg","posterShape":"poster"}
+opitv.s.85	kaalkoot	{"id":"opitv.s.85","type":"series","name":"Kaalkoot","poster":"https://image.tmdb.org/t/p/w500/rG8fUZKvsBnWfcsCGsWhUSTY6os.jpg","posterShape":"poster"}
+opitv.s.5	aakhri sach	{"id":"opitv.s.5","type":"series","name":"Aakhri Sach","poster":"https://image.tmdb.org/t/p/w500/3IECENDEtwSkNS7QeTleI3FmEk4.jpg","posterShape":"poster"}
+opitv.s.96	leila	{"id":"opitv.s.96","type":"series","name":"Leila","poster":"https://image.tmdb.org/t/p/w500/fNp0B9slDgBWOcJJjyv7Bf2fPQI.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.104	matsya kaand	{"id":"opitv.s.104","type":"series","name":"Matsya Kaand","poster":"https://image.tmdb.org/t/p/w500/o1nj0vsKzltE9DzJBAfRmSSDYRr.jpg","posterShape":"poster"}
+opitv.s.101	lsd - love, scandal and doctors	{"id":"opitv.s.101","type":"series","name":"LSD - Love, Scandal and Doctors","poster":"https://image.tmdb.org/t/p/w500/oQebRVOQIKFuRTZoz6SCrkbTHSh.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.15	bebaakee	{"id":"opitv.s.15","type":"series","name":"Bebaakee","poster":"https://image.tmdb.org/t/p/w500/60l8QzRV1asrTZl5f5vUIOmcmxu.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.6	aar ya paar	{"id":"opitv.s.6","type":"series","name":"Aar Ya Paar","poster":"https://image.tmdb.org/t/p/w500/3aXfIQZ7HoRMh8Zw0xRXOixE1BD.jpg","posterShape":"poster"}
+opitv.s.55	feels like ishq	{"id":"opitv.s.55","type":"series","name":"Feels Like Ishq","poster":"https://image.tmdb.org/t/p/w500/vdfvkaKqoMwOVlA0wHXFGmTwb7F.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.91	kathmandu connection	{"id":"opitv.s.91","type":"series","name":"Kathmandu Connection","poster":"https://image.tmdb.org/t/p/w500/9XrhO4W5efrkSWIxyE4QCPqMKNq.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.65	hai taubba	{"id":"opitv.s.65","type":"series","name":"Hai Taubba","poster":"https://image.tmdb.org/t/p/w500/gBUH47p7hSZPZ40Dn26JTLrE6V6.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.35	commando	{"id":"opitv.s.35","type":"series","name":"Commando","poster":"https://image.tmdb.org/t/p/w500/uZaSF1lZI3unFXpbL07mL5n9Oz1.jpg","posterShape":"poster"}
+opitv.s.92	killer soup	{"id":"opitv.s.92","type":"series","name":"Killer Soup","poster":"https://image.tmdb.org/t/p/w500/jm08lHmvZulDzxd5koPs8pf8Mir.jpg","posterShape":"poster"}
+opitv.s.95	laakhon mein ek	{"id":"opitv.s.95","type":"series","name":"Laakhon Mein Ek","poster":"https://image.tmdb.org/t/p/w500/1cmPvN63JCTIcRGx8SLlftmEXcx.jpg","posterShape":"poster","releaseInfo":"2017"}
+opitv.s.50	durgo rawhoshyo	{"id":"opitv.s.50","type":"series","name":"Durgo Rawhoshyo","poster":"https://image.tmdb.org/t/p/w500/7ZwJTsahIOxog6ibNFM4sM2cv70.jpg","posterShape":"poster"}
+opitv.s.0	1962: the war in the hills	{"id":"opitv.s.0","type":"series","name":"1962: The War In The Hills","poster":"https://image.tmdb.org/t/p/w500/ermzpCUci0yIZsXvpyrAWSyEJnn.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.42	dayaa	{"id":"opitv.s.42","type":"series","name":"Dayaa","poster":"https://image.tmdb.org/t/p/w500/3MbRfa8EyibVYriL6Wc1ck9eDwM.jpg","posterShape":"poster"}
+opitv.s.21	bodhon	{"id":"opitv.s.21","type":"series","name":"Bodhon","poster":"https://image.tmdb.org/t/p/w500/3BmEvxjf61VTyC0cWYCB0Ep6Zam.jpg","posterShape":"poster"}
+opitv.s.23	bombay begums	{"id":"opitv.s.23","type":"series","name":"Bombay Begums","poster":"https://image.tmdb.org/t/p/w500/v90D18LBN6oJgOrwlSoIG17e8X.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.82	jehanabad - of love & war	{"id":"opitv.s.82","type":"series","name":"Jehanabad - Of Love & War","poster":"https://image.tmdb.org/t/p/w500/5xRJjL8uGY3apu27AxyzF3Y83Sv.jpg","posterShape":"poster"}
+opitv.s.149	the whistleblower	{"id":"opitv.s.149","type":"series","name":"The Whistleblower","poster":"https://image.tmdb.org/t/p/w500/dt5sT5dwbcQKUgWm1g2BFyrXhFm.jpg","posterShape":"poster"}
+opitv.s.88	karagar	{"id":"opitv.s.88","type":"series","name":"Karagar","poster":"https://image.tmdb.org/t/p/w500/8tLoJ31NLwhlP5PjJItBCptRV4t.jpg","posterShape":"poster"}
+opitv.s.114	p.i. meena	{"id":"opitv.s.114","type":"series","name":"P.I. Meena","poster":"https://image.tmdb.org/t/p/w500/59tVNbN95XZXfSBbRdiDfgokKul.jpg","posterShape":"poster"}
+opitv.s.86	kafas	{"id":"opitv.s.86","type":"series","name":"Kafas","poster":"https://image.tmdb.org/t/p/w500/qCPPQw3HjXhcJoR0LpHA3Qe5ud4.jpg","posterShape":"poster"}
+opitv.s.32	chutzpah	{"id":"opitv.s.32","type":"series","name":"Chutzpah","poster":"https://image.tmdb.org/t/p/w500/8jIVPrbplgTxdcLx9hX9tO8UpST.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.123	shaitan	{"id":"opitv.s.123","type":"series","name":"Shaitan","poster":"https://image.tmdb.org/t/p/w500/8Ucu1uqMGf8yV9J8bGq9f53EIyX.jpg","posterShape":"poster"}
+opitv.s.2	a simple murder	{"id":"opitv.s.2","type":"series","name":"A Simple Murder","poster":"https://image.tmdb.org/t/p/w500/q5iY44OPmoVeswiNuJDovOv6KO5.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.116	parnashavarir shaap	{"id":"opitv.s.116","type":"series","name":"Parnashavarir Shaap","poster":"https://image.tmdb.org/t/p/w500/cxp6Xb1COCBN8wpa20L94YOJ8PT.jpg","posterShape":"poster"}
+opitv.s.90	karmma calling	{"id":"opitv.s.90","type":"series","name":"Karmma Calling","poster":"https://image.tmdb.org/t/p/w500/p8QKjpqab0ln7ZHymuCXFfrhM1F.jpg","posterShape":"poster"}
+opitv.s.103	masoom	{"id":"opitv.s.103","type":"series","name":"Masoom","poster":"https://image.tmdb.org/t/p/w500/quSRmvSIVIgmACOUYPyo8dKG8p5.jpg","posterShape":"poster"}
+opitv.s.61	good bad girl	{"id":"opitv.s.61","type":"series","name":"Good Bad Girl","poster":"https://image.tmdb.org/t/p/w500/aSr88pA0EsnZbDtXdSmnC25eRHl.jpg","posterShape":"poster"}
+opitv.s.146	the jengaburu curse	{"id":"opitv.s.146","type":"series","name":"The Jengaburu Curse","poster":"https://image.tmdb.org/t/p/w500/iHgipGH41inYtE3codIhJ2Rw5aR.jpg","posterShape":"poster"}
+opitv.s.97	live telecast	{"id":"opitv.s.97","type":"series","name":"Live Telecast","poster":"https://image.tmdb.org/t/p/w500/6XHskcxfTk36li7DrJiVVeNylzt.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.98	lol - hasse toh phasse	{"id":"opitv.s.98","type":"series","name":"LOL - Hasse Toh Phasse","poster":"https://image.tmdb.org/t/p/w500/6ea1KBn9sRE037v7U50sOsBzTWK.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.41	dark 7 white	{"id":"opitv.s.41","type":"series","name":"Dark 7 White","poster":"https://image.tmdb.org/t/p/w500/2QjIPajMEexe5mVnUp8BdpTEEHt.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.1	9 hours	{"id":"opitv.s.1","type":"series","name":"9 Hours","poster":"https://image.tmdb.org/t/p/w500/4lqTfrlQWakAHbPbF5c84pl07Us.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.124	sharey showlo	{"id":"opitv.s.124","type":"series","name":"Sharey Showlo","poster":"https://image.tmdb.org/t/p/w500/keA0gGj78vdogdkqPZUQKTHrD3I.jpg","posterShape":"poster"}
+opitv.s.108	miya biwi aur murder	{"id":"opitv.s.108","type":"series","name":"Miya Biwi Aur Murder","poster":"https://image.tmdb.org/t/p/w500/9zm7VcfvyvKpCjFHIOgs9RmMxyE.jpg","posterShape":"poster","releaseInfo":"2022"}
+opitv.s.111	myself allen swapan	{"id":"opitv.s.111","type":"series","name":"Myself Allen Swapan","poster":"https://image.tmdb.org/t/p/w500/3ew3uTW9qlzHHafyXDWLHoXoqyX.jpg","posterShape":"poster","releaseInfo":"2023"}
+opitv.s.4	aadha ishq	{"id":"opitv.s.4","type":"series","name":"Aadha Ishq","poster":"https://image.tmdb.org/t/p/w500/tIef4gLFkqoGidND3rp7ZKV6C2T.jpg","posterShape":"poster"}
+opitv.s.122	salt city	{"id":"opitv.s.122","type":"series","name":"Salt City","poster":"https://image.tmdb.org/t/p/w500/3HWbQeErvqDssrejqoUJjUaEK81.jpg","posterShape":"poster"}
+opitv.s.60	gobhir joler maach	{"id":"opitv.s.60","type":"series","name":"Gobhir Joler Maach","poster":"https://image.tmdb.org/t/p/w500/k0a1e4XQC0cUvrhluhP7Cl6bohM.jpg","posterShape":"poster"}
+opitv.s.128	shoorveer	{"id":"opitv.s.128","type":"series","name":"Shoorveer","poster":"https://image.tmdb.org/t/p/w500/trAAMkLOR86Iuxf1P0c3By7uinQ.jpg","posterShape":"poster"}
+opitv.s.38	crashh	{"id":"opitv.s.38","type":"series","name":"Crashh","poster":"https://image.tmdb.org/t/p/w500/6PVPjR5D0gz7yye2XuPg7vLOdbQ.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.37	crash course	{"id":"opitv.s.37","type":"series","name":"Crash Course","poster":"https://image.tmdb.org/t/p/w500/r1z8uvWlydoqkfBzVLD4JzIie6t.jpg","posterShape":"poster"}
+opitv.s.120	sabrina	{"id":"opitv.s.120","type":"series","name":"Sabrina","poster":"https://image.tmdb.org/t/p/w500/a5mYDt3NiyM1XazNUEf3hPCnO5i.jpg","posterShape":"poster"}
+opitv.s.26	buker moddhye agun	{"id":"opitv.s.26","type":"series","name":"Buker Moddhye Agun","poster":"https://image.tmdb.org/t/p/w500/5nG9f3GvnEsiIH8CgWoIHWuYSBi.jpg","posterShape":"poster"}
+opitv.s.66	half ca	{"id":"opitv.s.66","type":"series","name":"Half CA","poster":"https://image.tmdb.org/t/p/w500/4ckzFeoUzaBYR23uv0f3C6BfeH5.jpg","posterShape":"poster"}
+opitv.s.54	feels like home	{"id":"opitv.s.54","type":"series","name":"Feels Like Home","poster":"https://image.tmdb.org/t/p/w500/8rHyY3LpXiEH6h8QefPXQnvlSNa.jpg","posterShape":"poster"}
+opitv.s.81	jeet ki zid	{"id":"opitv.s.81","type":"series","name":"Jeet Ki Zid","poster":"https://image.tmdb.org/t/p/w500/jmr0w0g2v7xHW14CexSAGIlSBuk.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.118	rajneeti	{"id":"opitv.s.118","type":"series","name":"Rajneeti","poster":"https://image.tmdb.org/t/p/w500/1q5wxHlxik2eesm9RQKoN2cg0vF.jpg","posterShape":"poster"}
+opitv.s.71	hostel days	{"id":"opitv.s.71","type":"series","name":"Hostel Days","poster":"https://image.tmdb.org/t/p/w500/pHzGdAVd5Vfc0vzG6KDYQByMZ9j.jpg","posterShape":"poster"}
+opitv.s.87	kamathipura	{"id":"opitv.s.87","type":"series","name":"Kamathipura","poster":"https://image.tmdb.org/t/p/w500/955muzpbQnd5557CY94fw3nmq09.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.105	minus one	{"id":"opitv.s.105","type":"series","name":"Minus One","poster":"https://image.tmdb.org/t/p/w500/7v895P1MKUws60uMRpTWkJYQ6sR.jpg","posterShape":"poster"}
+opitv.s.17	bhaag beanie bhaag	{"id":"opitv.s.17","type":"series","name":"Bhaag Beanie Bhaag","poster":"https://image.tmdb.org/t/p/w500/d89K18OBCQ1RYjJOrJJyJzbh9U.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.152	up65	{"id":"opitv.s.152","type":"series","name":"UP65","poster":"https://image.tmdb.org/t/p/w500/kL5LuzbZdvcCTfNIalcnjfqRAdK.jpg","posterShape":"poster"}
+opitv.s.113	odrisshyo	{"id":"opitv.s.113","type":"series","name":"Odrisshyo","poster":"https://image.tmdb.org/t/p/w500/6AsBPcwFhlFTw6rwWR0nPaB2l8W.jpg","posterShape":"poster"}
+opitv.s.107	mission huntdown	{"id":"opitv.s.107","type":"series","name":"Mission Huntdown","poster":"https://image.tmdb.org/t/p/w500/AvOQuvLgpX6H0dg6cOyaRYNuQY5.jpg","posterShape":"poster"}
+opitv.s.79	jamai 2.0	{"id":"opitv.s.79","type":"series","name":"Jamai 2.0","poster":"https://image.tmdb.org/t/p/w500/gZXUS35vcoofsQreEIxn2kbcgC4.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.19	bisaat - khel shatranj ka	{"id":"opitv.s.19","type":"series","name":"Bisaat - Khel Shatranj Ka","poster":"https://image.tmdb.org/t/p/w500/4kMgkWzzxOqP207sy8dUS58109V.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.94	kumudini bhavan	{"id":"opitv.s.94","type":"series","name":"Kumudini Bhavan","poster":"https://image.tmdb.org/t/p/w500/6gTMGcqLmvWCfOEadeRNqjcbG8q.jpg","posterShape":"poster"}
+opitv.s.76	indian predator: the butcher of delhi	{"id":"opitv.s.76","type":"series","name":"Indian Predator: The Butcher of Delhi","poster":"https://image.tmdb.org/t/p/w500/kC6CSCUQlb1MayCrtBqC1Rt0Ec7.jpg","posterShape":"poster"}
+opitv.s.126	shikarpur	{"id":"opitv.s.126","type":"series","name":"Shikarpur","poster":"https://image.tmdb.org/t/p/w500/qmTQCZxK6TAetG2IfYRqlcCKgFq.jpg","posterShape":"poster"}
+opitv.s.129	sin - whispers of guilt	{"id":"opitv.s.129","type":"series","name":"SIN - Whispers Of Guilt","poster":"https://image.tmdb.org/t/p/w500/kl3ddz2pgUfVxpWJb2jRfgMNy0t.jpg","posterShape":"poster"}
+opitv.s.49	dugdugi	{"id":"opitv.s.49","type":"series","name":"Dugdugi","poster":"https://image.tmdb.org/t/p/w500/2vu75xerUecTt3SMy8XOw53aq4z.jpg","posterShape":"poster"}
+opitv.s.18	bicchoo ka khel	{"id":"opitv.s.18","type":"series","name":"Bicchoo Ka Khel","poster":"https://image.tmdb.org/t/p/w500/pQanWsAkpvVZ4BRlFzXfQ7vZTHr.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.110	mr. kolketa	{"id":"opitv.s.110","type":"series","name":"Mr. Kolketa","poster":"https://image.tmdb.org/t/p/w500/3rRPXYIe7zdXefSan95zeh0Zm4X.jpg","posterShape":"poster"}
+opitv.s.47	dour	{"id":"opitv.s.47","type":"series","name":"Dour","poster":"https://image.tmdb.org/t/p/w500/qCbfu6iqFOXafaJmAZ8ihYWwe7e.jpg","posterShape":"poster"}
+opitv.s.143	the adventures of lleo	{"id":"opitv.s.143","type":"series","name":"The Adventures of LLeo","poster":"https://image.tmdb.org/t/p/w500/xWsEZLHkTGSI5kLi7Gr9jM0jjhT.jpg","posterShape":"poster"}
+opitv.s.22	boli	{"id":"opitv.s.22","type":"series","name":"Boli","poster":"https://image.tmdb.org/t/p/w500/8XwRryZdpr1N8fpa76kSoWSiAps.jpg","posterShape":"poster"}
+opitv.s.70	homestay murders	{"id":"opitv.s.70","type":"series","name":"Homestay Murders","poster":"https://image.tmdb.org/t/p/w500/klbtszUQNIQyHv9m7YBxnySdRgm.jpg","posterShape":"poster"}
+opitv.s.99	love j action	{"id":"opitv.s.99","type":"series","name":"Love J Action","poster":"https://image.tmdb.org/t/p/w500/gXFBqDD8vpQVbVG2y7SQPmsYuks.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.100	love ka panga	{"id":"opitv.s.100","type":"series","name":"Love Ka Panga","poster":"https://image.tmdb.org/t/p/w500/fDhCUVCejRiersGMcbeIpN7yLoe.jpg","posterShape":"poster","releaseInfo":"2020"}
+opitv.s.14	bang baang	{"id":"opitv.s.14","type":"series","name":"Bang Baang","poster":"https://image.tmdb.org/t/p/w500/3NxZQKogeGU4ujR2HEhyEYeKGAM.jpg","posterShape":"poster","releaseInfo":"2021"}
+opitv.s.78	ishq aaj kal	{"id":"opitv.s.78","type":"series","name":"Ishq Aaj Kal","poster":"https://image.tmdb.org/t/p/w500/rP5v24WDAyXKC42V0gJuI1bE8tE.jpg","posterShape":"poster","releaseInfo":"2019"}
+opitv.s.46	doon kand	{"id":"opitv.s.46","type":"series","name":"Doon Kand","poster":"https://image.tmdb.org/t/p/w500/qETcL2kJKDPjtdNzFJAzTqMxJEx.jpg","posterShape":"poster"}
